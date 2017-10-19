@@ -1,0 +1,26 @@
+<root>
+    <item name='ch.qos.logback.core.net.server.AbstractServerSocketAppender ch.qos.logback.core.net.server.ServerRunner&lt;ch.qos.logback.core.net.server.RemoteReceiverClient&gt; createServerRunner(ch.qos.logback.core.net.server.ServerListener&lt;ch.qos.logback.core.net.server.RemoteReceiverClient&gt;, java.util.concurrent.Executor)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.net.server.AbstractServerSocketAppender ch.qos.logback.core.net.server.ServerListener&lt;ch.qos.logback.core.net.server.RemoteReceiverClient&gt; createServerListener(java.net.ServerSocket)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.net.server.ClientVisitor void visit(T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='ch.qos.logback.core.net.server.ConcurrentServerRunner boolean configureClient(T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='ch.qos.logback.core.net.server.ServerSocketListener T createClient(java.lang.String, java.net.Socket)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+</root>

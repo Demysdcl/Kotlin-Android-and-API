@@ -1,0 +1,8 @@
+<root>
+    <item name='ch.qos.logback.classic.helpers.MDCInsertingServletFilter void doFilter(javax.servlet.ServletRequest, javax.servlet.ServletResponse, javax.servlet.FilterChain) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.helpers.MDCInsertingServletFilter void doFilter(javax.servlet.ServletRequest, javax.servlet.ServletResponse, javax.servlet.FilterChain) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

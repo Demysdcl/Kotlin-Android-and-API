@@ -1,0 +1,65 @@
+<root>
+    <item name='net.minidev.asm.ASMUtil void autoUnBoxing1(org.objectweb.asm.MethodVisitor, org.objectweb.asm.Type) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='net.minidev.asm.ASMUtil java.lang.String getGetterName(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='net.minidev.asm.ASMUtil java.lang.String getIsName(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='net.minidev.asm.ASMUtil void autoUnBoxing1(org.objectweb.asm.MethodVisitor, org.objectweb.asm.Type) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='net.minidev.asm.ASMUtil org.objectweb.asm.Label[] newLabels(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='net.minidev.asm.ASMUtil java.lang.String getGetterName(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='net.minidev.asm.BeansAccess net.minidev.asm.BeansAccess&lt;P&gt; get(java.lang.Class&lt;P&gt;, net.minidev.asm.FieldFilter)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='net.minidev.asm.ASMUtil java.lang.String getSetterName(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='net.minidev.asm.ASMUtil void autoBoxing(org.objectweb.asm.MethodVisitor, org.objectweb.asm.Type) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='net.minidev.asm.ASMUtil java.lang.String getIsName(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='net.minidev.asm.BasicFiledFilter SINGLETON'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='net.minidev.asm.ASMUtil void autoBoxing(org.objectweb.asm.MethodVisitor, java.lang.Class&lt;?&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='net.minidev.asm.ASMUtil void autoUnBoxing2(org.objectweb.asm.MethodVisitor, org.objectweb.asm.Type) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='net.minidev.asm.ASMUtil java.lang.String getSetterName(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='net.minidev.asm.BeansAccess net.minidev.asm.BeansAccess&lt;P&gt; get(java.lang.Class&lt;P&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='net.minidev.asm.ASMUtil void autoUnBoxing2(org.objectweb.asm.MethodVisitor, org.objectweb.asm.Type) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='net.minidev.asm.Accessor Accessor(java.lang.Class&lt;?&gt;, java.lang.reflect.Field, net.minidev.asm.FieldFilter) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='net.minidev.asm.BeansAccess void setAccessor(net.minidev.asm.Accessor[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='net.minidev.asm.ConvertDate.StringCmpNS int compare(java.lang.Object, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='net.minidev.asm.ConvertDate.StringCmpNS int compare(java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='net.minidev.asm.BeansAccessBuilder BeansAccessBuilder(java.lang.Class&lt;?&gt;, net.minidev.asm.Accessor[], net.minidev.asm.DynamicClassLoader) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

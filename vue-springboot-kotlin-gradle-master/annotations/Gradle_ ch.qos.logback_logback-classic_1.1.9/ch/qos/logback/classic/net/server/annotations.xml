@@ -1,0 +1,14 @@
+<root>
+    <item name='ch.qos.logback.classic.net.server.ServerSocketReceiver ch.qos.logback.core.net.server.ServerRunner createServerRunner(ch.qos.logback.core.net.server.ServerListener&lt;ch.qos.logback.classic.net.server.RemoteAppenderClient&gt;, java.util.concurrent.Executor)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.net.server.SSLServerSocketAppender ch.qos.logback.core.spi.PreSerializationTransformer&lt;ch.qos.logback.classic.spi.ILoggingEvent&gt; getPST()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.net.server.ServerSocketReceiver ch.qos.logback.core.net.server.ServerListener&lt;ch.qos.logback.classic.net.server.RemoteAppenderClient&gt; createServerListener(java.net.ServerSocket)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.net.server.ServerSocketAppender ch.qos.logback.core.spi.PreSerializationTransformer&lt;ch.qos.logback.classic.spi.ILoggingEvent&gt; getPST()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

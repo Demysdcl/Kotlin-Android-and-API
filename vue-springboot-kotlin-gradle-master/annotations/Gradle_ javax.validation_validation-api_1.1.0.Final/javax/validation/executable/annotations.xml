@@ -1,0 +1,20 @@
+<root>
+    <item name='javax.validation.executable.ExecutableType CONSTRUCTORS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='javax.validation.executable.ExecutableType ALL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='javax.validation.executable.ExecutableType NONE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='javax.validation.executable.ExecutableType IMPLICIT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='javax.validation.executable.ExecutableType GETTER_METHODS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='javax.validation.executable.ExecutableType NON_GETTER_METHODS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

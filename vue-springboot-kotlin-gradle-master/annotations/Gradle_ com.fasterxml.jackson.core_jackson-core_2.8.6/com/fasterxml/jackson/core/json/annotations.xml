@@ -1,0 +1,323 @@
+<root>
+    <item name='com.fasterxml.jackson.core.json.JsonWriteContext com.fasterxml.jackson.core.json.JsonWriteContext createChildArrayContext()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.json.UTF8DataInputJsonParser com.fasterxml.jackson.core.JsonLocation getCurrentLocation()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.json.PackageVersion com.fasterxml.jackson.core.Version version()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.json.ReaderBasedJsonParser byte[] _decodeBase64(com.fasterxml.jackson.core.Base64Variant) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.json.WriterBasedJsonGenerator void writeRaw(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.json.UTF8JsonGenerator void _writeBinary(com.fasterxml.jackson.core.Base64Variant, byte[], int, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.json.UTF8JsonGenerator void writeRaw(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.json.JsonWriteContext com.fasterxml.jackson.core.json.JsonWriteContext createRootContext()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.json.UTF8JsonGenerator UTF8JsonGenerator(com.fasterxml.jackson.core.io.IOContext, int, com.fasterxml.jackson.core.ObjectCodec, java.io.OutputStream) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.json.UTF8StreamJsonParser com.fasterxml.jackson.core.JsonLocation getTokenLocation()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.json.WriterBasedJsonGenerator void writeFieldName(com.fasterxml.jackson.core.SerializableString) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.json.ReaderBasedJsonParser com.fasterxml.jackson.core.JsonLocation getTokenLocation()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.json.UTF8StreamJsonParser byte[] _decodeBase64(com.fasterxml.jackson.core.Base64Variant) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.json.JsonWriteContext void appendDesc(java.lang.StringBuilder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.json.JsonReadContext com.fasterxml.jackson.core.json.JsonReadContext withDupDetector(com.fasterxml.jackson.core.json.DupDetector)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.json.ByteSourceJsonBootstrapper com.fasterxml.jackson.core.JsonEncoding detectEncoding()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.json.WriterBasedJsonGenerator int _writeBinary(com.fasterxml.jackson.core.Base64Variant, java.io.InputStream, byte[]) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.json.UTF8JsonGenerator void _writePPFieldName(com.fasterxml.jackson.core.SerializableString) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.json.UTF8JsonGenerator void writeRawValue(com.fasterxml.jackson.core.SerializableString) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.json.ReaderBasedJsonParser _icLatin1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.json.JsonReadContext com.fasterxml.jackson.core.json.JsonReadContext createRootContext(com.fasterxml.jackson.core.json.DupDetector)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.json.UTF8StreamJsonParser int _readBinary(com.fasterxml.jackson.core.Base64Variant, java.io.OutputStream, byte[]) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.json.UTF8JsonGenerator int _writeBinary(com.fasterxml.jackson.core.Base64Variant, java.io.InputStream, byte[], int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.json.JsonGeneratorImpl com.fasterxml.jackson.core.JsonGenerator enable(com.fasterxml.jackson.core.JsonGenerator.Feature) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.json.WriterBasedJsonGenerator void _writeBinary(com.fasterxml.jackson.core.Base64Variant, byte[], int, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.json.WriterBasedJsonGenerator void writeFieldName(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.json.UTF8DataInputJsonParser byte[] _decodeBase64(com.fasterxml.jackson.core.Base64Variant) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.json.ByteSourceJsonBootstrapper com.fasterxml.jackson.core.format.MatchStrength hasJSONFormat(com.fasterxml.jackson.core.format.InputAccessor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.json.UTF8JsonGenerator void writeFieldName(com.fasterxml.jackson.core.SerializableString) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.json.PackageVersion VERSION'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.json.UTF8JsonGenerator UTF8JsonGenerator(com.fasterxml.jackson.core.io.IOContext, int, com.fasterxml.jackson.core.ObjectCodec, java.io.OutputStream, byte[], int, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.json.UTF8JsonGenerator void writeFieldName(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.json.WriterBasedJsonGenerator void writeRaw(com.fasterxml.jackson.core.SerializableString) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.json.ReaderBasedJsonParser ReaderBasedJsonParser(com.fasterxml.jackson.core.io.IOContext, int, java.io.Reader, com.fasterxml.jackson.core.ObjectCodec, com.fasterxml.jackson.core.sym.CharsToNameCanonicalizer, char[], int, int, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.json.WriterBasedJsonGenerator int _writeBinary(com.fasterxml.jackson.core.Base64Variant, java.io.InputStream, byte[], int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.json.WriterBasedJsonGenerator void _writeFieldName(com.fasterxml.jackson.core.SerializableString, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.json.ByteSourceJsonBootstrapper com.fasterxml.jackson.core.JsonParser constructParser(int, com.fasterxml.jackson.core.ObjectCodec, com.fasterxml.jackson.core.sym.ByteQuadsCanonicalizer, com.fasterxml.jackson.core.sym.CharsToNameCanonicalizer, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.json.UTF8StreamJsonParser com.fasterxml.jackson.core.JsonToken _handleApos()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.json.WriterBasedJsonGenerator WriterBasedJsonGenerator(com.fasterxml.jackson.core.io.IOContext, int, com.fasterxml.jackson.core.ObjectCodec, java.io.Writer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.json.ReaderBasedJsonParser com.fasterxml.jackson.core.JsonToken _handleApos()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.json.UTF8DataInputJsonParser byte[] _decodeBase64(com.fasterxml.jackson.core.Base64Variant)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.json.WriterBasedJsonGenerator void _writeFieldName(java.lang.String, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.json.UTF8DataInputJsonParser java.lang.String parseEscapedName(int[], int, int, int, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.json.WriterBasedJsonGenerator void writeRaw(java.lang.String, int, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.json.UTF8DataInputJsonParser void _matchToken(java.lang.String, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.json.UTF8StreamJsonParser int _readBinary(com.fasterxml.jackson.core.Base64Variant, java.io.OutputStream, byte[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.json.ReaderBasedJsonParser ReaderBasedJsonParser(com.fasterxml.jackson.core.io.IOContext, int, java.io.Reader, com.fasterxml.jackson.core.ObjectCodec, com.fasterxml.jackson.core.sym.CharsToNameCanonicalizer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.json.UTF8JsonGenerator void writeRaw(java.lang.String, int, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.core.json.DupDetector com.fasterxml.jackson.core.json.DupDetector rootDetector(com.fasterxml.jackson.core.JsonGenerator)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.json.ReaderBasedJsonParser ReaderBasedJsonParser(com.fasterxml.jackson.core.io.IOContext, int, java.io.Reader, com.fasterxml.jackson.core.ObjectCodec, com.fasterxml.jackson.core.sym.CharsToNameCanonicalizer) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.json.UTF8JsonGenerator void _writePPFieldName(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.json.ReaderBasedJsonParser int _readBinary(com.fasterxml.jackson.core.Base64Variant, java.io.OutputStream, byte[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.json.ByteSourceJsonBootstrapper ByteSourceJsonBootstrapper(com.fasterxml.jackson.core.io.IOContext, java.io.InputStream) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.json.UTF8DataInputJsonParser _icLatin1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.json.JsonGeneratorImpl com.fasterxml.jackson.core.JsonGenerator setHighestNonEscapedChar(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.json.WriterBasedJsonGenerator void writeNumber(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.json.UTF8JsonGenerator void writeNumber(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.json.UTF8StreamJsonParser com.fasterxml.jackson.core.JsonLocation getCurrentLocation()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.json.JsonReadContext com.fasterxml.jackson.core.json.JsonReadContext createRootContext(int, int, com.fasterxml.jackson.core.json.DupDetector)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.json.ReaderBasedJsonParser void _matchToken(java.lang.String, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.json.ByteSourceJsonBootstrapper int skipUTF8BOM(java.io.DataInput) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.json.JsonGeneratorImpl com.fasterxml.jackson.core.JsonGenerator setRootValueSeparator(com.fasterxml.jackson.core.SerializableString)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.json.UTF8StreamJsonParser UTF8StreamJsonParser(com.fasterxml.jackson.core.io.IOContext, int, java.io.InputStream, com.fasterxml.jackson.core.ObjectCodec, com.fasterxml.jackson.core.sym.ByteQuadsCanonicalizer, byte[], int, int, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.json.JsonWriteContext com.fasterxml.jackson.core.json.JsonWriteContext createChildObjectContext()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.json.DupDetector com.fasterxml.jackson.core.json.DupDetector rootDetector(com.fasterxml.jackson.core.JsonParser)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.json.UTF8JsonGenerator void writeRaw(com.fasterxml.jackson.core.SerializableString) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.json.UTF8JsonGenerator int _writeBinary(com.fasterxml.jackson.core.Base64Variant, java.io.InputStream, byte[]) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.json.UTF8DataInputJsonParser UTF8DataInputJsonParser(com.fasterxml.jackson.core.io.IOContext, int, java.io.DataInput, com.fasterxml.jackson.core.ObjectCodec, com.fasterxml.jackson.core.sym.ByteQuadsCanonicalizer, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.json.JsonWriteContext com.fasterxml.jackson.core.json.JsonWriteContext createRootContext(com.fasterxml.jackson.core.json.DupDetector)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.json.JsonReadContext com.fasterxml.jackson.core.JsonLocation getStartLocation(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.json.UTF8DataInputJsonParser int _readBinary(com.fasterxml.jackson.core.Base64Variant, java.io.OutputStream, byte[]) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.json.JsonReadContext com.fasterxml.jackson.core.json.JsonReadContext createChildArrayContext(int, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.json.UTF8DataInputJsonParser com.fasterxml.jackson.core.JsonLocation getTokenLocation()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.json.UTF8JsonGenerator void writeString(com.fasterxml.jackson.core.SerializableString) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.json.WriterBasedJsonGenerator void _writePPFieldName(com.fasterxml.jackson.core.SerializableString, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.json.ReaderBasedJsonParser _symbols'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.json.JsonGeneratorImpl com.fasterxml.jackson.core.JsonGenerator setCharacterEscapes(com.fasterxml.jackson.core.io.CharacterEscapes)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.json.JsonGeneratorImpl com.fasterxml.jackson.core.JsonGenerator disable(com.fasterxml.jackson.core.JsonGenerator.Feature)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.json.WriterBasedJsonGenerator void writeString(com.fasterxml.jackson.core.SerializableString) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.json.ReaderBasedJsonParser int _readBinary(com.fasterxml.jackson.core.Base64Variant, java.io.OutputStream, byte[]) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.json.UTF8JsonGenerator int writeBinary(com.fasterxml.jackson.core.Base64Variant, java.io.InputStream, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.json.WriterBasedJsonGenerator int writeBinary(com.fasterxml.jackson.core.Base64Variant, java.io.InputStream, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.json.JsonReadContext com.fasterxml.jackson.core.json.JsonReadContext createChildObjectContext(int, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.json.UTF8JsonGenerator void writeBinary(com.fasterxml.jackson.core.Base64Variant, byte[], int, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.json.WriterBasedJsonGenerator void _writePPFieldName(java.lang.String, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.json.WriterBasedJsonGenerator void writeBinary(com.fasterxml.jackson.core.Base64Variant, byte[], int, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.json.UTF8StreamJsonParser byte[] _decodeBase64(com.fasterxml.jackson.core.Base64Variant)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.json.UTF8JsonGenerator int _writeBinary(com.fasterxml.jackson.core.Base64Variant, java.io.InputStream, byte[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.json.JsonWriteContext com.fasterxml.jackson.core.json.JsonWriteContext withDupDetector(com.fasterxml.jackson.core.json.DupDetector)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.json.ReaderBasedJsonParser ReaderBasedJsonParser(com.fasterxml.jackson.core.io.IOContext, int, java.io.Reader, com.fasterxml.jackson.core.ObjectCodec, com.fasterxml.jackson.core.sym.CharsToNameCanonicalizer, char[], int, int, boolean) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.json.UTF8StreamJsonParser java.lang.String parseEscapedName(int[], int, int, int, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.json.JsonGeneratorImpl sOutputEscapes'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.json.DupDetector com.fasterxml.jackson.core.json.DupDetector child()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.json.ByteSourceJsonBootstrapper java.io.Reader constructReader()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.json.JsonGeneratorImpl com.fasterxml.jackson.core.JsonGenerator enable(com.fasterxml.jackson.core.JsonGenerator.Feature)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.json.JsonGeneratorImpl com.fasterxml.jackson.core.Version version()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.json.UTF8StreamJsonParser void _matchToken(java.lang.String, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.json.UTF8DataInputJsonParser int _readBinary(com.fasterxml.jackson.core.Base64Variant, java.io.OutputStream, byte[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.json.JsonGeneratorImpl com.fasterxml.jackson.core.JsonGenerator disable(com.fasterxml.jackson.core.JsonGenerator.Feature) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.json.UTF8DataInputJsonParser com.fasterxml.jackson.core.JsonToken _handleApos()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.json.UTF8StreamJsonParser _icLatin1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.json.ReaderBasedJsonParser com.fasterxml.jackson.core.JsonLocation getCurrentLocation()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.json.ReaderBasedJsonParser byte[] _decodeBase64(com.fasterxml.jackson.core.Base64Variant)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.json.ReaderBasedJsonParser boolean _isNextTokenNameMaybe(int, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.json.JsonWriteContext com.fasterxml.jackson.core.json.JsonWriteContext reset(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.json.WriterBasedJsonGenerator int _writeBinary(com.fasterxml.jackson.core.Base64Variant, java.io.InputStream, byte[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

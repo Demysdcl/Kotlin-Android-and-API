@@ -1,0 +1,59 @@
+<root>
+    <item name='ch.qos.logback.classic.joran.action.ConfigurationAction void begin(ch.qos.logback.core.joran.spi.InterpretationContext, java.lang.String, org.xml.sax.Attributes) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.joran.action.LevelAction void begin(ch.qos.logback.core.joran.spi.InterpretationContext, java.lang.String, org.xml.sax.Attributes) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.joran.action.LoggerAction void begin(ch.qos.logback.core.joran.spi.InterpretationContext, java.lang.String, org.xml.sax.Attributes) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.joran.action.ConsolePluginAction void begin(ch.qos.logback.core.joran.spi.InterpretationContext, java.lang.String, org.xml.sax.Attributes) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.joran.action.InsertFromJNDIAction AS_ATTR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.joran.action.ReceiverAction void begin(ch.qos.logback.core.joran.spi.InterpretationContext, java.lang.String, org.xml.sax.Attributes) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.joran.action.ConfigurationAction void begin(ch.qos.logback.core.joran.spi.InterpretationContext, java.lang.String, org.xml.sax.Attributes) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.joran.action.LoggerAction void begin(ch.qos.logback.core.joran.spi.InterpretationContext, java.lang.String, org.xml.sax.Attributes) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.joran.action.LoggerContextListenerAction void begin(ch.qos.logback.core.joran.spi.InterpretationContext, java.lang.String, org.xml.sax.Attributes) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.joran.action.ContextNameAction void body(ch.qos.logback.core.joran.spi.InterpretationContext, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.joran.action.ConsolePluginAction void begin(ch.qos.logback.core.joran.spi.InterpretationContext, java.lang.String, org.xml.sax.Attributes) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.joran.action.RootLoggerAction void begin(ch.qos.logback.core.joran.spi.InterpretationContext, java.lang.String, org.xml.sax.Attributes) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.joran.action.RootLoggerAction void begin(ch.qos.logback.core.joran.spi.InterpretationContext, java.lang.String, org.xml.sax.Attributes) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.joran.action.ConfigurationAction void end(ch.qos.logback.core.joran.spi.InterpretationContext, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.joran.action.LoggerAction LEVEL_ATTRIBUTE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.joran.action.InsertFromJNDIAction void begin(ch.qos.logback.core.joran.spi.InterpretationContext, java.lang.String, org.xml.sax.Attributes) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.joran.action.JMXConfiguratorAction void begin(ch.qos.logback.core.joran.spi.InterpretationContext, java.lang.String, org.xml.sax.Attributes) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.joran.action.InsertFromJNDIAction void begin(ch.qos.logback.core.joran.spi.InterpretationContext, java.lang.String, org.xml.sax.Attributes) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.joran.action.InsertFromJNDIAction ENV_ENTRY_NAME_ATTR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

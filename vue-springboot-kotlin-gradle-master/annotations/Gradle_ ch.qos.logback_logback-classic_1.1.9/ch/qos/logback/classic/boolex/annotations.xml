@@ -1,0 +1,35 @@
+<root>
+    <item name='ch.qos.logback.classic.boolex.JaninoEventEvaluator java.lang.Object[] getParameterValues(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.boolex.JaninoEventEvaluator IMPORT_LEVEL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.boolex.JaninoEventEvaluator java.lang.Object[] getParameterValues(ch.qos.logback.classic.spi.ILoggingEvent)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.boolex.OnErrorEvaluator boolean evaluate(ch.qos.logback.classic.spi.ILoggingEvent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.boolex.JaninoEventEvaluator DEFAULT_PARAM_TYPE_LIST'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.boolex.OnMarkerEvaluator boolean evaluate(ch.qos.logback.classic.spi.ILoggingEvent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.boolex.JaninoEventEvaluator java.lang.Object[] getParameterValues(ch.qos.logback.classic.spi.ILoggingEvent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.boolex.OnMarkerEvaluator boolean evaluate(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.boolex.JaninoEventEvaluator DEFAULT_PARAM_NAME_LIST'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.boolex.JaninoEventEvaluator java.lang.Object[] getParameterValues(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.boolex.OnErrorEvaluator boolean evaluate(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

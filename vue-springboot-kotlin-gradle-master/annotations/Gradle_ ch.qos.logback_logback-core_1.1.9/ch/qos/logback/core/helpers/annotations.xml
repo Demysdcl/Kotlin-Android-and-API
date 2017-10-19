@@ -1,0 +1,14 @@
+<root>
+    <item name='ch.qos.logback.core.helpers.Transform java.lang.String escapeTags(java.lang.StringBuffer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.helpers.CyclicBuffer CyclicBuffer(ch.qos.logback.core.helpers.CyclicBuffer&lt;E&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.helpers.ThrowableToStringArray java.lang.String[] convert(java.lang.Throwable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.helpers.CyclicBuffer java.util.List&lt;E&gt; asList()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

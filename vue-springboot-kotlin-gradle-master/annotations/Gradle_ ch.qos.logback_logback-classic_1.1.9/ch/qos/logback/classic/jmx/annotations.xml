@@ -1,0 +1,47 @@
+<root>
+    <item name='ch.qos.logback.classic.jmx.JMXConfigurator java.util.List&lt;java.lang.String&gt; getLoggerList()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.jmx.MBeanUtil boolean isRegistered(javax.management.MBeanServer, javax.management.ObjectName) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.jmx.JMXConfiguratorMBean java.util.List&lt;java.lang.String&gt; getLoggerList()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='ch.qos.logback.classic.jmx.JMXConfigurator JMXConfigurator(ch.qos.logback.classic.LoggerContext, javax.management.MBeanServer, javax.management.ObjectName) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.jmx.MBeanUtil void unregister(ch.qos.logback.classic.LoggerContext, javax.management.MBeanServer, javax.management.ObjectName, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.jmx.JMXConfigurator JMXConfigurator(ch.qos.logback.classic.LoggerContext, javax.management.MBeanServer, javax.management.ObjectName) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.jmx.JMXConfigurator java.util.List&lt;java.lang.String&gt; getStatuses()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.jmx.JMXConfiguratorMBean java.util.List&lt;java.lang.String&gt; getStatuses()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='ch.qos.logback.classic.jmx.JMXConfigurator void onLevelChange(ch.qos.logback.classic.Logger, ch.qos.logback.classic.Level) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='ch.qos.logback.classic.jmx.JMXConfigurator void onLevelChange(ch.qos.logback.classic.Logger, ch.qos.logback.classic.Level) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='ch.qos.logback.classic.jmx.MBeanUtil java.lang.String getObjectNameFor(java.lang.String, java.lang.Class) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

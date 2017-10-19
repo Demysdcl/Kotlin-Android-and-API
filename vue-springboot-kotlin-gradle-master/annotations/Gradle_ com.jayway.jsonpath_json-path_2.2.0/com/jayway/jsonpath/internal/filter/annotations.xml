@@ -1,0 +1,422 @@
+<root>
+    <item name='com.jayway.jsonpath.internal.filter.ValueNode com.jayway.jsonpath.internal.filter.ValueNode.JsonNode createJsonNode(java.lang.CharSequence) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.filter.ValueNode.NullNode java.lang.Class&lt;?&gt; type(com.jayway.jsonpath.Predicate.PredicateContext)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.filter.ValueNode.NumberNode com.jayway.jsonpath.internal.filter.ValueNode.NumberNode asNumberNode()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.filter.LogicalExpressionNode com.jayway.jsonpath.internal.filter.LogicalExpressionNode createLogicalOr(java.util.Collection&lt;com.jayway.jsonpath.internal.filter.ExpressionNode&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.filter.RelationalOperator TSNE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.filter.ValueNode.JsonNode java.lang.Class&lt;?&gt; type(com.jayway.jsonpath.Predicate.PredicateContext)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.filter.ValueNode.StringNode java.lang.Class&lt;?&gt; type(com.jayway.jsonpath.Predicate.PredicateContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.jayway.jsonpath.internal.filter.ValueNode com.jayway.jsonpath.internal.filter.ValueNode.NullNode asNullNode()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.jayway.jsonpath.internal.filter.ValueNode.PathNode java.lang.Class&lt;?&gt; type(com.jayway.jsonpath.Predicate.PredicateContext)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.filter.ValueNode.NullNode java.lang.String toString()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.filter.ValueNode.JsonNode boolean isEmpty(com.jayway.jsonpath.Predicate.PredicateContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.filter.LogicalExpressionNode com.jayway.jsonpath.internal.filter.LogicalExpressionNode createLogicalAnd(com.jayway.jsonpath.internal.filter.ExpressionNode, com.jayway.jsonpath.internal.filter.ExpressionNode)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.filter.ValueNode.NumberNode java.lang.Class&lt;?&gt; type(com.jayway.jsonpath.Predicate.PredicateContext)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.filter.RelationalOperator com.jayway.jsonpath.internal.filter.RelationalOperator fromString(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.filter.ValueNode TRUE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.filter.ValueNode com.jayway.jsonpath.internal.filter.ValueNode.JsonNode asJsonNode()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.jayway.jsonpath.internal.filter.RelationalOperator LT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.filter.ValueNode FALSE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.filter.RelationalOperator IN'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.filter.ValueNode.PatternNode java.lang.Class&lt;?&gt; type(com.jayway.jsonpath.Predicate.PredicateContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.jayway.jsonpath.internal.filter.RelationalOperator EXISTS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.filter.ValueNode UNDEFINED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.filter.RelationalOperator LTE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.filter.LogicalExpressionNode com.jayway.jsonpath.internal.filter.LogicalExpressionNode append(com.jayway.jsonpath.internal.filter.ExpressionNode)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.filter.ValueNode.NumberNode com.jayway.jsonpath.internal.filter.ValueNode.StringNode asStringNode()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.filter.ValueNode.ValueListNode java.lang.Class&lt;?&gt; type(com.jayway.jsonpath.Predicate.PredicateContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.jayway.jsonpath.internal.filter.ValueNode.ClassNode java.lang.Class&lt;?&gt; type(com.jayway.jsonpath.Predicate.PredicateContext)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.filter.LogicalOperator AND'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.filter.ValueNode com.jayway.jsonpath.internal.filter.ValueNode.PathNode createPathNode(java.lang.CharSequence, boolean, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.filter.ExpressionNode com.jayway.jsonpath.internal.filter.ExpressionNode createExpressionNode(com.jayway.jsonpath.internal.filter.ExpressionNode, com.jayway.jsonpath.internal.filter.LogicalOperator, com.jayway.jsonpath.internal.filter.ExpressionNode)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.filter.ValueNode.ClassNode java.lang.Class&lt;?&gt; type(com.jayway.jsonpath.Predicate.PredicateContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.jayway.jsonpath.internal.filter.Evaluator boolean evaluate(com.jayway.jsonpath.internal.filter.ValueNode, com.jayway.jsonpath.internal.filter.ValueNode, com.jayway.jsonpath.Predicate.PredicateContext) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.jayway.jsonpath.internal.filter.ValueNode.PredicateNode com.jayway.jsonpath.internal.filter.ValueNode.PredicateNode asPredicateNode()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.filter.ValueNode.BooleanNode com.jayway.jsonpath.internal.filter.ValueNode.BooleanNode asBooleanNode()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.filter.ValueNode com.jayway.jsonpath.internal.filter.ValueNode.BooleanNode createBooleanNode(java.lang.CharSequence) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.filter.ValueNode.PathNode com.jayway.jsonpath.internal.filter.ValueNode evaluate(com.jayway.jsonpath.Predicate.PredicateContext)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.filter.ValueNode java.lang.Class&lt;?&gt; type(com.jayway.jsonpath.Predicate.PredicateContext)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.jayway.jsonpath.internal.filter.ValueNode com.jayway.jsonpath.internal.filter.ValueNode.PathNode asPathNode()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.jayway.jsonpath.internal.filter.FilterCompiler com.jayway.jsonpath.Filter compile(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.filter.ValueNode.PathNode com.jayway.jsonpath.internal.filter.ValueNode evaluate(com.jayway.jsonpath.Predicate.PredicateContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.filter.Evaluator boolean evaluate(com.jayway.jsonpath.internal.filter.ValueNode, com.jayway.jsonpath.internal.filter.ValueNode, com.jayway.jsonpath.Predicate.PredicateContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.jayway.jsonpath.internal.filter.RelationalOperator GTE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.filter.ValueNode com.jayway.jsonpath.internal.filter.ValueNode.BooleanNode createBooleanNode(java.lang.CharSequence)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.filter.RelationalOperator CONTAINS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.filter.RelationalOperator NE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.filter.ValueNode com.jayway.jsonpath.internal.filter.ValueNode.PathNode createPathNode(java.lang.CharSequence, boolean, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.filter.LogicalOperator com.jayway.jsonpath.internal.filter.LogicalOperator fromString(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.filter.ValueNode com.jayway.jsonpath.internal.filter.ValueNode.UndefinedNode createUndefinedNode()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.filter.ValueNode com.jayway.jsonpath.internal.filter.ValueNode.PatternNode createPatternNode(java.util.regex.Pattern) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.filter.ValueNode com.jayway.jsonpath.internal.filter.ValueNode.UndefinedNode asUndefinedNode()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.jayway.jsonpath.internal.filter.ValueNode NULL_NODE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.filter.ValueNode com.jayway.jsonpath.internal.filter.ValueNode.StringNode createStringNode(java.lang.CharSequence, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.filter.ValueNode.NumberNode java.lang.Class&lt;?&gt; type(com.jayway.jsonpath.Predicate.PredicateContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.jayway.jsonpath.internal.filter.ValueNode com.jayway.jsonpath.internal.filter.ValueNode.ClassNode asClassNode()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.jayway.jsonpath.internal.filter.ValueNode.BooleanNode java.lang.Class&lt;?&gt; type(com.jayway.jsonpath.Predicate.PredicateContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.jayway.jsonpath.internal.filter.ValueNode.UndefinedNode java.lang.Class&lt;?&gt; type(com.jayway.jsonpath.Predicate.PredicateContext)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.filter.LogicalExpressionNode com.jayway.jsonpath.internal.filter.LogicalExpressionNode createLogicalOr(com.jayway.jsonpath.internal.filter.ExpressionNode, com.jayway.jsonpath.internal.filter.ExpressionNode)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.filter.ValueNode.JsonNode java.lang.Class&lt;?&gt; type(com.jayway.jsonpath.Predicate.PredicateContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.filter.RelationalOperator com.jayway.jsonpath.internal.filter.RelationalOperator fromString(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.filter.ValueNode com.jayway.jsonpath.internal.filter.ValueNode.StringNode asStringNode()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.jayway.jsonpath.internal.filter.ValueNode.JsonNode com.jayway.jsonpath.internal.filter.ValueNode asValueListNode(com.jayway.jsonpath.Predicate.PredicateContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.filter.RelationalOperator MATCHES'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.filter.ValueNode.NullNode java.lang.Class&lt;?&gt; type(com.jayway.jsonpath.Predicate.PredicateContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.jayway.jsonpath.internal.filter.ValueNode.JsonNode boolean isMap(com.jayway.jsonpath.Predicate.PredicateContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.filter.ValueNode.PathNode java.lang.Class&lt;?&gt; type(com.jayway.jsonpath.Predicate.PredicateContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.jayway.jsonpath.internal.filter.ValueNode com.jayway.jsonpath.internal.filter.ValueNode.PatternNode asPatternNode()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.jayway.jsonpath.internal.filter.ValueNode com.jayway.jsonpath.internal.filter.ValueNode.ValueListNode asValueListNode()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.jayway.jsonpath.internal.filter.ValueNode.JsonNode boolean isArray(com.jayway.jsonpath.Predicate.PredicateContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.filter.ValueNode.StringNode java.lang.Class&lt;?&gt; type(com.jayway.jsonpath.Predicate.PredicateContext)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.filter.LogicalExpressionNode com.jayway.jsonpath.internal.filter.LogicalExpressionNode or(com.jayway.jsonpath.internal.filter.LogicalExpressionNode)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.filter.ValueNode com.jayway.jsonpath.internal.filter.ValueNode.PatternNode createPatternNode(java.util.regex.Pattern)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.filter.ValueNode com.jayway.jsonpath.internal.filter.ValueNode.BooleanNode asBooleanNode()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.jayway.jsonpath.internal.filter.ValueNode com.jayway.jsonpath.internal.filter.ValueNode.PatternNode createPatternNode(java.lang.CharSequence) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.filter.ValueNode java.lang.Class&lt;?&gt; type(com.jayway.jsonpath.Predicate.PredicateContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.jayway.jsonpath.internal.filter.ValueNode.UndefinedNode java.lang.Class&lt;?&gt; type(com.jayway.jsonpath.Predicate.PredicateContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.jayway.jsonpath.internal.filter.RelationalOperator REGEX'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.filter.ValueNode.ValueListNode com.jayway.jsonpath.internal.filter.ValueNode.ValueListNode asValueListNode()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.filter.ValueNode.PredicateNode java.lang.Class&lt;?&gt; type(com.jayway.jsonpath.Predicate.PredicateContext)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.filter.LogicalOperator OR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.filter.ValueNode.ClassNode com.jayway.jsonpath.internal.filter.ValueNode.ClassNode asClassNode()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.filter.ValueNode.StringNode com.jayway.jsonpath.internal.filter.ValueNode.StringNode asStringNode()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.filter.ValueNode com.jayway.jsonpath.internal.filter.ValueNode.JsonNode createJsonNode(java.lang.CharSequence)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.filter.ValueNode com.jayway.jsonpath.internal.filter.ValueNode.NullNode createNullNode()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.filter.ValueNode com.jayway.jsonpath.internal.filter.ValueNode.StringNode createStringNode(java.lang.CharSequence, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.filter.ValueNode.BooleanNode java.lang.Class&lt;?&gt; type(com.jayway.jsonpath.Predicate.PredicateContext)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.filter.RelationalOperator TYPE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.filter.ValueNode.PathNode com.jayway.jsonpath.internal.filter.ValueNode.PathNode asExistsCheck(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.filter.RelationalOperator EMPTY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.filter.RelationalOperator EQ'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.filter.RelationalOperator NIN'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.filter.ValueNode.UndefinedNode com.jayway.jsonpath.internal.filter.ValueNode.UndefinedNode asUndefinedNode()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.filter.ValueNode com.jayway.jsonpath.internal.filter.ValueNode createPathNode(com.jayway.jsonpath.internal.Path)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.filter.LogicalExpressionNode com.jayway.jsonpath.internal.filter.LogicalExpressionNode and(com.jayway.jsonpath.internal.filter.LogicalExpressionNode)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.filter.ValueNode.PatternNode com.jayway.jsonpath.internal.filter.ValueNode.PatternNode asPatternNode()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.filter.ValueNode.ValueListNode java.lang.Class&lt;?&gt; type(com.jayway.jsonpath.Predicate.PredicateContext)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.filter.ValueNode com.jayway.jsonpath.internal.filter.ValueNode.NumberNode createNumberNode(java.lang.CharSequence) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.filter.ValueNode com.jayway.jsonpath.internal.filter.ValueNode.NumberNode asNumberNode()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.jayway.jsonpath.internal.filter.ValueNode.JsonNode int length(com.jayway.jsonpath.Predicate.PredicateContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.filter.ValueNode.PredicateNode java.lang.Class&lt;?&gt; type(com.jayway.jsonpath.Predicate.PredicateContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.jayway.jsonpath.internal.filter.RelationalOperator GT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.filter.RelationalOperator SIZE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.filter.ValueNode com.jayway.jsonpath.internal.filter.ValueNode.PredicateNode asPredicateNode()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.jayway.jsonpath.internal.filter.ValueNode.ValueListNode ValueListNode(java.util.Collection&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.filter.LogicalExpressionNode com.jayway.jsonpath.internal.filter.LogicalExpressionNode createLogicalAnd(java.util.Collection&lt;com.jayway.jsonpath.internal.filter.ExpressionNode&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.filter.ValueNode com.jayway.jsonpath.internal.filter.ValueNode.JsonNode createJsonNode(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.filter.ValueNode com.jayway.jsonpath.internal.filter.ValueNode toValueNode(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.filter.ValueNode.JsonNode com.jayway.jsonpath.internal.filter.ValueNode.JsonNode asJsonNode()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.filter.RelationalOperator TSEQ'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.filter.ValueNode com.jayway.jsonpath.internal.filter.ValueNode.NumberNode createNumberNode(java.lang.CharSequence)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.filter.ValueNode com.jayway.jsonpath.internal.filter.ValueNode.PatternNode createPatternNode(java.lang.CharSequence)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.filter.RelationalOperator ALL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.filter.ValueNode.NullNode com.jayway.jsonpath.internal.filter.ValueNode.NullNode asNullNode()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.filter.ValueNode.PathNode com.jayway.jsonpath.internal.filter.ValueNode.PathNode asPathNode()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.filter.ValueNode com.jayway.jsonpath.internal.filter.ValueNode.ClassNode createClassNode(java.lang.Class&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.filter.ValueNode.PatternNode PatternNode(java.util.regex.Pattern) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

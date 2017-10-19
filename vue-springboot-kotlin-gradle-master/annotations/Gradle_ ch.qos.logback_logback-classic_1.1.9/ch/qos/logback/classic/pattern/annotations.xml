@@ -1,0 +1,146 @@
+<root>
+    <item name='ch.qos.logback.classic.pattern.MessageConverter java.lang.String convert(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.pattern.NopThrowableInformationConverter java.lang.String convert(ch.qos.logback.classic.spi.ILoggingEvent)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.pattern.ThrowableProxyConverter java.lang.String convert(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.pattern.RelativeTimeConverter java.lang.String convert(ch.qos.logback.classic.spi.ILoggingEvent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.pattern.ThreadConverter java.lang.String convert(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.pattern.LoggerConverter java.lang.String getFullyQualifiedName(ch.qos.logback.classic.spi.ILoggingEvent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.pattern.MethodOfCallerConverter java.lang.String convert(ch.qos.logback.classic.spi.ILoggingEvent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.pattern.EnsureExceptionHandling void process(ch.qos.logback.core.Context, ch.qos.logback.core.pattern.Converter&lt;ch.qos.logback.classic.spi.ILoggingEvent&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.pattern.SyslogStartConverter java.lang.String convert(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.pattern.FileOfCallerConverter java.lang.String convert(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.pattern.RootCauseFirstThrowableProxyConverter void recursiveAppendRootCauseFirst(java.lang.StringBuilder, java.lang.String, int, ch.qos.logback.classic.spi.IThrowableProxy) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.pattern.FileOfCallerConverter java.lang.String convert(ch.qos.logback.classic.spi.ILoggingEvent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.pattern.MDCConverter java.lang.String convert(ch.qos.logback.classic.spi.ILoggingEvent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.pattern.DateConverter java.lang.String convert(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.pattern.LineOfCallerConverter java.lang.String convert(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.pattern.CallerDataConverter java.lang.String getCallerLinePrefix()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.pattern.ContextNameConverter java.lang.String convert(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.pattern.ThrowableProxyConverter void subjoinSTEPArray(java.lang.StringBuilder, int, ch.qos.logback.classic.spi.IThrowableProxy) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.pattern.RelativeTimeConverter java.lang.String convert(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.pattern.MessageConverter java.lang.String convert(ch.qos.logback.classic.spi.ILoggingEvent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.pattern.TargetLengthBasedClassNameAbbreviator java.lang.String abbreviate(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.pattern.SyslogStartConverter java.lang.String convert(ch.qos.logback.classic.spi.ILoggingEvent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.pattern.LevelConverter java.lang.String convert(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.pattern.MarkerConverter java.lang.String convert(ch.qos.logback.classic.spi.ILoggingEvent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.pattern.CallerDataConverter java.lang.String getDefaultRangeDelimiter()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.pattern.CallerDataConverter DEFAULT_CALLER_LINE_PREFIX'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.pattern.ThrowableProxyConverter java.lang.String throwableProxyToString(ch.qos.logback.classic.spi.IThrowableProxy) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='ch.qos.logback.classic.pattern.DateConverter java.lang.String convert(ch.qos.logback.classic.spi.ILoggingEvent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.pattern.MethodOfCallerConverter java.lang.String convert(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.pattern.ClassOfCallerConverter java.lang.String getFullyQualifiedName(ch.qos.logback.classic.spi.ILoggingEvent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.pattern.RootCauseFirstThrowableProxyConverter void recursiveAppendRootCauseFirst(java.lang.StringBuilder, java.lang.String, int, ch.qos.logback.classic.spi.IThrowableProxy) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.pattern.CallerDataConverter DEFAULT_RANGE_DELIMITER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.pattern.ContextNameConverter java.lang.String convert(ch.qos.logback.classic.spi.ILoggingEvent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.pattern.ClassNameOnlyAbbreviator java.lang.String abbreviate(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.pattern.Util boolean match(org.slf4j.Marker, org.slf4j.Marker[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.pattern.RootCauseFirstThrowableProxyConverter java.lang.String throwableProxyToString(ch.qos.logback.classic.spi.IThrowableProxy) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.pattern.NopThrowableInformationConverter java.lang.String convert(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.pattern.ThreadConverter java.lang.String convert(ch.qos.logback.classic.spi.ILoggingEvent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.pattern.ThrowableProxyConverter java.lang.String convert(ch.qos.logback.classic.spi.ILoggingEvent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.pattern.Abbreviator java.lang.String abbreviate(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='ch.qos.logback.classic.pattern.LevelConverter java.lang.String convert(ch.qos.logback.classic.spi.ILoggingEvent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.pattern.LineOfCallerConverter java.lang.String convert(ch.qos.logback.classic.spi.ILoggingEvent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.pattern.MDCConverter java.lang.String convert(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.pattern.NamedConverter java.lang.String getFullyQualifiedName(ch.qos.logback.classic.spi.ILoggingEvent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='ch.qos.logback.classic.pattern.MarkerConverter java.lang.String convert(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

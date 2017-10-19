@@ -1,0 +1,41 @@
+<root>
+    <item name='ch.qos.logback.classic.util.LogbackMDCAdapter void put(java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.util.ContextInitializer AUTOCONFIG_FILE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.util.ContextInitializer TEST_AUTOCONFIG_FILE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.util.DefaultNestedComponentRules void addDefaultNestedComponentRegistryRules(ch.qos.logback.core.joran.spi.DefaultNestedComponentRegistry) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.util.ContextInitializer CONFIG_FILE_PROPERTY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.util.LoggerNameUtil java.util.List&lt;java.lang.String&gt; computeNameParts(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.util.LoggerNameUtil int getFirstSeparatorIndexOf(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.util.JNDIUtil javax.naming.Context getInitialContext()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.util.LevelToSyslogSeverity int convert(ch.qos.logback.classic.spi.ILoggingEvent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.util.LoggerNameUtil java.util.List&lt;java.lang.String&gt; computeNameParts(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.util.LoggerNameUtil int getSeparatorIndexOf(java.lang.String, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.util.ContextInitializer GROOVY_AUTOCONFIG_FILE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.util.ContextInitializer void configureByResource(java.net.URL) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

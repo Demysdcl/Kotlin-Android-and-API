@@ -1,0 +1,29 @@
+<root>
+    <item name='ch.qos.logback.core.net.ssl.SSL DEFAULT_KEYSTORE_TYPE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.net.ssl.SSL DEFAULT_SECURE_RANDOM_ALGORITHM'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.net.ssl.SSLContextFactoryBean javax.net.ssl.SSLContext createContext(ch.qos.logback.core.spi.ContextAware)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.net.ssl.KeyStoreFactoryBean java.security.KeyStore createKeyStore()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.net.ssl.SSL DEFAULT_KEYSTORE_PASSWORD'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.net.ssl.SSL DEFAULT_PROTOCOL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.net.ssl.SSLNestedComponentRegistryRules void addDefaultNestedComponentRegistryRules(ch.qos.logback.core.joran.spi.DefaultNestedComponentRegistry) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.net.ssl.SSLContextFactoryBean javax.net.ssl.SSLContext createContext(ch.qos.logback.core.spi.ContextAware) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.net.ssl.SSLParametersConfiguration void configure(ch.qos.logback.core.net.ssl.SSLConfigurable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

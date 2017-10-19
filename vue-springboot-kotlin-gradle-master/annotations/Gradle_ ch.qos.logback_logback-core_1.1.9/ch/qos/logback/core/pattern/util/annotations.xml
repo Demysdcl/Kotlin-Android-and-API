@@ -1,0 +1,50 @@
+<root>
+    <item name='ch.qos.logback.core.pattern.util.IEscapeUtil void escape(java.lang.String, java.lang.StringBuffer, char, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='ch.qos.logback.core.pattern.util.RegularEscapeUtil java.lang.String basicEscape(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.pattern.util.AsIsEscapeUtil void escape(java.lang.String, java.lang.StringBuffer, char, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.pattern.util.AsIsEscapeUtil void escape(java.lang.String, java.lang.StringBuffer, char, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='ch.qos.logback.core.pattern.util.IEscapeUtil void escape(java.lang.String, java.lang.StringBuffer, char, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='ch.qos.logback.core.pattern.util.AlmostAsIsEscapeUtil void escape(java.lang.String, java.lang.StringBuffer, char, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.pattern.util.RegularEscapeUtil void escape(java.lang.String, java.lang.StringBuffer, char, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='ch.qos.logback.core.pattern.util.AlmostAsIsEscapeUtil void escape(java.lang.String, java.lang.StringBuffer, char, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='ch.qos.logback.core.pattern.util.RegularEscapeUtil void escape(java.lang.String, java.lang.StringBuffer, char, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.pattern.util.RestrictedEscapeUtil void escape(java.lang.String, java.lang.StringBuffer, char, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.pattern.util.RestrictedEscapeUtil void escape(java.lang.String, java.lang.StringBuffer, char, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

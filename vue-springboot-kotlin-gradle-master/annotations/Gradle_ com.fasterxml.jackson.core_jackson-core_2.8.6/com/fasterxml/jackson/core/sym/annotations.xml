@@ -1,0 +1,41 @@
+<root>
+    <item name='com.fasterxml.jackson.core.sym.CharsToNameCanonicalizer com.fasterxml.jackson.core.sym.CharsToNameCanonicalizer makeChild(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.sym.CharsToNameCanonicalizer int calcHash(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.sym.ByteQuadsCanonicalizer int calcHash(int[], int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.sym.CharsToNameCanonicalizer com.fasterxml.jackson.core.sym.CharsToNameCanonicalizer createRoot()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.sym.ByteQuadsCanonicalizer com.fasterxml.jackson.core.sym.ByteQuadsCanonicalizer createRoot(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.sym.NameN com.fasterxml.jackson.core.sym.NameN construct(java.lang.String, int, int[], int) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.sym.ByteQuadsCanonicalizer java.lang.String addName(java.lang.String, int[], int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.sym.ByteQuadsCanonicalizer java.lang.String findName(int[], int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.sym.Name1 com.fasterxml.jackson.core.sym.Name1 getEmptyName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.sym.CharsToNameCanonicalizer com.fasterxml.jackson.core.sym.CharsToNameCanonicalizer createRoot(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.sym.ByteQuadsCanonicalizer com.fasterxml.jackson.core.sym.ByteQuadsCanonicalizer makeChild(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.sym.ByteQuadsCanonicalizer com.fasterxml.jackson.core.sym.ByteQuadsCanonicalizer createRoot()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.sym.NameN com.fasterxml.jackson.core.sym.NameN construct(java.lang.String, int, int[], int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

@@ -1,0 +1,701 @@
+<root>
+    <item name='com.jayway.jsonpath.Configuration com.jayway.jsonpath.Configuration jsonProvider(com.jayway.jsonpath.spi.json.JsonProvider)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.JsonPath boolean isPathDefinite(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.WriteContext com.jayway.jsonpath.DocumentContext renameKey(java.lang.String, java.lang.String, java.lang.String, com.jayway.jsonpath.Predicate...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.jayway.jsonpath.JsonPath com.jayway.jsonpath.JsonPath compile(java.lang.String, com.jayway.jsonpath.Predicate...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.WriteContext com.jayway.jsonpath.DocumentContext set(com.jayway.jsonpath.JsonPath, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.jayway.jsonpath.WriteContext com.jayway.jsonpath.DocumentContext put(com.jayway.jsonpath.JsonPath, java.lang.String, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.jayway.jsonpath.WriteContext com.jayway.jsonpath.DocumentContext add(java.lang.String, java.lang.Object, com.jayway.jsonpath.Predicate...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.jayway.jsonpath.Criteria com.jayway.jsonpath.Criteria create(java.lang.String, java.lang.String, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.Criteria com.jayway.jsonpath.Criteria all(java.util.Collection&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.JsonPath com.jayway.jsonpath.DocumentContext parse(java.net.URL, com.jayway.jsonpath.Configuration)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.WriteContext com.jayway.jsonpath.DocumentContext map(com.jayway.jsonpath.JsonPath, com.jayway.jsonpath.MapFunction) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.jayway.jsonpath.WriteContext com.jayway.jsonpath.DocumentContext delete(com.jayway.jsonpath.JsonPath) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.jayway.jsonpath.WriteContext com.jayway.jsonpath.DocumentContext add(com.jayway.jsonpath.JsonPath, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.jayway.jsonpath.JsonPath com.jayway.jsonpath.DocumentContext parse(java.io.InputStream) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.EvaluationListener com.jayway.jsonpath.EvaluationListener.EvaluationContinuation resultFound(com.jayway.jsonpath.EvaluationListener.FoundResult)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.jayway.jsonpath.Configuration com.jayway.jsonpath.Configuration defaultConfiguration()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.JsonPath com.jayway.jsonpath.DocumentContext parse(java.io.InputStream, com.jayway.jsonpath.Configuration) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.JsonPath T read(java.lang.String, com.jayway.jsonpath.Configuration) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.Criteria com.jayway.jsonpath.Criteria and(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.Option AS_PATH_LIST'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.Configuration.ConfigurationBuilder com.jayway.jsonpath.Configuration.ConfigurationBuilder evaluationListener(java.util.Collection&lt;com.jayway.jsonpath.EvaluationListener&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.JsonPath com.jayway.jsonpath.DocumentContext parse(java.io.File, com.jayway.jsonpath.Configuration) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.JsonPath T set(java.lang.Object, java.lang.Object, com.jayway.jsonpath.Configuration) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.WriteContext com.jayway.jsonpath.DocumentContext put(com.jayway.jsonpath.JsonPath, java.lang.String, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.jayway.jsonpath.JsonPath com.jayway.jsonpath.DocumentContext parse(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.Criteria com.jayway.jsonpath.Criteria parse(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.JsonPath com.jayway.jsonpath.DocumentContext parse(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.WriteContext com.jayway.jsonpath.Configuration configuration()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.jayway.jsonpath.WriteContext com.jayway.jsonpath.DocumentContext map(com.jayway.jsonpath.JsonPath, com.jayway.jsonpath.MapFunction) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.jayway.jsonpath.Configuration.ConfigurationBuilder com.jayway.jsonpath.Configuration.ConfigurationBuilder options(com.jayway.jsonpath.Option...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.Criteria com.jayway.jsonpath.Criteria eq(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.Criteria com.jayway.jsonpath.Criteria lt(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.JsonPath com.jayway.jsonpath.ParseContext using(com.jayway.jsonpath.Configuration)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.Criteria com.jayway.jsonpath.Criteria gte(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.JsonPath T put(java.lang.Object, java.lang.String, java.lang.Object, com.jayway.jsonpath.Configuration) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.Criteria com.jayway.jsonpath.Criteria regex(java.util.regex.Pattern)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.WriteContext com.jayway.jsonpath.DocumentContext renameKey(java.lang.String, java.lang.String, java.lang.String, com.jayway.jsonpath.Predicate...) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.jayway.jsonpath.Configuration com.jayway.jsonpath.Configuration setOptions(com.jayway.jsonpath.Option...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.JsonPath com.jayway.jsonpath.DocumentContext parse(java.io.File)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.Criteria com.jayway.jsonpath.Criteria where(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.Configuration com.jayway.jsonpath.spi.mapper.MappingProvider mappingProvider()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.Filter com.jayway.jsonpath.Filter filter(com.jayway.jsonpath.Predicate)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.JsonPath com.jayway.jsonpath.DocumentContext parse(java.io.File, com.jayway.jsonpath.Configuration) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.JsonPath T read(java.io.File, com.jayway.jsonpath.Configuration) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.WriteContext com.jayway.jsonpath.DocumentContext map(java.lang.String, com.jayway.jsonpath.MapFunction, com.jayway.jsonpath.Predicate...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.jayway.jsonpath.Criteria com.jayway.jsonpath.Criteria lte(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.Configuration.ConfigurationBuilder com.jayway.jsonpath.Configuration.ConfigurationBuilder jsonProvider(com.jayway.jsonpath.spi.json.JsonProvider)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.Criteria com.jayway.jsonpath.Criteria in(java.util.Collection&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.JsonPath T read(java.lang.String, java.lang.String, com.jayway.jsonpath.Predicate...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.Criteria com.jayway.jsonpath.Criteria where(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.JsonPath com.jayway.jsonpath.DocumentContext parse(java.io.File) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.ParseContext com.jayway.jsonpath.DocumentContext parse(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.jayway.jsonpath.Criteria com.jayway.jsonpath.Criteria matches(com.jayway.jsonpath.Predicate)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.Filter com.jayway.jsonpath.Filter parse(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.EvaluationListener com.jayway.jsonpath.EvaluationListener.EvaluationContinuation resultFound(com.jayway.jsonpath.EvaluationListener.FoundResult) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.jayway.jsonpath.ValueCompareException ValueCompareException(java.lang.Object, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.WriteContext com.jayway.jsonpath.DocumentContext delete(java.lang.String, com.jayway.jsonpath.Predicate...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.jayway.jsonpath.JsonPath T renameKey(java.lang.Object, java.lang.String, java.lang.String, com.jayway.jsonpath.Configuration) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.ParseContext com.jayway.jsonpath.DocumentContext parse(java.io.File) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.jayway.jsonpath.WriteContext com.jayway.jsonpath.DocumentContext renameKey(com.jayway.jsonpath.JsonPath, java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.jayway.jsonpath.JsonPath com.jayway.jsonpath.DocumentContext parse(java.net.URL) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.JsonPath T read(java.lang.Object, java.lang.String, com.jayway.jsonpath.Predicate...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.EvaluationListener.EvaluationContinuation CONTINUE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.Criteria com.jayway.jsonpath.Criteria contains(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.ParseContext com.jayway.jsonpath.DocumentContext parse(java.io.InputStream)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.jayway.jsonpath.Criteria com.jayway.jsonpath.Criteria in(java.lang.Object...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.Configuration com.jayway.jsonpath.Configuration.ConfigurationBuilder builder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.Configuration com.jayway.jsonpath.Configuration setEvaluationListeners(com.jayway.jsonpath.EvaluationListener...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.JsonPath T renameKey(java.lang.Object, java.lang.String, java.lang.String, com.jayway.jsonpath.Configuration) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.JsonPath T read(java.io.File, com.jayway.jsonpath.Configuration) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.Configuration.ConfigurationBuilder com.jayway.jsonpath.Configuration.ConfigurationBuilder mappingProvider(com.jayway.jsonpath.spi.mapper.MappingProvider)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.Configuration.ConfigurationBuilder com.jayway.jsonpath.Configuration.ConfigurationBuilder options(java.util.Set&lt;com.jayway.jsonpath.Option&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.WriteContext com.jayway.jsonpath.DocumentContext map(java.lang.String, com.jayway.jsonpath.MapFunction, com.jayway.jsonpath.Predicate...) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.jayway.jsonpath.ParseContext com.jayway.jsonpath.DocumentContext parse(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.jayway.jsonpath.WriteContext com.jayway.jsonpath.DocumentContext put(com.jayway.jsonpath.JsonPath, java.lang.String, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.jayway.jsonpath.Criteria com.jayway.jsonpath.Criteria type(java.lang.Class&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.JsonPath T put(java.lang.Object, java.lang.String, java.lang.Object, com.jayway.jsonpath.Configuration) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.ValueCompareException ValueCompareException(java.lang.Object, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.JsonPath com.jayway.jsonpath.DocumentContext parse(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.Criteria com.jayway.jsonpath.Criteria and(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.JsonPath com.jayway.jsonpath.DocumentContext parse(java.net.URL)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.JsonPath com.jayway.jsonpath.JsonPath compile(java.lang.String, com.jayway.jsonpath.Predicate...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.JsonPath com.jayway.jsonpath.DocumentContext parse(java.io.InputStream, com.jayway.jsonpath.Configuration) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.Criteria com.jayway.jsonpath.Criteria nin(java.util.Collection&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.Criteria com.jayway.jsonpath.Criteria notEmpty()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.JsonPath com.jayway.jsonpath.DocumentContext parse(java.net.URL, com.jayway.jsonpath.Configuration) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.JsonPath T renameKey(java.lang.Object, java.lang.String, java.lang.String, com.jayway.jsonpath.Configuration) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.ReadContext com.jayway.jsonpath.ReadContext withListeners(com.jayway.jsonpath.EvaluationListener...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.jayway.jsonpath.WriteContext com.jayway.jsonpath.DocumentContext add(com.jayway.jsonpath.JsonPath, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.jayway.jsonpath.WriteContext com.jayway.jsonpath.DocumentContext set(java.lang.String, java.lang.Object, com.jayway.jsonpath.Predicate...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.jayway.jsonpath.JsonPath T delete(java.lang.Object, com.jayway.jsonpath.Configuration) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.WriteContext com.jayway.jsonpath.DocumentContext add(java.lang.String, java.lang.Object, com.jayway.jsonpath.Predicate...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.jayway.jsonpath.JsonPath T read(java.io.File) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.Configuration.ConfigurationBuilder com.jayway.jsonpath.Configuration.ConfigurationBuilder options(com.jayway.jsonpath.Option...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.ReadContext T read(com.jayway.jsonpath.JsonPath) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.jayway.jsonpath.Filter com.jayway.jsonpath.Filter filter(java.util.Collection&lt;com.jayway.jsonpath.Predicate&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.JsonPath T map(java.lang.Object, com.jayway.jsonpath.MapFunction, com.jayway.jsonpath.Configuration) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.Option DEFAULT_PATH_LEAF_TO_NULL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.WriteContext com.jayway.jsonpath.DocumentContext set(com.jayway.jsonpath.JsonPath, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.jayway.jsonpath.ReadContext com.jayway.jsonpath.Configuration configuration()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.jayway.jsonpath.Configuration.Defaults com.jayway.jsonpath.spi.mapper.MappingProvider mappingProvider()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.jayway.jsonpath.JsonPath com.jayway.jsonpath.ParseContext using(com.jayway.jsonpath.Configuration) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.Criteria com.jayway.jsonpath.Criteria nin(java.lang.Object...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.Option ALWAYS_RETURN_LIST'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.WriteContext com.jayway.jsonpath.DocumentContext delete(com.jayway.jsonpath.JsonPath)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.jayway.jsonpath.WriteContext com.jayway.jsonpath.DocumentContext renameKey(com.jayway.jsonpath.JsonPath, java.lang.String, java.lang.String) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.jayway.jsonpath.Criteria com.jayway.jsonpath.Criteria all(java.lang.Object...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.Criteria com.jayway.jsonpath.Criteria is(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.Criteria com.jayway.jsonpath.Criteria empty(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.Criteria com.jayway.jsonpath.Criteria nin(java.util.Collection&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.ReadContext T read(com.jayway.jsonpath.JsonPath, com.jayway.jsonpath.TypeRef&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.jayway.jsonpath.Criteria com.jayway.jsonpath.Criteria all(java.util.Collection&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.ParseContext com.jayway.jsonpath.DocumentContext parse(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.jayway.jsonpath.Criteria com.jayway.jsonpath.Criteria create(java.lang.String, java.lang.String, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.JsonPath com.jayway.jsonpath.DocumentContext parse(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.Criteria com.jayway.jsonpath.Criteria parse(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.JsonPath T delete(java.lang.Object, com.jayway.jsonpath.Configuration) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.Option SUPPRESS_EXCEPTIONS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.Criteria com.jayway.jsonpath.Criteria where(com.jayway.jsonpath.internal.Path)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.ReadContext T read(com.jayway.jsonpath.JsonPath, java.lang.Class&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.jayway.jsonpath.WriteContext com.jayway.jsonpath.DocumentContext map(java.lang.String, com.jayway.jsonpath.MapFunction, com.jayway.jsonpath.Predicate...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.jayway.jsonpath.JsonPath T read(java.io.InputStream, java.lang.String, com.jayway.jsonpath.Predicate...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.JsonPath T read(java.io.InputStream, com.jayway.jsonpath.Configuration) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.WriteContext com.jayway.jsonpath.DocumentContext put(java.lang.String, java.lang.String, java.lang.Object, com.jayway.jsonpath.Predicate...) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.jayway.jsonpath.Filter com.jayway.jsonpath.Filter or(com.jayway.jsonpath.Predicate)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.JsonPath com.jayway.jsonpath.DocumentContext parse(java.lang.String, com.jayway.jsonpath.Configuration) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.Option REQUIRE_PROPERTIES'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.JsonPath com.jayway.jsonpath.DocumentContext parse(java.io.InputStream, com.jayway.jsonpath.Configuration)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.JsonPath T add(java.lang.Object, java.lang.Object, com.jayway.jsonpath.Configuration) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.JsonPath T read(java.io.InputStream, java.lang.String, com.jayway.jsonpath.Configuration) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.JsonPath T read(java.lang.String, com.jayway.jsonpath.Configuration) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.JsonPath T read(java.io.InputStream) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.Criteria com.jayway.jsonpath.Criteria gt(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.Criteria com.jayway.jsonpath.Criteria regex(java.util.regex.Pattern) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.Configuration com.jayway.jsonpath.Configuration addOptions(com.jayway.jsonpath.Option...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.WriteContext com.jayway.jsonpath.DocumentContext put(java.lang.String, java.lang.String, java.lang.Object, com.jayway.jsonpath.Predicate...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.jayway.jsonpath.ParseContext com.jayway.jsonpath.DocumentContext parse(java.io.InputStream, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.jayway.jsonpath.JsonPath T read(java.lang.Object, com.jayway.jsonpath.Configuration) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.Criteria com.jayway.jsonpath.Criteria exists(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.WriteContext com.jayway.jsonpath.DocumentContext map(com.jayway.jsonpath.JsonPath, com.jayway.jsonpath.MapFunction)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.jayway.jsonpath.Configuration com.jayway.jsonpath.Configuration mappingProvider(com.jayway.jsonpath.spi.mapper.MappingProvider)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.EvaluationListener.EvaluationContinuation ABORT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.WriteContext com.jayway.jsonpath.DocumentContext put(java.lang.String, java.lang.String, java.lang.Object, com.jayway.jsonpath.Predicate...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.jayway.jsonpath.JsonPath com.jayway.jsonpath.DocumentContext parse(java.lang.Object, com.jayway.jsonpath.Configuration) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.JsonPath com.jayway.jsonpath.DocumentContext parse(java.lang.String, com.jayway.jsonpath.Configuration) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.JsonPath T map(java.lang.Object, com.jayway.jsonpath.MapFunction, com.jayway.jsonpath.Configuration) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.ParseContext com.jayway.jsonpath.DocumentContext parse(java.io.InputStream) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.jayway.jsonpath.Configuration com.jayway.jsonpath.Configuration addEvaluationListeners(com.jayway.jsonpath.EvaluationListener...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.JsonPath T put(java.lang.Object, java.lang.String, java.lang.Object, com.jayway.jsonpath.Configuration) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.JsonPath T read(java.io.InputStream, com.jayway.jsonpath.Configuration) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.Configuration.Defaults com.jayway.jsonpath.spi.json.JsonProvider jsonProvider()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.jayway.jsonpath.ParseContext com.jayway.jsonpath.DocumentContext parse(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.jayway.jsonpath.WriteContext com.jayway.jsonpath.DocumentContext renameKey(com.jayway.jsonpath.JsonPath, java.lang.String, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.jayway.jsonpath.JsonPath com.jayway.jsonpath.DocumentContext parse(java.lang.Object, com.jayway.jsonpath.Configuration)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.ParseContext com.jayway.jsonpath.DocumentContext parse(java.io.File)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.jayway.jsonpath.JsonPath T read(java.io.InputStream, java.lang.String, com.jayway.jsonpath.Configuration) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.JsonPath T add(java.lang.Object, java.lang.Object, com.jayway.jsonpath.Configuration) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.JsonPath T read(java.io.InputStream, java.lang.String, com.jayway.jsonpath.Configuration) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.Criteria com.jayway.jsonpath.Criteria in(java.util.Collection&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.Filter com.jayway.jsonpath.Filter and(com.jayway.jsonpath.Predicate)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.JsonPath com.jayway.jsonpath.DocumentContext parse(java.lang.String, com.jayway.jsonpath.Configuration)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.ReadContext com.jayway.jsonpath.ReadContext limit(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.jayway.jsonpath.Configuration com.jayway.jsonpath.spi.json.JsonProvider jsonProvider()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.JsonPath com.jayway.jsonpath.DocumentContext parse(java.net.URL, com.jayway.jsonpath.Configuration) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.JsonPath T read(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.WriteContext com.jayway.jsonpath.DocumentContext delete(java.lang.String, com.jayway.jsonpath.Predicate...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.jayway.jsonpath.Criteria com.jayway.jsonpath.Criteria ne(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.JsonPath T set(java.lang.Object, java.lang.Object, com.jayway.jsonpath.Configuration) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.JsonPath com.jayway.jsonpath.DocumentContext parse(java.io.InputStream)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.Configuration.ConfigurationBuilder com.jayway.jsonpath.Configuration.ConfigurationBuilder evaluationListener(com.jayway.jsonpath.EvaluationListener...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.JsonPath com.jayway.jsonpath.DocumentContext parse(java.io.File, com.jayway.jsonpath.Configuration)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.JsonPath T read(java.io.File, java.lang.String, com.jayway.jsonpath.Predicate...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.JsonPath T read(java.net.URL, java.lang.String, com.jayway.jsonpath.Predicate...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.ParseContext com.jayway.jsonpath.DocumentContext parse(java.io.InputStream, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.jayway.jsonpath.Configuration com.jayway.jsonpath.Configuration setOptions(com.jayway.jsonpath.Option...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.JsonPath T map(java.lang.Object, com.jayway.jsonpath.MapFunction, com.jayway.jsonpath.Configuration) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.JsonPath com.jayway.jsonpath.DocumentContext parse(java.lang.Object, com.jayway.jsonpath.Configuration) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.WriteContext com.jayway.jsonpath.DocumentContext set(java.lang.String, java.lang.Object, com.jayway.jsonpath.Predicate...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.jayway.jsonpath.Configuration.ConfigurationBuilder com.jayway.jsonpath.Configuration build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.Criteria com.jayway.jsonpath.Criteria size(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.WriteContext com.jayway.jsonpath.DocumentContext renameKey(java.lang.String, java.lang.String, java.lang.String, com.jayway.jsonpath.Predicate...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.jayway.jsonpath.JsonPath com.jayway.jsonpath.ParseContext using(com.jayway.jsonpath.spi.json.JsonProvider)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

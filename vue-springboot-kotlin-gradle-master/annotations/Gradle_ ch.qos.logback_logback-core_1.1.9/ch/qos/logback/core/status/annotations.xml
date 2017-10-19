@@ -1,0 +1,59 @@
+<root>
+    <item name='ch.qos.logback.core.status.StatusUtil StatusUtil(ch.qos.logback.core.Context) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.status.StatusManager java.util.List&lt;ch.qos.logback.core.status.Status&gt; getCopyOfStatusList()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='ch.qos.logback.core.status.Status void add(ch.qos.logback.core.status.Status) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='ch.qos.logback.core.status.StatusBase void add(ch.qos.logback.core.status.Status) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.status.StatusManager java.util.List&lt;ch.qos.logback.core.status.StatusListener&gt; getCopyOfStatusListenerList()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='ch.qos.logback.core.status.StatusUtil boolean contextHasStatusListener(ch.qos.logback.core.Context) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.status.StatusManager void add(ch.qos.logback.core.status.Status) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='ch.qos.logback.core.status.StatusUtil java.util.List&lt;ch.qos.logback.core.status.Status&gt; filterStatusListByTimeThreshold(java.util.List&lt;ch.qos.logback.core.status.Status&gt;, long) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.status.ViewStatusMessagesServletBase void printHeader(java.lang.StringBuilder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.status.StatusUtil java.util.List&lt;ch.qos.logback.core.status.Status&gt; filterStatusListByTimeThreshold(java.util.List&lt;ch.qos.logback.core.status.Status&gt;, long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.status.ViewStatusMessagesServletBase void printCSS(java.lang.String, java.io.PrintWriter) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.status.ViewStatusMessagesServletBase void printList(java.lang.StringBuilder, ch.qos.logback.core.status.StatusManager) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.status.ViewStatusMessagesServletBase void printList(java.lang.StringBuilder, ch.qos.logback.core.status.StatusManager) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.status.ViewStatusMessagesServletBase void service(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.status.ViewStatusMessagesServletBase void service(javax.servlet.http.HttpServletRequest, javax.servlet.http.HttpServletResponse) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

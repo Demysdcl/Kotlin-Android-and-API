@@ -1,0 +1,308 @@
+<root>
+    <item name='com.jayway.jsonpath.internal.JsonContext com.jayway.jsonpath.DocumentContext renameKey(com.jayway.jsonpath.JsonPath, java.lang.String, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.JsonContext com.jayway.jsonpath.DocumentContext renameKey(java.lang.String, java.lang.String, java.lang.String, com.jayway.jsonpath.Predicate...) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.JsonContext com.jayway.jsonpath.DocumentContext put(java.lang.String, java.lang.String, java.lang.Object, com.jayway.jsonpath.Predicate...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.JsonContext com.jayway.jsonpath.DocumentContext map(com.jayway.jsonpath.JsonPath, com.jayway.jsonpath.MapFunction) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.JsonContext com.jayway.jsonpath.DocumentContext put(com.jayway.jsonpath.JsonPath, java.lang.String, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.JsonContext com.jayway.jsonpath.DocumentContext map(com.jayway.jsonpath.JsonPath, com.jayway.jsonpath.MapFunction)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.JsonContext com.jayway.jsonpath.DocumentContext parse(java.io.InputStream)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.JsonContext com.jayway.jsonpath.DocumentContext put(java.lang.String, java.lang.String, java.lang.Object, com.jayway.jsonpath.Predicate...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.PathRef int compareTo(com.jayway.jsonpath.internal.PathRef) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.DefaultsImpl com.jayway.jsonpath.spi.json.JsonProvider jsonProvider()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.JsonContext com.jayway.jsonpath.DocumentContext map(java.lang.String, com.jayway.jsonpath.MapFunction, com.jayway.jsonpath.Predicate...) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.JsonContext com.jayway.jsonpath.DocumentContext parse(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.PathRef com.jayway.jsonpath.internal.PathRef create(java.lang.Object, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.Utils T notEmpty(T, java.lang.String, java.lang.Object...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.JsonContext com.jayway.jsonpath.DocumentContext parse(java.io.InputStream, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.DefaultsImpl INSTANCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.EvaluationContext java.lang.Object rootDocument()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.jayway.jsonpath.internal.JsonContext com.jayway.jsonpath.DocumentContext renameKey(com.jayway.jsonpath.JsonPath, java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.Utils java.lang.String concat(java.lang.CharSequence...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.PathRef void put(java.lang.String, java.lang.Object, com.jayway.jsonpath.Configuration) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.jayway.jsonpath.internal.JsonContext com.jayway.jsonpath.DocumentContext parse(java.io.File)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.JsonContext com.jayway.jsonpath.DocumentContext map(java.lang.String, com.jayway.jsonpath.MapFunction, com.jayway.jsonpath.Predicate...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.Path com.jayway.jsonpath.internal.EvaluationContext evaluate(java.lang.Object, java.lang.Object, com.jayway.jsonpath.Configuration)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.jayway.jsonpath.internal.PathRef int compareTo(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.JsonContext com.jayway.jsonpath.ReadContext limit(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.JsonContext com.jayway.jsonpath.DocumentContext parse(java.io.InputStream, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.JsonContext com.jayway.jsonpath.DocumentContext delete(java.lang.String, com.jayway.jsonpath.Predicate...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.JsonContext com.jayway.jsonpath.DocumentContext set(com.jayway.jsonpath.JsonPath, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.PathRef NO_OP'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.Utils boolean onlyOneIsTrueNonThrow(boolean...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.JsonContext com.jayway.jsonpath.Configuration configuration()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.JsonContext com.jayway.jsonpath.DocumentContext parse(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.JsonContext com.jayway.jsonpath.DocumentContext put(java.lang.String, java.lang.String, java.lang.Object, com.jayway.jsonpath.Predicate...) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.JsonContext com.jayway.jsonpath.DocumentContext put(com.jayway.jsonpath.JsonPath, java.lang.String, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.JsonContext com.jayway.jsonpath.DocumentContext map(com.jayway.jsonpath.JsonPath, com.jayway.jsonpath.MapFunction) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.PathRef void delete(com.jayway.jsonpath.Configuration) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.jayway.jsonpath.internal.JsonContext JsonContext(com.jayway.jsonpath.Configuration) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.EvaluationAbortException java.lang.Throwable fillInStackTrace()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.JsonContext com.jayway.jsonpath.DocumentContext renameKey(java.lang.String, java.lang.String, java.lang.String, com.jayway.jsonpath.Predicate...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.JsonContext com.jayway.jsonpath.DocumentContext set(java.lang.String, java.lang.Object, com.jayway.jsonpath.Predicate...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.JsonContext com.jayway.jsonpath.DocumentContext parse(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.Path com.jayway.jsonpath.internal.EvaluationContext evaluate(java.lang.Object, java.lang.Object, com.jayway.jsonpath.Configuration) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.jayway.jsonpath.internal.Path com.jayway.jsonpath.internal.EvaluationContext evaluate(java.lang.Object, java.lang.Object, com.jayway.jsonpath.Configuration, boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.jayway.jsonpath.internal.PathRef void convert(com.jayway.jsonpath.MapFunction, com.jayway.jsonpath.Configuration) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.jayway.jsonpath.internal.JsonContext com.jayway.jsonpath.DocumentContext renameKey(java.lang.String, java.lang.String, java.lang.String, com.jayway.jsonpath.Predicate...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.JsonContext com.jayway.jsonpath.ReadContext withListeners(com.jayway.jsonpath.EvaluationListener...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.JsonContext com.jayway.jsonpath.DocumentContext add(java.lang.String, java.lang.Object, com.jayway.jsonpath.Predicate...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.JsonContext com.jayway.jsonpath.DocumentContext put(com.jayway.jsonpath.JsonPath, java.lang.String, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.Utils java.lang.String join(java.lang.String, java.lang.Iterable&lt;? extends java.lang.Object&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.Utils T notNull(T, java.lang.String, java.lang.Object...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.Utils T notNull(T, java.lang.String, java.lang.Object...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.JsonContext com.jayway.jsonpath.DocumentContext add(java.lang.String, java.lang.Object, com.jayway.jsonpath.Predicate...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.PathRef void renameInMap(java.lang.Object, java.lang.String, java.lang.String, com.jayway.jsonpath.Configuration) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.JsonContext com.jayway.jsonpath.DocumentContext delete(java.lang.String, com.jayway.jsonpath.Predicate...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.PathRef com.jayway.jsonpath.internal.PathRef create(java.lang.Object, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.JsonContext com.jayway.jsonpath.DocumentContext add(com.jayway.jsonpath.JsonPath, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.JsonContext com.jayway.jsonpath.DocumentContext delete(com.jayway.jsonpath.JsonPath)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.Path com.jayway.jsonpath.internal.EvaluationContext evaluate(java.lang.Object, java.lang.Object, com.jayway.jsonpath.Configuration) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.jayway.jsonpath.internal.JsonContext com.jayway.jsonpath.DocumentContext add(com.jayway.jsonpath.JsonPath, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.Path com.jayway.jsonpath.internal.EvaluationContext evaluate(java.lang.Object, java.lang.Object, com.jayway.jsonpath.Configuration, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.jayway.jsonpath.internal.Utils java.lang.String join(java.lang.String, java.lang.String, java.lang.Iterable&lt;? extends java.lang.Object&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.JsonContext com.jayway.jsonpath.DocumentContext delete(com.jayway.jsonpath.JsonPath) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.EvaluationContext com.jayway.jsonpath.Configuration configuration()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.jayway.jsonpath.internal.Path com.jayway.jsonpath.internal.EvaluationContext evaluate(java.lang.Object, java.lang.Object, com.jayway.jsonpath.Configuration, boolean) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.jayway.jsonpath.internal.JsonContext com.jayway.jsonpath.DocumentContext renameKey(com.jayway.jsonpath.JsonPath, java.lang.String, java.lang.String) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.PathRef void convert(com.jayway.jsonpath.MapFunction, com.jayway.jsonpath.Configuration) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.jayway.jsonpath.internal.PathRef com.jayway.jsonpath.internal.PathRef createRoot(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.JsonContext T read(com.jayway.jsonpath.JsonPath, com.jayway.jsonpath.TypeRef&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.PathRef void renameKey(java.lang.String, java.lang.String, com.jayway.jsonpath.Configuration) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.jayway.jsonpath.internal.CharacterIndex com.jayway.jsonpath.internal.CharacterIndex skipBlanks()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.EvaluationContext java.util.List&lt;java.lang.String&gt; getPathList()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.jayway.jsonpath.internal.JsonContext com.jayway.jsonpath.DocumentContext parse(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.JsonContext com.jayway.jsonpath.DocumentContext map(java.lang.String, com.jayway.jsonpath.MapFunction, com.jayway.jsonpath.Predicate...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.JsonContext com.jayway.jsonpath.DocumentContext set(java.lang.String, java.lang.Object, com.jayway.jsonpath.Predicate...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.DefaultsImpl com.jayway.jsonpath.spi.mapper.MappingProvider mappingProvider()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.JsonContext com.jayway.jsonpath.DocumentContext set(com.jayway.jsonpath.JsonPath, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.Utils T notEmpty(T, java.lang.String, java.lang.Object...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.PathRef com.jayway.jsonpath.internal.PathRef create(java.lang.Object, java.util.Collection&lt;java.lang.String&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.CharacterIndex void readSignificantSubSequence(java.lang.CharSequence) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.JsonContext com.jayway.jsonpath.DocumentContext parse(java.io.InputStream) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.PathRef void set(java.lang.Object, com.jayway.jsonpath.Configuration) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.jayway.jsonpath.internal.JsonContext com.jayway.jsonpath.DocumentContext parse(java.io.File) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.JsonContext T read(com.jayway.jsonpath.JsonPath) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.JsonContext T read(com.jayway.jsonpath.JsonPath, java.lang.Class&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.PathRef void add(java.lang.Object, com.jayway.jsonpath.Configuration) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.jayway.jsonpath.internal.Utils void onlyOneIsTrue(java.lang.String, boolean...) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

@@ -1,0 +1,20 @@
+<root>
+    <item name='ch.qos.logback.classic.gaffer.ComponentDelegate java.lang.String getLabel()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.gaffer.AppenderDelegate java.lang.String super$3$getLabel()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.gaffer.GafferConfigurator java.lang.String getDEBUG_SYSTEM_PROPERTY_KEY()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.gaffer.NestingType ch.qos.logback.classic.gaffer.NestingType $INIT(java.lang.Object...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.gaffer.ConfigurationDelegate java.lang.Object getDeclaredOrigin()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.gaffer.AppenderDelegate java.lang.String getLabel()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

@@ -1,0 +1,974 @@
+<root>
+    <item name='com.fasterxml.jackson.databind.introspect.JacksonAnnotationIntrospector com.fasterxml.jackson.databind.ser.BeanPropertyWriter _constructVirtualProperty(com.fasterxml.jackson.databind.annotation.JsonAppend.Attr, com.fasterxml.jackson.databind.cfg.MapperConfig&lt;?&gt;, com.fasterxml.jackson.databind.introspect.AnnotatedClass, com.fasterxml.jackson.databind.JavaType)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.AnnotatedClass com.fasterxml.jackson.databind.introspect.AnnotatedClass construct(com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.cfg.MapperConfig&lt;?&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.AnnotationIntrospectorPair java.lang.Enum&lt;?&gt; findDefaultEnumValue(java.lang.Class&lt;java.lang.Enum&lt;?&gt;&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.BasicClassIntrospector com.fasterxml.jackson.databind.introspect.BasicBeanDescription forDeserialization(com.fasterxml.jackson.databind.DeserializationConfig, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.introspect.ClassIntrospector.MixInResolver) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.VisibilityChecker.Std com.fasterxml.jackson.databind.introspect.VisibilityChecker withVisibility(com.fasterxml.jackson.annotation.PropertyAccessor, com.fasterxml.jackson.annotation.JsonAutoDetect.Visibility)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.AnnotatedClass void _addMixOvers(java.lang.reflect.Constructor&lt;?&gt;, com.fasterxml.jackson.databind.introspect.AnnotatedConstructor, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.AnnotationIntrospectorPair com.fasterxml.jackson.databind.jsontype.TypeResolverBuilder&lt;?&gt; findPropertyContentTypeResolver(com.fasterxml.jackson.databind.cfg.MapperConfig&lt;?&gt;, com.fasterxml.jackson.databind.introspect.AnnotatedMember, com.fasterxml.jackson.databind.JavaType) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.ClassIntrospector com.fasterxml.jackson.databind.BeanDescription forCreation(com.fasterxml.jackson.databind.DeserializationConfig, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.introspect.ClassIntrospector.MixInResolver) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.VisibilityChecker T with(com.fasterxml.jackson.annotation.JsonAutoDetect)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.POJOPropertyBuilder.Linked com.fasterxml.jackson.databind.introspect.POJOPropertyBuilder.Linked&lt;T&gt; withValue(T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.POJOPropertiesCollector void _removeUnwantedAccessor(java.util.Map&lt;java.lang.String,com.fasterxml.jackson.databind.introspect.POJOPropertyBuilder&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.AnnotatedMethod com.fasterxml.jackson.databind.introspect.AnnotatedMethod withAnnotations(com.fasterxml.jackson.databind.introspect.AnnotationMap)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.AnnotatedWithParams java.lang.Object call1(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.BasicClassIntrospector com.fasterxml.jackson.databind.BeanDescription forDirectClassAnnotations(com.fasterxml.jackson.databind.cfg.MapperConfig, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.introspect.ClassIntrospector.MixInResolver)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.BasicClassIntrospector com.fasterxml.jackson.databind.BeanDescription forCreation(com.fasterxml.jackson.databind.DeserializationConfig, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.introspect.ClassIntrospector.MixInResolver) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.AnnotationIntrospectorPair java.lang.String[] findEnumValues(java.lang.Class&lt;?&gt;, java.lang.Enum&lt;?&gt;[], java.lang.String[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.BasicClassIntrospector com.fasterxml.jackson.databind.BeanDescription forDeserialization(com.fasterxml.jackson.databind.DeserializationConfig, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.introspect.ClassIntrospector.MixInResolver) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.VisibilityChecker T withVisibility(com.fasterxml.jackson.annotation.PropertyAccessor, com.fasterxml.jackson.annotation.JsonAutoDetect.Visibility)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.AnnotatedClass com.fasterxml.jackson.databind.introspect.AnnotatedConstructor _constructDefaultConstructor(com.fasterxml.jackson.databind.util.ClassUtil.Ctor, com.fasterxml.jackson.databind.introspect.TypeResolutionContext)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.POJOPropertiesCollector java.util.List&lt;com.fasterxml.jackson.databind.introspect.BeanPropertyDefinition&gt; getProperties()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.BeanPropertyDefinition com.fasterxml.jackson.databind.PropertyName getFullName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.POJOPropertyBuilder com.fasterxml.jackson.databind.PropertyMetadata getMetadata()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.BasicClassIntrospector com.fasterxml.jackson.databind.introspect.BasicBeanDescription forClassAnnotations(com.fasterxml.jackson.databind.cfg.MapperConfig&lt;?&gt;, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.introspect.ClassIntrospector.MixInResolver)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.BasicBeanDescription com.fasterxml.jackson.databind.introspect.BasicBeanDescription forDeserialization(com.fasterxml.jackson.databind.introspect.POJOPropertiesCollector)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.MemberKey MemberKey(java.lang.reflect.Constructor&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.POJOPropertiesCollector void _renameWithWrappers(java.util.Map&lt;java.lang.String,com.fasterxml.jackson.databind.introspect.POJOPropertyBuilder&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.BasicBeanDescription BasicBeanDescription(com.fasterxml.jackson.databind.introspect.POJOPropertiesCollector, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.introspect.AnnotatedClass) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.AnnotatedClass com.fasterxml.jackson.databind.introspect.AnnotatedField _constructField(java.lang.reflect.Field, com.fasterxml.jackson.databind.introspect.TypeResolutionContext)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.BasicClassIntrospector com.fasterxml.jackson.databind.introspect.BasicBeanDescription forCreation(com.fasterxml.jackson.databind.DeserializationConfig, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.introspect.ClassIntrospector.MixInResolver) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.AnnotatedClass com.fasterxml.jackson.databind.introspect.AnnotationMap getAllAnnotations()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.JacksonAnnotationIntrospector java.lang.Enum&lt;?&gt; findDefaultEnumValue(java.lang.Class&lt;java.lang.Enum&lt;?&gt;&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.POJOPropertyBuilder com.fasterxml.jackson.databind.introspect.BeanPropertyDefinition withSimpleName(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.VisibilityChecker boolean isGetterVisible(com.fasterxml.jackson.databind.introspect.AnnotatedMethod) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.AnnotationIntrospectorPair java.lang.String[] findEnumValues(java.lang.Class&lt;?&gt;, java.lang.Enum&lt;?&gt;[], java.lang.String[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.VisibilityChecker boolean isSetterVisible(com.fasterxml.jackson.databind.introspect.AnnotatedMethod) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.BasicClassIntrospector com.fasterxml.jackson.databind.introspect.BasicBeanDescription _findStdJdkCollectionDesc(com.fasterxml.jackson.databind.cfg.MapperConfig&lt;?&gt;, com.fasterxml.jackson.databind.JavaType) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.VisibilityChecker.Std com.fasterxml.jackson.databind.introspect.VisibilityChecker.Std withGetterVisibility(com.fasterxml.jackson.annotation.JsonAutoDetect.Visibility)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.AnnotatedConstructor AnnotatedConstructor(com.fasterxml.jackson.databind.introspect.TypeResolutionContext, java.lang.reflect.Constructor&lt;?&gt;, com.fasterxml.jackson.databind.introspect.AnnotationMap, com.fasterxml.jackson.databind.introspect.AnnotationMap[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.VisibilityChecker.Std boolean isIsGetterVisible(com.fasterxml.jackson.databind.introspect.AnnotatedMethod) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.AnnotationIntrospectorPair com.fasterxml.jackson.databind.JavaType refineSerializationType(com.fasterxml.jackson.databind.cfg.MapperConfig&lt;?&gt;, com.fasterxml.jackson.databind.introspect.Annotated, com.fasterxml.jackson.databind.JavaType) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.POJOPropertyBuilder.Linked com.fasterxml.jackson.databind.introspect.POJOPropertyBuilder.Linked&lt;T&gt; withoutNext()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.POJOPropertyBuilder com.fasterxml.jackson.databind.introspect.POJOPropertyBuilder withSimpleName(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.BasicClassIntrospector com.fasterxml.jackson.databind.BeanDescription forSerialization(com.fasterxml.jackson.databind.SerializationConfig, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.introspect.ClassIntrospector.MixInResolver) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.AnnotatedWithParams void addOrOverrideParam(int, java.lang.annotation.Annotation) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.JacksonAnnotationIntrospector java.lang.String[] findEnumValues(java.lang.Class&lt;?&gt;, java.lang.Enum&lt;?&gt;[], java.lang.String[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.JacksonAnnotationIntrospector java.lang.Object readResolve()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.BeanPropertyDefinition java.util.Iterator&lt;com.fasterxml.jackson.databind.introspect.AnnotatedParameter&gt; getConstructorParameters()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.VisibilityChecker.Std com.fasterxml.jackson.databind.introspect.VisibilityChecker withCreatorVisibility(com.fasterxml.jackson.annotation.JsonAutoDetect.Visibility)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.JacksonAnnotationIntrospector com.fasterxml.jackson.databind.ser.BeanPropertyWriter _constructVirtualProperty(com.fasterxml.jackson.databind.annotation.JsonAppend.Attr, com.fasterxml.jackson.databind.cfg.MapperConfig&lt;?&gt;, com.fasterxml.jackson.databind.introspect.AnnotatedClass, com.fasterxml.jackson.databind.JavaType) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.AnnotatedClass com.fasterxml.jackson.databind.introspect.AnnotatedClass withAnnotations(com.fasterxml.jackson.databind.introspect.AnnotationMap)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.VisibilityChecker.Std Std(com.fasterxml.jackson.annotation.JsonAutoDetect) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.VisibilityChecker.Std com.fasterxml.jackson.databind.introspect.VisibilityChecker with(com.fasterxml.jackson.annotation.JsonAutoDetect)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.BasicClassIntrospector com.fasterxml.jackson.databind.BeanDescription forCreation(com.fasterxml.jackson.databind.DeserializationConfig, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.introspect.ClassIntrospector.MixInResolver)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.AnnotatedClass com.fasterxml.jackson.databind.introspect.AnnotatedClass construct(com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.cfg.MapperConfig&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.ClassIntrospector com.fasterxml.jackson.databind.BeanDescription forDeserialization(com.fasterxml.jackson.databind.DeserializationConfig, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.introspect.ClassIntrospector.MixInResolver) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.VisibilityChecker.Std DEFAULT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.AnnotatedClass void _addMixUnders(java.lang.reflect.Method, com.fasterxml.jackson.databind.introspect.AnnotatedMethod) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.JacksonAnnotationIntrospector com.fasterxml.jackson.databind.PropertyName _propertyName(java.lang.String, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.BasicClassIntrospector _cachedFCA'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.BasicClassIntrospector boolean _isStdJDKCollection(com.fasterxml.jackson.databind.JavaType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.JacksonAnnotationIntrospector com.fasterxml.jackson.databind.jsontype.TypeResolverBuilder&lt;?&gt; findPropertyContentTypeResolver(com.fasterxml.jackson.databind.cfg.MapperConfig&lt;?&gt;, com.fasterxml.jackson.databind.introspect.AnnotatedMember, com.fasterxml.jackson.databind.JavaType) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.VisibilityChecker.Std com.fasterxml.jackson.databind.introspect.VisibilityChecker withVisibility(com.fasterxml.jackson.annotation.PropertyAccessor, com.fasterxml.jackson.annotation.JsonAutoDetect.Visibility) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.POJOPropertiesCollector com.fasterxml.jackson.databind.cfg.MapperConfig&lt;?&gt; getConfig()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.BasicClassIntrospector STRING_DESC'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.AnnotatedClass com.fasterxml.jackson.databind.introspect.AnnotatedConstructor _constructDefaultConstructor(com.fasterxml.jackson.databind.util.ClassUtil.Ctor, com.fasterxml.jackson.databind.introspect.TypeResolutionContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.AnnotatedMethodMap com.fasterxml.jackson.databind.introspect.AnnotatedMethod remove(com.fasterxml.jackson.databind.introspect.AnnotatedMethod) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.ClassIntrospector com.fasterxml.jackson.databind.BeanDescription forSerialization(com.fasterxml.jackson.databind.SerializationConfig, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.introspect.ClassIntrospector.MixInResolver) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.AnnotatedClass com.fasterxml.jackson.databind.introspect.Annotated withAnnotations(com.fasterxml.jackson.databind.introspect.AnnotationMap)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.AnnotatedClass com.fasterxml.jackson.databind.introspect.AnnotatedConstructor _constructNonDefaultConstructor(com.fasterxml.jackson.databind.util.ClassUtil.Ctor, com.fasterxml.jackson.databind.introspect.TypeResolutionContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.POJOPropertyBuilder int compareTo(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.BasicBeanDescription com.fasterxml.jackson.databind.introspect.BasicBeanDescription forDeserialization(com.fasterxml.jackson.databind.introspect.POJOPropertiesCollector) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.JacksonAnnotationIntrospector com.fasterxml.jackson.databind.introspect.JacksonAnnotationIntrospector setConstructorPropertiesImpliesCreator(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.AnnotationIntrospectorPair com.fasterxml.jackson.databind.JavaType refineSerializationType(com.fasterxml.jackson.databind.cfg.MapperConfig&lt;?&gt;, com.fasterxml.jackson.databind.introspect.Annotated, com.fasterxml.jackson.databind.JavaType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.ConcreteBeanPropertyBase com.fasterxml.jackson.annotation.JsonInclude.Value findPropertyInclusion(com.fasterxml.jackson.databind.cfg.MapperConfig&lt;?&gt;, java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.VirtualAnnotatedMember com.fasterxml.jackson.databind.introspect.Annotated withAnnotations(com.fasterxml.jackson.databind.introspect.AnnotationMap)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.POJOPropertyBuilder.Linked com.fasterxml.jackson.databind.introspect.POJOPropertyBuilder.Linked&lt;T&gt; trimByVisibility()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.JacksonAnnotationIntrospector java.lang.String findEnumValue(java.lang.Enum&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.JacksonAnnotationIntrospector com.fasterxml.jackson.databind.ser.BeanPropertyWriter _constructVirtualProperty(com.fasterxml.jackson.databind.annotation.JsonAppend.Attr, com.fasterxml.jackson.databind.cfg.MapperConfig&lt;?&gt;, com.fasterxml.jackson.databind.introspect.AnnotatedClass, com.fasterxml.jackson.databind.JavaType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.AnnotationIntrospectorPair com.fasterxml.jackson.databind.jsontype.TypeResolverBuilder&lt;?&gt; findPropertyTypeResolver(com.fasterxml.jackson.databind.cfg.MapperConfig&lt;?&gt;, com.fasterxml.jackson.databind.introspect.AnnotatedMember, com.fasterxml.jackson.databind.JavaType) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.BasicClassIntrospector com.fasterxml.jackson.databind.BeanDescription forDeserialization(com.fasterxml.jackson.databind.DeserializationConfig, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.introspect.ClassIntrospector.MixInResolver)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.BasicClassIntrospector com.fasterxml.jackson.databind.introspect.BasicBeanDescription _findStdTypeDesc(com.fasterxml.jackson.databind.JavaType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.VisibilityChecker.Std com.fasterxml.jackson.databind.introspect.VisibilityChecker withIsGetterVisibility(com.fasterxml.jackson.annotation.JsonAutoDetect.Visibility)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.POJOPropertiesCollector _config'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.VisibilityChecker boolean isIsGetterVisible(com.fasterxml.jackson.databind.introspect.AnnotatedMethod) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.POJOPropertyBuilder int compareTo(com.fasterxml.jackson.databind.introspect.POJOPropertyBuilder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.ClassIntrospector com.fasterxml.jackson.databind.BeanDescription forDeserializationWithBuilder(com.fasterxml.jackson.databind.DeserializationConfig, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.introspect.ClassIntrospector.MixInResolver) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.JacksonAnnotationIntrospector java.lang.String[] findEnumValues(java.lang.Class&lt;?&gt;, java.lang.Enum&lt;?&gt;[], java.lang.String[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.BasicClassIntrospector com.fasterxml.jackson.databind.BeanDescription forDeserializationWithBuilder(com.fasterxml.jackson.databind.DeserializationConfig, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.introspect.ClassIntrospector.MixInResolver)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.POJOPropertyBuilder.Linked com.fasterxml.jackson.databind.introspect.POJOPropertyBuilder.Linked&lt;T&gt; append(com.fasterxml.jackson.databind.introspect.POJOPropertyBuilder.Linked&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.AnnotatedWithParams AnnotatedWithParams(com.fasterxml.jackson.databind.introspect.AnnotatedWithParams, com.fasterxml.jackson.databind.introspect.AnnotationMap[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.AnnotatedClass void _addMixOvers(java.lang.reflect.Method, com.fasterxml.jackson.databind.introspect.AnnotatedMethod, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.JacksonAnnotationIntrospector boolean isAnnotationBundle(java.lang.annotation.Annotation) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.AnnotationIntrospectorPair com.fasterxml.jackson.databind.JavaType refineDeserializationType(com.fasterxml.jackson.databind.cfg.MapperConfig&lt;?&gt;, com.fasterxml.jackson.databind.introspect.Annotated, com.fasterxml.jackson.databind.JavaType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.VisibilityChecker T withGetterVisibility(com.fasterxml.jackson.annotation.JsonAutoDetect.Visibility)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.AnnotationMap boolean addIfNotPresent(java.lang.annotation.Annotation) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.TypeResolutionContext com.fasterxml.jackson.databind.JavaType resolveType(java.lang.reflect.Type) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.ClassIntrospector com.fasterxml.jackson.databind.BeanDescription forDeserializationWithBuilder(com.fasterxml.jackson.databind.DeserializationConfig, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.introspect.ClassIntrospector.MixInResolver) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.BasicClassIntrospector com.fasterxml.jackson.databind.introspect.BasicBeanDescription forClassAnnotations(com.fasterxml.jackson.databind.cfg.MapperConfig&lt;?&gt;, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.introspect.ClassIntrospector.MixInResolver) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.POJOPropertiesCollector com.fasterxml.jackson.databind.introspect.POJOPropertyBuilder _property(java.util.Map&lt;java.lang.String,com.fasterxml.jackson.databind.introspect.POJOPropertyBuilder&gt;, com.fasterxml.jackson.databind.PropertyName) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.POJOPropertiesCollector void _addGetterMethod(java.util.Map&lt;java.lang.String,com.fasterxml.jackson.databind.introspect.POJOPropertyBuilder&gt;, com.fasterxml.jackson.databind.introspect.AnnotatedMethod, com.fasterxml.jackson.databind.AnnotationIntrospector) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.POJOPropertiesCollector com.fasterxml.jackson.databind.introspect.POJOPropertyBuilder _property(java.util.Map&lt;java.lang.String,com.fasterxml.jackson.databind.introspect.POJOPropertyBuilder&gt;, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.AnnotatedMember AnnotatedMember(com.fasterxml.jackson.databind.introspect.AnnotatedMember) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.BasicClassIntrospector com.fasterxml.jackson.databind.introspect.POJOPropertiesCollector collectPropertiesWithBuilder(com.fasterxml.jackson.databind.cfg.MapperConfig&lt;?&gt;, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.introspect.ClassIntrospector.MixInResolver, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.VisibilityChecker.Std boolean isFieldVisible(com.fasterxml.jackson.databind.introspect.AnnotatedField) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.VisibilityChecker.Std com.fasterxml.jackson.databind.introspect.VisibilityChecker.Std defaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.ClassIntrospector com.fasterxml.jackson.databind.BeanDescription forSerialization(com.fasterxml.jackson.databind.SerializationConfig, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.introspect.ClassIntrospector.MixInResolver)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.ClassIntrospector com.fasterxml.jackson.databind.BeanDescription forClassAnnotations(com.fasterxml.jackson.databind.cfg.MapperConfig&lt;?&gt;, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.introspect.ClassIntrospector.MixInResolver)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.BasicClassIntrospector BOOLEAN_DESC'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.VisibilityChecker.Std com.fasterxml.jackson.databind.introspect.VisibilityChecker.Std withIsGetterVisibility(com.fasterxml.jackson.annotation.JsonAutoDetect.Visibility)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.VisibilityChecker T withSetterVisibility(com.fasterxml.jackson.annotation.JsonAutoDetect.Visibility)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.POJOPropertiesCollector void _renameProperties(java.util.Map&lt;java.lang.String,com.fasterxml.jackson.databind.introspect.POJOPropertyBuilder&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.Annotated com.fasterxml.jackson.databind.introspect.AnnotationMap getAllAnnotations()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.AnnotatedClass com.fasterxml.jackson.databind.introspect.AnnotatedClass construct(com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.cfg.MapperConfig&lt;?&gt;, com.fasterxml.jackson.databind.introspect.ClassIntrospector.MixInResolver) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.AnnotatedClass com.fasterxml.jackson.databind.introspect.AnnotatedMethod _constructCreatorMethod(java.lang.reflect.Method, com.fasterxml.jackson.databind.introspect.TypeResolutionContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.POJOPropertyBuilder void addAll(com.fasterxml.jackson.databind.introspect.POJOPropertyBuilder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.BasicClassIntrospector LONG_DESC'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.AnnotatedConstructor com.fasterxml.jackson.databind.introspect.Annotated withAnnotations(com.fasterxml.jackson.databind.introspect.AnnotationMap)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.AnnotatedField com.fasterxml.jackson.databind.introspect.Annotated withAnnotations(com.fasterxml.jackson.databind.introspect.AnnotationMap)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.POJOPropertiesCollector com.fasterxml.jackson.databind.introspect.POJOPropertyBuilder _property(java.util.Map&lt;java.lang.String,com.fasterxml.jackson.databind.introspect.POJOPropertyBuilder&gt;, com.fasterxml.jackson.databind.PropertyName) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.VirtualAnnotatedMember VirtualAnnotatedMember(com.fasterxml.jackson.databind.introspect.TypeResolutionContext, java.lang.Class&lt;?&gt;, java.lang.String, java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.POJOPropertyBuilder.Linked com.fasterxml.jackson.databind.introspect.POJOPropertyBuilder.Linked&lt;T&gt; withNext(com.fasterxml.jackson.databind.introspect.POJOPropertyBuilder.Linked&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.TypeResolutionContext.Basic com.fasterxml.jackson.databind.JavaType resolveType(java.lang.reflect.Type) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.AnnotatedClass com.fasterxml.jackson.databind.JavaType resolveType(java.lang.reflect.Type) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.ClassIntrospector.MixInResolver com.fasterxml.jackson.databind.introspect.ClassIntrospector.MixInResolver copy()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.VisibilityChecker boolean isCreatorVisible(com.fasterxml.jackson.databind.introspect.AnnotatedMember) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.Annotated com.fasterxml.jackson.databind.introspect.Annotated withAnnotations(com.fasterxml.jackson.databind.introspect.AnnotationMap)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.VisibilityChecker.Std com.fasterxml.jackson.databind.introspect.VisibilityChecker.Std with(com.fasterxml.jackson.annotation.JsonAutoDetect)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.AnnotatedMethod com.fasterxml.jackson.databind.introspect.AnnotatedMethod withMethod(java.lang.reflect.Method)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.VisibilityChecker.Std boolean isSetterVisible(com.fasterxml.jackson.databind.introspect.AnnotatedMethod) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.AnnotationIntrospectorPair com.fasterxml.jackson.databind.JavaType refineDeserializationType(com.fasterxml.jackson.databind.cfg.MapperConfig&lt;?&gt;, com.fasterxml.jackson.databind.introspect.Annotated, com.fasterxml.jackson.databind.JavaType) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.AnnotatedClass com.fasterxml.jackson.databind.introspect.AnnotatedClass construct(com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.cfg.MapperConfig&lt;?&gt;, com.fasterxml.jackson.databind.introspect.ClassIntrospector.MixInResolver) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.BasicBeanDescription boolean isFactoryMethod(com.fasterxml.jackson.databind.introspect.AnnotatedMethod) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.BasicBeanDescription java.util.List&lt;com.fasterxml.jackson.databind.introspect.AnnotatedMethod&gt; getFactoryMethods()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.AnnotatedMethodMap void add(com.fasterxml.jackson.databind.introspect.AnnotatedMethod) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.AnnotatedMember boolean addOrOverride(java.lang.annotation.Annotation) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.AnnotationIntrospectorPair com.fasterxml.jackson.databind.introspect.AnnotatedMethod resolveSetterConflict(com.fasterxml.jackson.databind.cfg.MapperConfig&lt;?&gt;, com.fasterxml.jackson.databind.introspect.AnnotatedMethod, com.fasterxml.jackson.databind.introspect.AnnotatedMethod) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.BasicClassIntrospector instance'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.ClassIntrospector com.fasterxml.jackson.databind.BeanDescription forDirectClassAnnotations(com.fasterxml.jackson.databind.cfg.MapperConfig&lt;?&gt;, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.introspect.ClassIntrospector.MixInResolver)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.BasicClassIntrospector com.fasterxml.jackson.databind.introspect.BasicBeanDescription forSerialization(com.fasterxml.jackson.databind.SerializationConfig, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.introspect.ClassIntrospector.MixInResolver)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.BeanPropertyDefinition java.lang.String getInternalName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.AnnotatedWithParams java.lang.Object call()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.AnnotatedClass com.fasterxml.jackson.databind.introspect.AnnotatedMethod _constructMethod(java.lang.reflect.Method, com.fasterxml.jackson.databind.introspect.TypeResolutionContext)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.AnnotatedWithParams java.lang.Object call(java.lang.Object[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.AnnotatedClass com.fasterxml.jackson.databind.introspect.AnnotationMap[] _collectRelevantAnnotations(java.lang.annotation.Annotation[][]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.AnnotatedClass void _addConstructorMixIns(java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.SimpleMixInResolver com.fasterxml.jackson.databind.introspect.ClassIntrospector.MixInResolver copy()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.AnnotationIntrospectorPair java.util.Collection&lt;com.fasterxml.jackson.databind.AnnotationIntrospector&gt; allIntrospectors(java.util.Collection&lt;com.fasterxml.jackson.databind.AnnotationIntrospector&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.VisibilityChecker.Std com.fasterxml.jackson.databind.introspect.VisibilityChecker.Std withFieldVisibility(com.fasterxml.jackson.annotation.JsonAutoDetect.Visibility)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.AnnotationMap boolean add(java.lang.annotation.Annotation) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.POJOPropertyBuilder com.fasterxml.jackson.databind.introspect.POJOPropertyBuilder withName(com.fasterxml.jackson.databind.PropertyName)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.VisibilityChecker T withFieldVisibility(com.fasterxml.jackson.annotation.JsonAutoDetect.Visibility)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.VisibilityChecker.Std boolean isGetterVisible(com.fasterxml.jackson.databind.introspect.AnnotatedMethod) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.BasicClassIntrospector com.fasterxml.jackson.databind.introspect.POJOPropertiesCollector constructPropertyCollector(com.fasterxml.jackson.databind.cfg.MapperConfig&lt;?&gt;, com.fasterxml.jackson.databind.introspect.AnnotatedClass, com.fasterxml.jackson.databind.JavaType, boolean, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.VisibilityChecker.Std com.fasterxml.jackson.databind.introspect.VisibilityChecker.Std withSetterVisibility(com.fasterxml.jackson.annotation.JsonAutoDetect.Visibility)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.BasicClassIntrospector INT_DESC'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.BasicClassIntrospector com.fasterxml.jackson.databind.introspect.BasicBeanDescription forDeserializationWithBuilder(com.fasterxml.jackson.databind.DeserializationConfig, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.introspect.ClassIntrospector.MixInResolver) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.AnnotationIntrospectorPair com.fasterxml.jackson.databind.introspect.AnnotatedMethod resolveSetterConflict(com.fasterxml.jackson.databind.cfg.MapperConfig&lt;?&gt;, com.fasterxml.jackson.databind.introspect.AnnotatedMethod, com.fasterxml.jackson.databind.introspect.AnnotatedMethod) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.BasicBeanDescription BasicBeanDescription(com.fasterxml.jackson.databind.introspect.POJOPropertiesCollector) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.BeanPropertyDefinition com.fasterxml.jackson.databind.introspect.BeanPropertyDefinition withSimpleName(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.POJOPropertyBuilder java.util.Iterator&lt;com.fasterxml.jackson.databind.introspect.AnnotatedParameter&gt; getConstructorParameters()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.BasicBeanDescription com.fasterxml.jackson.databind.introspect.BasicBeanDescription forSerialization(com.fasterxml.jackson.databind.introspect.POJOPropertiesCollector) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.BasicClassIntrospector com.fasterxml.jackson.databind.introspect.POJOPropertiesCollector collectProperties(com.fasterxml.jackson.databind.cfg.MapperConfig&lt;?&gt;, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.introspect.ClassIntrospector.MixInResolver, boolean, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.AnnotatedWithParams com.fasterxml.jackson.databind.introspect.AnnotatedParameter getParameter(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.POJOPropertiesCollector com.fasterxml.jackson.databind.introspect.POJOPropertyBuilder _property(java.util.Map&lt;java.lang.String,com.fasterxml.jackson.databind.introspect.POJOPropertyBuilder&gt;, com.fasterxml.jackson.databind.PropertyName)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.JacksonAnnotationIntrospector com.fasterxml.jackson.databind.PropertyName _propertyName(java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.JacksonAnnotationIntrospector com.fasterxml.jackson.databind.introspect.AnnotatedMethod resolveSetterConflict(com.fasterxml.jackson.databind.cfg.MapperConfig&lt;?&gt;, com.fasterxml.jackson.databind.introspect.AnnotatedMethod, com.fasterxml.jackson.databind.introspect.AnnotatedMethod) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.VisibilityChecker boolean isFieldVisible(com.fasterxml.jackson.databind.introspect.AnnotatedField) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.AnnotatedMember boolean addIfNotPresent(java.lang.annotation.Annotation) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.MemberKey MemberKey(java.lang.reflect.Method) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.SimpleMixInResolver void addLocalDefinition(java.lang.Class&lt;?&gt;, java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.JacksonAnnotationIntrospector boolean hasCreatorAnnotation(com.fasterxml.jackson.databind.introspect.Annotated) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.VisibilityChecker.Std com.fasterxml.jackson.databind.introspect.VisibilityChecker withFieldVisibility(com.fasterxml.jackson.annotation.JsonAutoDetect.Visibility)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.VisibilityChecker.Std com.fasterxml.jackson.databind.introspect.VisibilityChecker.Std withVisibility(com.fasterxml.jackson.annotation.PropertyAccessor, com.fasterxml.jackson.annotation.JsonAutoDetect.Visibility)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.BasicClassIntrospector com.fasterxml.jackson.databind.introspect.BasicBeanDescription forDeserializationWithBuilder(com.fasterxml.jackson.databind.DeserializationConfig, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.introspect.ClassIntrospector.MixInResolver) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.Annotated com.fasterxml.jackson.databind.introspect.Annotated withFallBackAnnotationsFrom(com.fasterxml.jackson.databind.introspect.Annotated) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.BasicClassIntrospector com.fasterxml.jackson.databind.BeanDescription forClassAnnotations(com.fasterxml.jackson.databind.cfg.MapperConfig, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.introspect.ClassIntrospector.MixInResolver)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.ObjectIdInfo _resolver'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.AnnotatedClass void _addFactoryMixIns(java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.AnnotatedConstructor com.fasterxml.jackson.databind.introspect.AnnotatedConstructor withAnnotations(com.fasterxml.jackson.databind.introspect.AnnotationMap)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.AnnotationIntrospectorPair boolean hasCreatorAnnotation(com.fasterxml.jackson.databind.introspect.Annotated) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.AnnotationIntrospectorPair java.lang.String findEnumValue(java.lang.Enum&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.BasicClassIntrospector com.fasterxml.jackson.databind.introspect.POJOPropertiesCollector collectPropertiesWithBuilder(com.fasterxml.jackson.databind.cfg.MapperConfig&lt;?&gt;, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.introspect.ClassIntrospector.MixInResolver, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.BasicClassIntrospector com.fasterxml.jackson.databind.introspect.BasicBeanDescription forSerialization(com.fasterxml.jackson.databind.SerializationConfig, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.introspect.ClassIntrospector.MixInResolver) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.VisibilityChecker T withIsGetterVisibility(com.fasterxml.jackson.annotation.JsonAutoDetect.Visibility)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.JacksonAnnotationIntrospector com.fasterxml.jackson.databind.introspect.AnnotatedMethod resolveSetterConflict(com.fasterxml.jackson.databind.cfg.MapperConfig&lt;?&gt;, com.fasterxml.jackson.databind.introspect.AnnotatedMethod, com.fasterxml.jackson.databind.introspect.AnnotatedMethod) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.AnnotatedField com.fasterxml.jackson.databind.introspect.AnnotatedField withAnnotations(com.fasterxml.jackson.databind.introspect.AnnotationMap)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.AnnotatedClass boolean _isIncludableMemberMethod(java.lang.reflect.Method) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.AnnotatedClass com.fasterxml.jackson.databind.util.Annotations getAnnotations()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.ClassIntrospector com.fasterxml.jackson.databind.BeanDescription forDirectClassAnnotations(com.fasterxml.jackson.databind.cfg.MapperConfig&lt;?&gt;, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.introspect.ClassIntrospector.MixInResolver) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.AnnotationMap boolean _add(java.lang.annotation.Annotation) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.AnnotatedMethod com.fasterxml.jackson.databind.introspect.Annotated withAnnotations(com.fasterxml.jackson.databind.introspect.AnnotationMap)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.BasicClassIntrospector com.fasterxml.jackson.databind.introspect.BasicBeanDescription forDirectClassAnnotations(com.fasterxml.jackson.databind.cfg.MapperConfig&lt;?&gt;, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.introspect.ClassIntrospector.MixInResolver) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.POJOPropertiesCollector void _renameUsing(java.util.Map&lt;java.lang.String,com.fasterxml.jackson.databind.introspect.POJOPropertyBuilder&gt;, com.fasterxml.jackson.databind.PropertyNamingStrategy) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.BasicClassIntrospector com.fasterxml.jackson.databind.introspect.POJOPropertiesCollector collectPropertiesWithBuilder(com.fasterxml.jackson.databind.cfg.MapperConfig&lt;?&gt;, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.introspect.ClassIntrospector.MixInResolver, boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.VisibilityChecker.Std com.fasterxml.jackson.databind.introspect.VisibilityChecker with(com.fasterxml.jackson.annotation.JsonAutoDetect.Visibility)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.AnnotationIntrospectorPair java.util.Collection&lt;com.fasterxml.jackson.databind.AnnotationIntrospector&gt; allIntrospectors()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.POJOPropertyBuilder com.fasterxml.jackson.databind.introspect.BeanPropertyDefinition withName(com.fasterxml.jackson.databind.PropertyName)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.AnnotatedClass java.util.Map&lt;java.lang.String,com.fasterxml.jackson.databind.introspect.AnnotatedField&gt; _findFields(com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.introspect.TypeResolutionContext, java.util.Map&lt;java.lang.String,com.fasterxml.jackson.databind.introspect.AnnotatedField&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.SimpleMixInResolver com.fasterxml.jackson.databind.introspect.SimpleMixInResolver withoutLocalDefinitions()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.AnnotatedClass com.fasterxml.jackson.databind.introspect.AnnotationMap[] _collectRelevantAnnotations(java.lang.annotation.Annotation[][])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.ObjectIdInfo com.fasterxml.jackson.databind.introspect.ObjectIdInfo withAlwaysAsId(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.POJOPropertiesCollector com.fasterxml.jackson.databind.introspect.POJOPropertiesCollector collect()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.BasicBeanDescription java.util.LinkedHashMap&lt;java.lang.String,com.fasterxml.jackson.databind.introspect.AnnotatedField&gt; _findPropertyFields(java.util.Collection&lt;java.lang.String&gt;, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.VisibilityChecker.Std com.fasterxml.jackson.databind.introspect.VisibilityChecker withGetterVisibility(com.fasterxml.jackson.annotation.JsonAutoDetect.Visibility)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.BasicClassIntrospector com.fasterxml.jackson.databind.introspect.POJOPropertiesCollector collectProperties(com.fasterxml.jackson.databind.cfg.MapperConfig&lt;?&gt;, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.introspect.ClassIntrospector.MixInResolver, boolean, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.JacksonAnnotationIntrospector com.fasterxml.jackson.databind.jsontype.TypeResolverBuilder&lt;?&gt; findPropertyTypeResolver(com.fasterxml.jackson.databind.cfg.MapperConfig&lt;?&gt;, com.fasterxml.jackson.databind.introspect.AnnotatedMember, com.fasterxml.jackson.databind.JavaType) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.ClassIntrospector com.fasterxml.jackson.databind.BeanDescription forDeserialization(com.fasterxml.jackson.databind.DeserializationConfig, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.introspect.ClassIntrospector.MixInResolver)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.NopAnnotationIntrospector instance'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.AnnotatedClass com.fasterxml.jackson.databind.introspect.AnnotatedClass construct(com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.cfg.MapperConfig&lt;?&gt;, com.fasterxml.jackson.databind.introspect.ClassIntrospector.MixInResolver)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.VisibilityChecker T withCreatorVisibility(com.fasterxml.jackson.annotation.JsonAutoDetect.Visibility)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.AnnotatedClass com.fasterxml.jackson.databind.introspect.AnnotatedClass constructWithoutSuperTypes(java.lang.Class&lt;?&gt;, com.fasterxml.jackson.databind.cfg.MapperConfig&lt;?&gt;, com.fasterxml.jackson.databind.introspect.ClassIntrospector.MixInResolver)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.AnnotatedParameter com.fasterxml.jackson.databind.introspect.Annotated withAnnotations(com.fasterxml.jackson.databind.introspect.AnnotationMap)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.JacksonAnnotationIntrospector com.fasterxml.jackson.databind.ser.BeanPropertyWriter _constructVirtualProperty(com.fasterxml.jackson.databind.annotation.JsonAppend.Prop, com.fasterxml.jackson.databind.cfg.MapperConfig&lt;?&gt;, com.fasterxml.jackson.databind.introspect.AnnotatedClass) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.AnnotationIntrospectorPair java.util.Collection&lt;com.fasterxml.jackson.databind.AnnotationIntrospector&gt; allIntrospectors(java.util.Collection&lt;com.fasterxml.jackson.databind.AnnotationIntrospector&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.VisibilityChecker.Std com.fasterxml.jackson.databind.introspect.VisibilityChecker.Std withCreatorVisibility(com.fasterxml.jackson.annotation.JsonAutoDetect.Visibility)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.BasicClassIntrospector com.fasterxml.jackson.databind.introspect.POJOPropertiesCollector constructPropertyCollector(com.fasterxml.jackson.databind.cfg.MapperConfig&lt;?&gt;, com.fasterxml.jackson.databind.introspect.AnnotatedClass, com.fasterxml.jackson.databind.JavaType, boolean, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.AnnotatedWithParams com.fasterxml.jackson.databind.introspect.AnnotatedParameter replaceParameterAnnotations(int, com.fasterxml.jackson.databind.introspect.AnnotationMap)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.ClassIntrospector com.fasterxml.jackson.databind.BeanDescription forClassAnnotations(com.fasterxml.jackson.databind.cfg.MapperConfig&lt;?&gt;, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.introspect.ClassIntrospector.MixInResolver) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.Annotated java.lang.String getName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.SimpleMixInResolver com.fasterxml.jackson.databind.introspect.SimpleMixInResolver copy()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.AnnotatedClass com.fasterxml.jackson.databind.introspect.AnnotatedMethod _constructMethod(java.lang.reflect.Method, com.fasterxml.jackson.databind.introspect.TypeResolutionContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.VisibilityChecker.Std com.fasterxml.jackson.databind.introspect.VisibilityChecker withSetterVisibility(com.fasterxml.jackson.annotation.JsonAutoDetect.Visibility)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.AnnotatedClass com.fasterxml.jackson.databind.introspect.AnnotatedClass constructWithoutSuperTypes(java.lang.Class&lt;?&gt;, com.fasterxml.jackson.databind.cfg.MapperConfig&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.AnnotatedParameter java.lang.String getName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.ClassIntrospector com.fasterxml.jackson.databind.BeanDescription forCreation(com.fasterxml.jackson.databind.DeserializationConfig, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.introspect.ClassIntrospector.MixInResolver)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.BasicBeanDescription com.fasterxml.jackson.databind.introspect.BasicBeanDescription forOtherUse(com.fasterxml.jackson.databind.cfg.MapperConfig&lt;?&gt;, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.introspect.AnnotatedClass)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.AnnotatedMethod com.fasterxml.jackson.databind.introspect.AnnotatedMethod withMethod(java.lang.reflect.Method) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.POJOPropertiesCollector _mutatorPrefix'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.ObjectIdInfo java.lang.Class&lt;? extends com.fasterxml.jackson.annotation.ObjectIdResolver&gt; getResolverType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.AnnotatedParameter com.fasterxml.jackson.databind.introspect.AnnotatedParameter withAnnotations(com.fasterxml.jackson.databind.introspect.AnnotationMap)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.ConcreteBeanPropertyBase ConcreteBeanPropertyBase(com.fasterxml.jackson.databind.introspect.ConcreteBeanPropertyBase) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.BasicClassIntrospector com.fasterxml.jackson.databind.BeanDescription forDirectClassAnnotations(com.fasterxml.jackson.databind.cfg.MapperConfig, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.introspect.ClassIntrospector.MixInResolver) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.AnnotatedClass com.fasterxml.jackson.databind.introspect.AnnotatedMethod _constructCreatorMethod(java.lang.reflect.Method, com.fasterxml.jackson.databind.introspect.TypeResolutionContext)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.POJOPropertyBuilder int _getterPriority(com.fasterxml.jackson.databind.introspect.AnnotatedMethod) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.AnnotatedClass com.fasterxml.jackson.databind.introspect.AnnotatedConstructor _constructNonDefaultConstructor(com.fasterxml.jackson.databind.util.ClassUtil.Ctor, com.fasterxml.jackson.databind.introspect.TypeResolutionContext)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.AnnotatedClass com.fasterxml.jackson.databind.introspect.AnnotatedClass construct(com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.cfg.MapperConfig&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.POJOPropertyBuilder POJOPropertyBuilder(com.fasterxml.jackson.databind.introspect.POJOPropertyBuilder, com.fasterxml.jackson.databind.PropertyName) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.BasicClassIntrospector com.fasterxml.jackson.databind.BeanDescription forDeserializationWithBuilder(com.fasterxml.jackson.databind.DeserializationConfig, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.introspect.ClassIntrospector.MixInResolver) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.VisibilityChecker.Std boolean isCreatorVisible(com.fasterxml.jackson.databind.introspect.AnnotatedMember) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.BasicClassIntrospector com.fasterxml.jackson.databind.introspect.BasicBeanDescription forCreation(com.fasterxml.jackson.databind.DeserializationConfig, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.introspect.ClassIntrospector.MixInResolver)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.ClassIntrospector com.fasterxml.jackson.databind.BeanDescription forDeserializationWithBuilder(com.fasterxml.jackson.databind.DeserializationConfig, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.introspect.ClassIntrospector.MixInResolver)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.POJOPropertyBuilder java.lang.String getInternalName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.VisibilityChecker T with(com.fasterxml.jackson.annotation.JsonAutoDetect.Visibility)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.BasicClassIntrospector com.fasterxml.jackson.databind.introspect.BasicBeanDescription forDeserialization(com.fasterxml.jackson.databind.DeserializationConfig, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.introspect.ClassIntrospector.MixInResolver)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.BasicBeanDescription com.fasterxml.jackson.databind.util.Annotations getClassAnnotations()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.JacksonAnnotationIntrospector com.fasterxml.jackson.databind.ser.BeanPropertyWriter _constructVirtualProperty(com.fasterxml.jackson.databind.annotation.JsonAppend.Prop, com.fasterxml.jackson.databind.cfg.MapperConfig&lt;?&gt;, com.fasterxml.jackson.databind.introspect.AnnotatedClass) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.VisibilityChecker T withVisibility(com.fasterxml.jackson.annotation.PropertyAccessor, com.fasterxml.jackson.annotation.JsonAutoDetect.Visibility) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.AnnotationIntrospectorPair boolean isAnnotationBundle(java.lang.annotation.Annotation) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.BasicClassIntrospector com.fasterxml.jackson.databind.introspect.POJOPropertiesCollector collectProperties(com.fasterxml.jackson.databind.cfg.MapperConfig&lt;?&gt;, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.introspect.ClassIntrospector.MixInResolver, boolean, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.POJOPropertiesCollector com.fasterxml.jackson.databind.introspect.POJOPropertyBuilder _property(java.util.Map&lt;java.lang.String,com.fasterxml.jackson.databind.introspect.POJOPropertyBuilder&gt;, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.AnnotatedMethod AnnotatedMethod(com.fasterxml.jackson.databind.introspect.TypeResolutionContext, java.lang.reflect.Method, com.fasterxml.jackson.databind.introspect.AnnotationMap, com.fasterxml.jackson.databind.introspect.AnnotationMap[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.BeanPropertyDefinition com.fasterxml.jackson.databind.PropertyMetadata getMetadata()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.POJOPropertiesCollector POJOPropertiesCollector(com.fasterxml.jackson.databind.cfg.MapperConfig&lt;?&gt;, boolean, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.introspect.AnnotatedClass, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.BasicBeanDescription boolean addProperty(com.fasterxml.jackson.databind.introspect.BeanPropertyDefinition) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.BasicClassIntrospector com.fasterxml.jackson.databind.BeanDescription forDeserializationWithBuilder(com.fasterxml.jackson.databind.DeserializationConfig, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.introspect.ClassIntrospector.MixInResolver) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.AnnotatedClass java.lang.reflect.Method[] _findClassMethods(java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.BasicBeanDescription com.fasterxml.jackson.databind.JavaType resolveType(java.lang.reflect.Type) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.SimpleMixInResolver com.fasterxml.jackson.databind.introspect.SimpleMixInResolver withOverrides(com.fasterxml.jackson.databind.introspect.ClassIntrospector.MixInResolver)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.BasicClassIntrospector com.fasterxml.jackson.databind.introspect.BasicBeanDescription forDirectClassAnnotations(com.fasterxml.jackson.databind.cfg.MapperConfig&lt;?&gt;, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.introspect.ClassIntrospector.MixInResolver)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.VisibilityChecker.Std com.fasterxml.jackson.databind.introspect.VisibilityChecker.Std withVisibility(com.fasterxml.jackson.annotation.PropertyAccessor, com.fasterxml.jackson.annotation.JsonAutoDetect.Visibility) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.BasicBeanDescription com.fasterxml.jackson.databind.introspect.BasicBeanDescription forSerialization(com.fasterxml.jackson.databind.introspect.POJOPropertiesCollector)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.VisibilityChecker.Std com.fasterxml.jackson.databind.introspect.VisibilityChecker.Std with(com.fasterxml.jackson.annotation.JsonAutoDetect.Visibility)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.ConcreteBeanPropertyBase com.fasterxml.jackson.annotation.JsonFormat.Value findPropertyFormat(com.fasterxml.jackson.databind.cfg.MapperConfig&lt;?&gt;, java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.BasicClassIntrospector com.fasterxml.jackson.databind.BeanDescription forSerialization(com.fasterxml.jackson.databind.SerializationConfig, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.introspect.ClassIntrospector.MixInResolver)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.JacksonAnnotationIntrospector com.fasterxml.jackson.databind.ser.BeanPropertyWriter _constructVirtualProperty(com.fasterxml.jackson.databind.annotation.JsonAppend.Prop, com.fasterxml.jackson.databind.cfg.MapperConfig&lt;?&gt;, com.fasterxml.jackson.databind.introspect.AnnotatedClass) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.BasicClassIntrospector com.fasterxml.jackson.databind.introspect.BasicBeanDescription forDeserializationWithBuilder(com.fasterxml.jackson.databind.DeserializationConfig, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.introspect.ClassIntrospector.MixInResolver)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.BasicClassIntrospector com.fasterxml.jackson.databind.BeanDescription forClassAnnotations(com.fasterxml.jackson.databind.cfg.MapperConfig, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.introspect.ClassIntrospector.MixInResolver) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.POJOPropertyBuilder int _setterPriority(com.fasterxml.jackson.databind.introspect.AnnotatedMethod) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.POJOPropertiesCollector void _removeUnwantedProperties(java.util.Map&lt;java.lang.String,com.fasterxml.jackson.databind.introspect.POJOPropertyBuilder&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.BeanPropertyDefinition com.fasterxml.jackson.databind.introspect.BeanPropertyDefinition withName(com.fasterxml.jackson.databind.PropertyName)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.JacksonAnnotationIntrospector com.fasterxml.jackson.databind.jsontype.impl.StdTypeResolverBuilder _constructNoTypeResolverBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.introspect.JacksonAnnotationIntrospector com.fasterxml.jackson.databind.jsontype.impl.StdTypeResolverBuilder _constructStdTypeResolverBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

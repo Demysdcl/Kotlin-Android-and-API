@@ -1,0 +1,23 @@
+<root>
+    <item name='ch.qos.logback.core.joran.event.StartEvent org.xml.sax.Attributes getAttributes()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.joran.event.SaxEvent org.xml.sax.Locator getLocator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.joran.event.SaxEvent locator'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.joran.event.StartEvent attributes'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.joran.event.SaxEventRecorder void error(org.xml.sax.SAXParseException) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.joran.event.SaxEventRecorder void fatalError(org.xml.sax.SAXParseException) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.joran.event.SaxEventRecorder void warning(org.xml.sax.SAXParseException) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

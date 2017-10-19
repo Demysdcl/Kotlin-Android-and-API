@@ -1,0 +1,41 @@
+<root>
+    <item name='ch.qos.logback.core.joran.util.PropertySetter java.lang.Object getObj()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.joran.util.PropertySetter obj'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.joran.util.PropertySetter ch.qos.logback.core.util.AggregationType computeAggregationType(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.joran.util.ConfigurationWatchListUtil void setMainWatchURL(ch.qos.logback.core.Context, java.net.URL) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.joran.util.StringToObjectConverter boolean canBeBuiltFromSimpleString(java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.joran.util.ConfigurationWatchListUtil void registerConfigurationWatchList(ch.qos.logback.core.Context, ch.qos.logback.core.joran.spi.ConfigurationWatchList) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.joran.util.ConfigurationWatchListUtil java.net.URL getMainWatchURL(ch.qos.logback.core.Context) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.joran.util.PropertySetter java.lang.Class&lt;?&gt; getClassNameViaImplicitRules(java.lang.String, ch.qos.logback.core.util.AggregationType, ch.qos.logback.core.joran.spi.DefaultNestedComponentRegistry) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.joran.util.ConfigurationWatchListUtil void addToWatchList(ch.qos.logback.core.Context, java.net.URL) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.joran.util.PropertySetter PropertySetter(ch.qos.logback.core.joran.util.beans.BeanDescriptionCache, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.joran.util.ConfigurationWatchListUtil ch.qos.logback.core.joran.spi.ConfigurationWatchList getConfigurationWatchList(ch.qos.logback.core.Context) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.joran.util.PropertySetter ch.qos.logback.core.util.AggregationType computeAggregationType(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.joran.util.PropertySetter PropertySetter(ch.qos.logback.core.joran.util.beans.BeanDescriptionCache, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

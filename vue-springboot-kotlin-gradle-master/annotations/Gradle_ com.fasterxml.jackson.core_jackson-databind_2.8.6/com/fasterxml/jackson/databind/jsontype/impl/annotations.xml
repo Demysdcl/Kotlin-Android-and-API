@@ -1,0 +1,515 @@
+<root>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.AsArrayTypeSerializer void writeCustomTypeSuffixForArray(java.lang.Object, com.fasterxml.jackson.core.JsonGenerator, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.AsArrayTypeDeserializer java.lang.Object deserializeTypedFromArray(com.fasterxml.jackson.core.JsonParser, com.fasterxml.jackson.databind.DeserializationContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.StdSubtypeResolver java.util.Collection&lt;com.fasterxml.jackson.databind.jsontype.NamedType&gt; collectAndResolveSubtypesByClass(com.fasterxml.jackson.databind.cfg.MapperConfig&lt;?&gt;, com.fasterxml.jackson.databind.introspect.AnnotatedClass) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.StdTypeResolverBuilder com.fasterxml.jackson.databind.jsontype.impl.StdTypeResolverBuilder typeProperty(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.AsWrapperTypeSerializer com.fasterxml.jackson.databind.jsontype.TypeSerializer forProperty(com.fasterxml.jackson.databind.BeanProperty)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.AsExistingPropertyTypeSerializer void writeTypePrefixForObject(java.lang.Object, com.fasterxml.jackson.core.JsonGenerator, java.lang.Class&lt;?&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.MinimalClassNameIdResolver com.fasterxml.jackson.databind.JavaType _typeFromId(java.lang.String, com.fasterxml.jackson.databind.DatabindContext) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.AsArrayTypeSerializer void writeTypePrefixForObject(java.lang.Object, com.fasterxml.jackson.core.JsonGenerator) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.AsExternalTypeSerializer void _writeObjectSuffix(java.lang.Object, com.fasterxml.jackson.core.JsonGenerator, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.AsPropertyTypeDeserializer java.lang.Object deserializeTypedFromObject(com.fasterxml.jackson.core.JsonParser, com.fasterxml.jackson.databind.DeserializationContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.AsWrapperTypeDeserializer java.lang.Object _deserialize(com.fasterxml.jackson.core.JsonParser, com.fasterxml.jackson.databind.DeserializationContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.StdSubtypeResolver java.util.Collection&lt;com.fasterxml.jackson.databind.jsontype.NamedType&gt; collectAndResolveSubtypesByClass(com.fasterxml.jackson.databind.cfg.MapperConfig&lt;?&gt;, com.fasterxml.jackson.databind.introspect.AnnotatedMember, com.fasterxml.jackson.databind.JavaType)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.AsWrapperTypeSerializer java.lang.String _validTypeId(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.ClassNameIdResolver java.lang.String getDescForKnownTypeIds()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.StdSubtypeResolver java.util.Collection&lt;com.fasterxml.jackson.databind.jsontype.NamedType&gt; _combineNamedAndUnnamed(java.util.Set&lt;java.lang.Class&lt;?&gt;&gt;, java.util.Map&lt;java.lang.String,com.fasterxml.jackson.databind.jsontype.NamedType&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.AsWrapperTypeDeserializer java.lang.Object deserializeTypedFromArray(com.fasterxml.jackson.core.JsonParser, com.fasterxml.jackson.databind.DeserializationContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.StdTypeResolverBuilder com.fasterxml.jackson.databind.jsontype.TypeResolverBuilder init(com.fasterxml.jackson.annotation.JsonTypeInfo.Id, com.fasterxml.jackson.databind.jsontype.TypeIdResolver)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.AsArrayTypeSerializer void writeCustomTypePrefixForArray(java.lang.Object, com.fasterxml.jackson.core.JsonGenerator, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.AsPropertyTypeDeserializer java.lang.Object _deserializeTypedForId(com.fasterxml.jackson.core.JsonParser, com.fasterxml.jackson.databind.DeserializationContext, com.fasterxml.jackson.databind.util.TokenBuffer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.StdSubtypeResolver java.util.Collection&lt;com.fasterxml.jackson.databind.jsontype.NamedType&gt; collectAndResolveSubtypesByClass(com.fasterxml.jackson.databind.cfg.MapperConfig&lt;?&gt;, com.fasterxml.jackson.databind.introspect.AnnotatedClass) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.AsExternalTypeDeserializer AsExternalTypeDeserializer(com.fasterxml.jackson.databind.jsontype.impl.AsExternalTypeDeserializer, com.fasterxml.jackson.databind.BeanProperty) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.MinimalClassNameIdResolver com.fasterxml.jackson.databind.JavaType _typeFromId(java.lang.String, com.fasterxml.jackson.databind.DatabindContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.AsArrayTypeSerializer void writeTypeSuffixForArray(java.lang.Object, com.fasterxml.jackson.core.JsonGenerator) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.StdTypeResolverBuilder com.fasterxml.jackson.databind.jsontype.TypeResolverBuilder typeProperty(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.TypeNameIdResolver java.lang.String _defaultTypeId(java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.AsPropertyTypeSerializer com.fasterxml.jackson.databind.jsontype.impl.AsArrayTypeSerializer forProperty(com.fasterxml.jackson.databind.BeanProperty)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.AsArrayTypeSerializer com.fasterxml.jackson.databind.jsontype.TypeSerializer forProperty(com.fasterxml.jackson.databind.BeanProperty)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.AsExistingPropertyTypeSerializer void writeCustomTypePrefixForObject(java.lang.Object, com.fasterxml.jackson.core.JsonGenerator, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.AsArrayTypeDeserializer java.lang.Object _deserialize(com.fasterxml.jackson.core.JsonParser, com.fasterxml.jackson.databind.DeserializationContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.AsExistingPropertyTypeSerializer void writeTypePrefixForObject(java.lang.Object, com.fasterxml.jackson.core.JsonGenerator) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.AsPropertyTypeSerializer void writeCustomTypeSuffixForObject(java.lang.Object, com.fasterxml.jackson.core.JsonGenerator, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.AsPropertyTypeDeserializer java.lang.Object deserializeTypedFromAny(com.fasterxml.jackson.core.JsonParser, com.fasterxml.jackson.databind.DeserializationContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.AsArrayTypeDeserializer java.lang.Object deserializeTypedFromObject(com.fasterxml.jackson.core.JsonParser, com.fasterxml.jackson.databind.DeserializationContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.AsExternalTypeSerializer void writeCustomTypeSuffixForObject(java.lang.Object, com.fasterxml.jackson.core.JsonGenerator, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.AsWrapperTypeDeserializer com.fasterxml.jackson.databind.jsontype.TypeDeserializer forProperty(com.fasterxml.jackson.databind.BeanProperty)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.TypeDeserializerBase com.fasterxml.jackson.databind.jsontype.TypeDeserializer forProperty(com.fasterxml.jackson.databind.BeanProperty)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.AsWrapperTypeSerializer void writeCustomTypePrefixForArray(java.lang.Object, com.fasterxml.jackson.core.JsonGenerator, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.AsArrayTypeSerializer void writeTypeSuffixForObject(java.lang.Object, com.fasterxml.jackson.core.JsonGenerator) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.AsWrapperTypeSerializer void writeTypePrefixForScalar(java.lang.Object, com.fasterxml.jackson.core.JsonGenerator) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.AsWrapperTypeDeserializer AsWrapperTypeDeserializer(com.fasterxml.jackson.databind.jsontype.impl.AsWrapperTypeDeserializer, com.fasterxml.jackson.databind.BeanProperty) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.AsWrapperTypeSerializer void writeTypePrefixForArray(java.lang.Object, com.fasterxml.jackson.core.JsonGenerator, java.lang.Class&lt;?&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.AsExternalTypeSerializer com.fasterxml.jackson.databind.jsontype.impl.AsExternalTypeSerializer forProperty(com.fasterxml.jackson.databind.BeanProperty)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.AsExternalTypeSerializer void writeCustomTypeSuffixForArray(java.lang.Object, com.fasterxml.jackson.core.JsonGenerator, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.StdSubtypeResolver java.util.Collection&lt;com.fasterxml.jackson.databind.jsontype.NamedType&gt; collectAndResolveSubtypesByTypeId(com.fasterxml.jackson.databind.cfg.MapperConfig&lt;?&gt;, com.fasterxml.jackson.databind.introspect.AnnotatedClass)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.StdSubtypeResolver void _collectAndResolveByTypeId(com.fasterxml.jackson.databind.introspect.AnnotatedClass, com.fasterxml.jackson.databind.jsontype.NamedType, com.fasterxml.jackson.databind.cfg.MapperConfig&lt;?&gt;, java.util.Set&lt;java.lang.Class&lt;?&gt;&gt;, java.util.Map&lt;java.lang.String,com.fasterxml.jackson.databind.jsontype.NamedType&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.StdTypeResolverBuilder com.fasterxml.jackson.databind.jsontype.impl.StdTypeResolverBuilder init(com.fasterxml.jackson.annotation.JsonTypeInfo.Id, com.fasterxml.jackson.databind.jsontype.TypeIdResolver) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.TypeDeserializerBase java.lang.Object _deserializeWithNativeTypeId(com.fasterxml.jackson.core.JsonParser, com.fasterxml.jackson.databind.DeserializationContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.AsExternalTypeSerializer void writeTypePrefixForObject(java.lang.Object, com.fasterxml.jackson.core.JsonGenerator, java.lang.Class&lt;?&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.StdSubtypeResolver java.util.Collection&lt;com.fasterxml.jackson.databind.jsontype.NamedType&gt; collectAndResolveSubtypesByTypeId(com.fasterxml.jackson.databind.cfg.MapperConfig&lt;?&gt;, com.fasterxml.jackson.databind.introspect.AnnotatedMember, com.fasterxml.jackson.databind.JavaType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.TypeDeserializerBase com.fasterxml.jackson.databind.JavaType _handleUnknownTypeId(com.fasterxml.jackson.databind.DeserializationContext, java.lang.String, com.fasterxml.jackson.databind.jsontype.TypeIdResolver, com.fasterxml.jackson.databind.JavaType) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.AsArrayTypeDeserializer java.lang.String _locateTypeId(com.fasterxml.jackson.core.JsonParser, com.fasterxml.jackson.databind.DeserializationContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.StdTypeResolverBuilder com.fasterxml.jackson.databind.jsontype.impl.StdTypeResolverBuilder inclusion(com.fasterxml.jackson.annotation.JsonTypeInfo.As)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.AsWrapperTypeSerializer com.fasterxml.jackson.databind.jsontype.impl.AsWrapperTypeSerializer forProperty(com.fasterxml.jackson.databind.BeanProperty)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.MinimalClassNameIdResolver java.lang.String idFromValue(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.ClassNameIdResolver com.fasterxml.jackson.databind.JavaType typeFromId(com.fasterxml.jackson.databind.DatabindContext, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.AsExternalTypeDeserializer com.fasterxml.jackson.databind.jsontype.TypeDeserializer forProperty(com.fasterxml.jackson.databind.BeanProperty)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.AsWrapperTypeSerializer void writeTypePrefixForArray(java.lang.Object, com.fasterxml.jackson.core.JsonGenerator) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.AsExternalTypeSerializer com.fasterxml.jackson.databind.jsontype.TypeSerializer forProperty(com.fasterxml.jackson.databind.BeanProperty)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.ClassNameIdResolver java.lang.String idFromValue(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.AsArrayTypeSerializer void writeCustomTypeSuffixForObject(java.lang.Object, com.fasterxml.jackson.core.JsonGenerator, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.StdTypeResolverBuilder com.fasterxml.jackson.databind.jsontype.impl.StdTypeResolverBuilder defaultImpl(java.lang.Class&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.AsArrayTypeSerializer void writeCustomTypePrefixForObject(java.lang.Object, com.fasterxml.jackson.core.JsonGenerator, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.StdSubtypeResolver void _collectAndResolveByTypeId(com.fasterxml.jackson.databind.introspect.AnnotatedClass, com.fasterxml.jackson.databind.jsontype.NamedType, com.fasterxml.jackson.databind.cfg.MapperConfig&lt;?&gt;, java.util.Set&lt;java.lang.Class&lt;?&gt;&gt;, java.util.Map&lt;java.lang.String,com.fasterxml.jackson.databind.jsontype.NamedType&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.StdSubtypeResolver void _collectAndResolve(com.fasterxml.jackson.databind.introspect.AnnotatedClass, com.fasterxml.jackson.databind.jsontype.NamedType, com.fasterxml.jackson.databind.cfg.MapperConfig&lt;?&gt;, com.fasterxml.jackson.databind.AnnotationIntrospector, java.util.HashMap&lt;com.fasterxml.jackson.databind.jsontype.NamedType,com.fasterxml.jackson.databind.jsontype.NamedType&gt;) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.AsExistingPropertyTypeSerializer com.fasterxml.jackson.databind.jsontype.TypeSerializer forProperty(com.fasterxml.jackson.databind.BeanProperty)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.AsPropertyTypeSerializer void writeCustomTypePrefixForObject(java.lang.Object, com.fasterxml.jackson.core.JsonGenerator, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.StdTypeResolverBuilder com.fasterxml.jackson.databind.jsontype.impl.StdTypeResolverBuilder noTypeInfoBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.AsExternalTypeSerializer void writeTypeSuffixForScalar(java.lang.Object, com.fasterxml.jackson.core.JsonGenerator) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.AsExternalTypeSerializer void writeTypePrefixForScalar(java.lang.Object, com.fasterxml.jackson.core.JsonGenerator, java.lang.Class&lt;?&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.AsExternalTypeSerializer void writeTypeSuffixForArray(java.lang.Object, com.fasterxml.jackson.core.JsonGenerator) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.AsWrapperTypeSerializer void writeTypePrefixForScalar(java.lang.Object, com.fasterxml.jackson.core.JsonGenerator, java.lang.Class&lt;?&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.AsArrayTypeSerializer void writeTypePrefixForArray(java.lang.Object, com.fasterxml.jackson.core.JsonGenerator, java.lang.Class&lt;?&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.ClassNameIdResolver java.lang.String idFromValueAndType(java.lang.Object, java.lang.Class&lt;?&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.TypeNameIdResolver java.lang.String idFromValueAndType(java.lang.Object, java.lang.Class&lt;?&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.AsExternalTypeSerializer void writeTypePrefixForArray(java.lang.Object, com.fasterxml.jackson.core.JsonGenerator) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.AsWrapperTypeSerializer void writeTypeSuffixForScalar(java.lang.Object, com.fasterxml.jackson.core.JsonGenerator) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.StdTypeResolverBuilder com.fasterxml.jackson.databind.jsontype.TypeResolverBuilder defaultImpl(java.lang.Class)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.AsWrapperTypeSerializer void writeTypeSuffixForObject(java.lang.Object, com.fasterxml.jackson.core.JsonGenerator) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.AsArrayTypeSerializer com.fasterxml.jackson.databind.jsontype.impl.AsArrayTypeSerializer forProperty(com.fasterxml.jackson.databind.BeanProperty)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.ClassNameIdResolver com.fasterxml.jackson.databind.JavaType typeFromId(com.fasterxml.jackson.databind.DatabindContext, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.TypeNameIdResolver com.fasterxml.jackson.databind.JavaType typeFromId(com.fasterxml.jackson.databind.DatabindContext, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.AsArrayTypeDeserializer AsArrayTypeDeserializer(com.fasterxml.jackson.databind.jsontype.impl.AsArrayTypeDeserializer, com.fasterxml.jackson.databind.BeanProperty) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.AsExistingPropertyTypeSerializer com.fasterxml.jackson.databind.jsontype.impl.AsArrayTypeSerializer forProperty(com.fasterxml.jackson.databind.BeanProperty)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.StdSubtypeResolver java.util.Collection&lt;com.fasterxml.jackson.databind.jsontype.NamedType&gt; _combineNamedAndUnnamed(java.util.Set&lt;java.lang.Class&lt;?&gt;&gt;, java.util.Map&lt;java.lang.String,com.fasterxml.jackson.databind.jsontype.NamedType&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.StdSubtypeResolver java.util.Collection&lt;com.fasterxml.jackson.databind.jsontype.NamedType&gt; collectAndResolveSubtypesByClass(com.fasterxml.jackson.databind.cfg.MapperConfig&lt;?&gt;, com.fasterxml.jackson.databind.introspect.AnnotatedClass)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.StdSubtypeResolver void _collectAndResolveByTypeId(com.fasterxml.jackson.databind.introspect.AnnotatedClass, com.fasterxml.jackson.databind.jsontype.NamedType, com.fasterxml.jackson.databind.cfg.MapperConfig&lt;?&gt;, java.util.Set&lt;java.lang.Class&lt;?&gt;&gt;, java.util.Map&lt;java.lang.String,com.fasterxml.jackson.databind.jsontype.NamedType&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.AsArrayTypeDeserializer java.lang.Object deserializeTypedFromAny(com.fasterxml.jackson.core.JsonParser, com.fasterxml.jackson.databind.DeserializationContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.AsExternalTypeSerializer void writeTypeSuffixForObject(java.lang.Object, com.fasterxml.jackson.core.JsonGenerator) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.StdSubtypeResolver java.util.Collection&lt;com.fasterxml.jackson.databind.jsontype.NamedType&gt; collectAndResolveSubtypesByClass(com.fasterxml.jackson.databind.cfg.MapperConfig&lt;?&gt;, com.fasterxml.jackson.databind.introspect.AnnotatedMember, com.fasterxml.jackson.databind.JavaType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.AsExternalTypeSerializer void writeCustomTypeSuffixForScalar(java.lang.Object, com.fasterxml.jackson.core.JsonGenerator, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.StdTypeResolverBuilder com.fasterxml.jackson.databind.jsontype.TypeDeserializer buildTypeDeserializer(com.fasterxml.jackson.databind.DeserializationConfig, com.fasterxml.jackson.databind.JavaType, java.util.Collection&lt;com.fasterxml.jackson.databind.jsontype.NamedType&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.AsExternalTypeSerializer void writeTypePrefixForObject(java.lang.Object, com.fasterxml.jackson.core.JsonGenerator) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.AsWrapperTypeDeserializer java.lang.Object deserializeTypedFromObject(com.fasterxml.jackson.core.JsonParser, com.fasterxml.jackson.databind.DeserializationContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.TypeDeserializerBase com.fasterxml.jackson.databind.JavaType _handleUnknownTypeId(com.fasterxml.jackson.databind.DeserializationContext, java.lang.String, com.fasterxml.jackson.databind.jsontype.TypeIdResolver, com.fasterxml.jackson.databind.JavaType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.TypeNameIdResolver TypeNameIdResolver(com.fasterxml.jackson.databind.cfg.MapperConfig&lt;?&gt;, com.fasterxml.jackson.databind.JavaType, java.util.Map&lt;java.lang.String,java.lang.String&gt;, java.util.Map&lt;java.lang.String,com.fasterxml.jackson.databind.JavaType&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.AsWrapperTypeSerializer void writeCustomTypePrefixForObject(java.lang.Object, com.fasterxml.jackson.core.JsonGenerator, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.AsWrapperTypeSerializer void writeCustomTypeSuffixForObject(java.lang.Object, com.fasterxml.jackson.core.JsonGenerator, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.AsExternalTypeSerializer void _writeObjectPrefix(java.lang.Object, com.fasterxml.jackson.core.JsonGenerator) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.AsWrapperTypeDeserializer java.lang.Object deserializeTypedFromScalar(com.fasterxml.jackson.core.JsonParser, com.fasterxml.jackson.databind.DeserializationContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.TypeNameIdResolver com.fasterxml.jackson.databind.JavaType typeFromId(com.fasterxml.jackson.databind.DatabindContext, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.AsArrayTypeSerializer void writeTypePrefixForObject(java.lang.Object, com.fasterxml.jackson.core.JsonGenerator, java.lang.Class&lt;?&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.AsPropertyTypeSerializer void writeTypeSuffixForObject(java.lang.Object, com.fasterxml.jackson.core.JsonGenerator) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.AsPropertyTypeSerializer void writeTypePrefixForObject(java.lang.Object, com.fasterxml.jackson.core.JsonGenerator) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.TypeNameIdResolver _config'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.AsExternalTypeSerializer void writeCustomTypePrefixForObject(java.lang.Object, com.fasterxml.jackson.core.JsonGenerator, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.ClassNameIdResolver com.fasterxml.jackson.databind.JavaType _typeFromId(java.lang.String, com.fasterxml.jackson.databind.DatabindContext) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.StdTypeResolverBuilder com.fasterxml.jackson.databind.jsontype.impl.StdTypeResolverBuilder inclusion(com.fasterxml.jackson.annotation.JsonTypeInfo.As) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.TypeNameIdResolver java.lang.String idFromValue(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.AsWrapperTypeSerializer void writeCustomTypePrefixForScalar(java.lang.Object, com.fasterxml.jackson.core.JsonGenerator, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.TypeDeserializerBase TypeDeserializerBase(com.fasterxml.jackson.databind.jsontype.impl.TypeDeserializerBase, com.fasterxml.jackson.databind.BeanProperty) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.AsExternalTypeSerializer void writeCustomTypePrefixForScalar(java.lang.Object, com.fasterxml.jackson.core.JsonGenerator, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.AsWrapperTypeSerializer void writeCustomTypeSuffixForScalar(java.lang.Object, com.fasterxml.jackson.core.JsonGenerator, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.TypeNameIdResolver com.fasterxml.jackson.databind.jsontype.impl.TypeNameIdResolver construct(com.fasterxml.jackson.databind.cfg.MapperConfig&lt;?&gt;, com.fasterxml.jackson.databind.JavaType, java.util.Collection&lt;com.fasterxml.jackson.databind.jsontype.NamedType&gt;, boolean, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.StdSubtypeResolver java.util.Collection&lt;com.fasterxml.jackson.databind.jsontype.NamedType&gt; collectAndResolveSubtypesByTypeId(com.fasterxml.jackson.databind.cfg.MapperConfig&lt;?&gt;, com.fasterxml.jackson.databind.introspect.AnnotatedClass) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.AsWrapperTypeSerializer void writeCustomTypeSuffixForArray(java.lang.Object, com.fasterxml.jackson.core.JsonGenerator, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.AsExternalTypeSerializer void writeTypePrefixForArray(java.lang.Object, com.fasterxml.jackson.core.JsonGenerator, java.lang.Class&lt;?&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.AsExternalTypeSerializer void writeTypePrefixForScalar(java.lang.Object, com.fasterxml.jackson.core.JsonGenerator) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.TypeIdResolverBase com.fasterxml.jackson.databind.JavaType typeFromId(com.fasterxml.jackson.databind.DatabindContext, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.AsPropertyTypeDeserializer AsPropertyTypeDeserializer(com.fasterxml.jackson.databind.jsontype.impl.AsPropertyTypeDeserializer, com.fasterxml.jackson.databind.BeanProperty) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.AsArrayTypeSerializer void writeTypePrefixForArray(java.lang.Object, com.fasterxml.jackson.core.JsonGenerator) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.AsPropertyTypeSerializer void writeTypePrefixForObject(java.lang.Object, com.fasterxml.jackson.core.JsonGenerator, java.lang.Class&lt;?&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.StdTypeResolverBuilder com.fasterxml.jackson.databind.jsontype.TypeResolverBuilder inclusion(com.fasterxml.jackson.annotation.JsonTypeInfo.As)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.AsPropertyTypeDeserializer com.fasterxml.jackson.databind.jsontype.TypeDeserializer forProperty(com.fasterxml.jackson.databind.BeanProperty)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.AsExternalTypeSerializer void writeCustomTypePrefixForArray(java.lang.Object, com.fasterxml.jackson.core.JsonGenerator, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.AsWrapperTypeDeserializer java.lang.Object deserializeTypedFromAny(com.fasterxml.jackson.core.JsonParser, com.fasterxml.jackson.databind.DeserializationContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.ClassNameIdResolver com.fasterxml.jackson.databind.JavaType _typeFromId(java.lang.String, com.fasterxml.jackson.databind.DatabindContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.AsArrayTypeSerializer void writeTypePrefixForScalar(java.lang.Object, com.fasterxml.jackson.core.JsonGenerator, java.lang.Class&lt;?&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.AsPropertyTypeSerializer com.fasterxml.jackson.databind.jsontype.impl.AsPropertyTypeSerializer forProperty(com.fasterxml.jackson.databind.BeanProperty)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.StdSubtypeResolver void _collectAndResolve(com.fasterxml.jackson.databind.introspect.AnnotatedClass, com.fasterxml.jackson.databind.jsontype.NamedType, com.fasterxml.jackson.databind.cfg.MapperConfig&lt;?&gt;, com.fasterxml.jackson.databind.AnnotationIntrospector, java.util.HashMap&lt;com.fasterxml.jackson.databind.jsontype.NamedType,com.fasterxml.jackson.databind.jsontype.NamedType&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.StdTypeResolverBuilder com.fasterxml.jackson.databind.jsontype.TypeResolverBuilder init(com.fasterxml.jackson.annotation.JsonTypeInfo.Id, com.fasterxml.jackson.databind.jsontype.TypeIdResolver) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.StdTypeResolverBuilder com.fasterxml.jackson.databind.jsontype.impl.StdTypeResolverBuilder init(com.fasterxml.jackson.annotation.JsonTypeInfo.Id, com.fasterxml.jackson.databind.jsontype.TypeIdResolver)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.AsPropertyTypeSerializer com.fasterxml.jackson.databind.jsontype.TypeSerializer forProperty(com.fasterxml.jackson.databind.BeanProperty)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.StdSubtypeResolver java.util.Collection&lt;com.fasterxml.jackson.databind.jsontype.NamedType&gt; collectAndResolveSubtypesByTypeId(com.fasterxml.jackson.databind.cfg.MapperConfig&lt;?&gt;, com.fasterxml.jackson.databind.introspect.AnnotatedMember, com.fasterxml.jackson.databind.JavaType)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.StdTypeResolverBuilder com.fasterxml.jackson.databind.jsontype.TypeResolverBuilder inclusion(com.fasterxml.jackson.annotation.JsonTypeInfo.As) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.AsWrapperTypeSerializer void writeTypePrefixForObject(java.lang.Object, com.fasterxml.jackson.core.JsonGenerator) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.TypeNameIdResolver com.fasterxml.jackson.databind.jsontype.impl.TypeNameIdResolver construct(com.fasterxml.jackson.databind.cfg.MapperConfig&lt;?&gt;, com.fasterxml.jackson.databind.JavaType, java.util.Collection&lt;com.fasterxml.jackson.databind.jsontype.NamedType&gt;, boolean, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.AsExternalTypeSerializer void _writeArrayPrefix(java.lang.Object, com.fasterxml.jackson.core.JsonGenerator) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.AsArrayTypeDeserializer java.lang.Object deserializeTypedFromScalar(com.fasterxml.jackson.core.JsonParser, com.fasterxml.jackson.databind.DeserializationContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.StdSubtypeResolver java.util.Collection&lt;com.fasterxml.jackson.databind.jsontype.NamedType&gt; collectAndResolveSubtypesByTypeId(com.fasterxml.jackson.databind.cfg.MapperConfig&lt;?&gt;, com.fasterxml.jackson.databind.introspect.AnnotatedClass) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.StdTypeResolverBuilder com.fasterxml.jackson.databind.jsontype.TypeResolverBuilder typeIdVisibility(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.StdSubtypeResolver void registerSubtypes(com.fasterxml.jackson.databind.jsontype.NamedType...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.AsArrayTypeDeserializer com.fasterxml.jackson.databind.jsontype.TypeDeserializer forProperty(com.fasterxml.jackson.databind.BeanProperty)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.StdTypeResolverBuilder com.fasterxml.jackson.databind.jsontype.TypeSerializer buildTypeSerializer(com.fasterxml.jackson.databind.SerializationConfig, com.fasterxml.jackson.databind.JavaType, java.util.Collection&lt;com.fasterxml.jackson.databind.jsontype.NamedType&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.TypeIdResolverBase com.fasterxml.jackson.databind.JavaType typeFromId(com.fasterxml.jackson.databind.DatabindContext, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.AsExistingPropertyTypeSerializer com.fasterxml.jackson.databind.jsontype.impl.AsPropertyTypeSerializer forProperty(com.fasterxml.jackson.databind.BeanProperty)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.StdSubtypeResolver void registerSubtypes(java.lang.Class&lt;?&gt;...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.AsWrapperTypeSerializer void writeTypePrefixForObject(java.lang.Object, com.fasterxml.jackson.core.JsonGenerator, java.lang.Class&lt;?&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.ClassNameIdResolver java.lang.String _idFrom(java.lang.Object, java.lang.Class&lt;?&gt;, com.fasterxml.jackson.databind.type.TypeFactory) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.AsArrayTypeSerializer void writeCustomTypeSuffixForScalar(java.lang.Object, com.fasterxml.jackson.core.JsonGenerator, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.AsArrayTypeSerializer void writeCustomTypePrefixForScalar(java.lang.Object, com.fasterxml.jackson.core.JsonGenerator, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.AsExistingPropertyTypeSerializer com.fasterxml.jackson.databind.jsontype.impl.AsExistingPropertyTypeSerializer forProperty(com.fasterxml.jackson.databind.BeanProperty)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.StdTypeResolverBuilder com.fasterxml.jackson.databind.jsontype.impl.StdTypeResolverBuilder typeIdVisibility(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.AsWrapperTypeSerializer void writeTypeSuffixForArray(java.lang.Object, com.fasterxml.jackson.core.JsonGenerator) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.AsArrayTypeSerializer void writeTypeSuffixForScalar(java.lang.Object, com.fasterxml.jackson.core.JsonGenerator) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.MinimalClassNameIdResolver MinimalClassNameIdResolver(com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.type.TypeFactory) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.AsArrayTypeSerializer void writeTypePrefixForScalar(java.lang.Object, com.fasterxml.jackson.core.JsonGenerator) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.StdSubtypeResolver java.util.Collection&lt;com.fasterxml.jackson.databind.jsontype.NamedType&gt; _combineNamedAndUnnamed(java.util.Set&lt;java.lang.Class&lt;?&gt;&gt;, java.util.Map&lt;java.lang.String,com.fasterxml.jackson.databind.jsontype.NamedType&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsontype.impl.AsExternalTypeSerializer void _writeArraySuffix(java.lang.Object, com.fasterxml.jackson.core.JsonGenerator, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

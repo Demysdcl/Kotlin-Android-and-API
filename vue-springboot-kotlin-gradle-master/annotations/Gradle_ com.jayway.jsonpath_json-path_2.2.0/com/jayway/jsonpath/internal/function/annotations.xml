@@ -1,0 +1,20 @@
+<root>
+    <item name='com.jayway.jsonpath.internal.function.PathFunction java.lang.Object invoke(java.lang.String, com.jayway.jsonpath.internal.PathRef, java.lang.Object, com.jayway.jsonpath.internal.EvaluationContext, java.util.List&lt;com.jayway.jsonpath.internal.function.Parameter&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.jayway.jsonpath.internal.function.ParamType JSON'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.function.ParamType PATH'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.function.PassthruPathFunction java.lang.Object invoke(java.lang.String, com.jayway.jsonpath.internal.PathRef, java.lang.Object, com.jayway.jsonpath.internal.EvaluationContext, java.util.List&lt;com.jayway.jsonpath.internal.function.Parameter&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+</root>

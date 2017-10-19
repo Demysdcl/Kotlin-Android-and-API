@@ -1,0 +1,1223 @@
+<root>
+    <item name='com.fasterxml.jackson.databind.type.TypeBase java.lang.StringBuilder _classSignature(java.lang.Class&lt;?&gt;, java.lang.StringBuilder, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeFactory com.fasterxml.jackson.databind.type.CollectionType constructCollectionType(java.lang.Class&lt;? extends java.util.Collection&gt;, java.lang.Class&lt;?&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.CollectionType com.fasterxml.jackson.databind.JavaType refine(java.lang.Class&lt;?&gt;, com.fasterxml.jackson.databind.type.TypeBindings, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.JavaType[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.ClassKey ClassKey(java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.ArrayType com.fasterxml.jackson.databind.JavaType withContentValueHandler(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.CollectionLikeType com.fasterxml.jackson.databind.JavaType withContentType(com.fasterxml.jackson.databind.JavaType)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.ReferenceType com.fasterxml.jackson.databind.JavaType withValueHandler(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.MapType com.fasterxml.jackson.databind.JavaType withContentType(com.fasterxml.jackson.databind.JavaType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeFactory com.fasterxml.jackson.databind.JavaType constructParametrizedType(java.lang.Class&lt;?&gt;, java.lang.Class&lt;?&gt;, java.lang.Class&lt;?&gt;...) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeFactory com.fasterxml.jackson.databind.JavaType _fromArrayType(com.fasterxml.jackson.databind.type.ClassStack, java.lang.reflect.GenericArrayType, com.fasterxml.jackson.databind.type.TypeBindings)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeFactory com.fasterxml.jackson.databind.JavaType[] _resolveSuperInterfaces(com.fasterxml.jackson.databind.type.ClassStack, java.lang.Class&lt;?&gt;, com.fasterxml.jackson.databind.type.TypeBindings)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeFactory com.fasterxml.jackson.databind.type.ArrayType constructArrayType(com.fasterxml.jackson.databind.JavaType)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeFactory com.fasterxml.jackson.databind.JavaType constructParametrizedType(java.lang.Class&lt;?&gt;, java.lang.Class&lt;?&gt;, com.fasterxml.jackson.databind.JavaType...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.ArrayType com.fasterxml.jackson.databind.type.ArrayType construct(com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.type.TypeBindings)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.CollectionType com.fasterxml.jackson.databind.type.CollectionLikeType withStaticTyping()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.MapLikeType com.fasterxml.jackson.databind.JavaType _narrow(java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeFactory EMPTY_BINDINGS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeBindings com.fasterxml.jackson.databind.type.TypeBindings create(java.lang.Class&lt;?&gt;, java.util.List&lt;com.fasterxml.jackson.databind.JavaType&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeParser java.util.List&lt;com.fasterxml.jackson.databind.JavaType&gt; parseTypes(com.fasterxml.jackson.databind.type.TypeParser.MyTokenizer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.MapLikeType MapLikeType(java.lang.Class&lt;?&gt;, com.fasterxml.jackson.databind.type.TypeBindings, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.JavaType[], com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.JavaType, java.lang.Object, java.lang.Object, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.ReferenceType com.fasterxml.jackson.databind.type.SimpleType withContentValueHandler(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeBase java.lang.StringBuilder getGenericSignature(java.lang.StringBuilder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeFactory com.fasterxml.jackson.databind.JavaType _fromVariable(com.fasterxml.jackson.databind.type.ClassStack, java.lang.reflect.TypeVariable&lt;?&gt;, com.fasterxml.jackson.databind.type.TypeBindings) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.MapLikeType com.fasterxml.jackson.databind.type.MapLikeType construct(java.lang.Class&lt;?&gt;, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.JavaType) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.ReferenceType java.lang.StringBuilder getGenericSignature(java.lang.StringBuilder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeBindings com.fasterxml.jackson.databind.type.TypeBindings create(java.lang.Class&lt;?&gt;, com.fasterxml.jackson.databind.JavaType[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeBindings com.fasterxml.jackson.databind.type.TypeBindings emptyBindings()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.ReferenceType com.fasterxml.jackson.databind.type.ReferenceType construct(java.lang.Class&lt;?&gt;, com.fasterxml.jackson.databind.type.TypeBindings, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.JavaType[], com.fasterxml.jackson.databind.JavaType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.ResolvedRecursiveType com.fasterxml.jackson.databind.JavaType withTypeHandler(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.MapType com.fasterxml.jackson.databind.type.MapLikeType withValueHandler(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.CollectionType com.fasterxml.jackson.databind.type.CollectionType withContentTypeHandler(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.MapLikeType com.fasterxml.jackson.databind.JavaType withContentType(com.fasterxml.jackson.databind.JavaType)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.ResolvedRecursiveType com.fasterxml.jackson.databind.JavaType refine(java.lang.Class&lt;?&gt;, com.fasterxml.jackson.databind.type.TypeBindings, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.JavaType[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.ArrayType com.fasterxml.jackson.databind.type.ArrayType construct(com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.type.TypeBindings, java.lang.Object, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeFactory com.fasterxml.jackson.databind.type.CollectionType constructCollectionType(java.lang.Class&lt;? extends java.util.Collection&gt;, com.fasterxml.jackson.databind.JavaType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.ReferenceType com.fasterxml.jackson.databind.JavaType _narrow(java.lang.Class&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeFactory com.fasterxml.jackson.databind.JavaType[] findTypeParameters(com.fasterxml.jackson.databind.JavaType, java.lang.Class&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeFactory com.fasterxml.jackson.databind.JavaType constructType(java.lang.reflect.Type, com.fasterxml.jackson.databind.type.TypeBindings) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.MapLikeType com.fasterxml.jackson.databind.type.MapLikeType construct(java.lang.Class&lt;?&gt;, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.JavaType) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.ReferenceType com.fasterxml.jackson.databind.type.ReferenceType construct(java.lang.Class&lt;?&gt;, com.fasterxml.jackson.databind.JavaType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.ArrayType com.fasterxml.jackson.databind.type.ArrayType withStaticTyping()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.ReferenceType com.fasterxml.jackson.databind.type.ReferenceType withContentTypeHandler(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.SimpleType com.fasterxml.jackson.databind.type.SimpleType construct(java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeFactory com.fasterxml.jackson.databind.JavaType constructParametricType(java.lang.Class&lt;?&gt;, com.fasterxml.jackson.databind.JavaType...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.CollectionType com.fasterxml.jackson.databind.type.CollectionType withContentValueHandler(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeFactory CORE_TYPE_COMPARABLE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.ArrayType ArrayType(com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.type.TypeBindings, java.lang.Object, java.lang.Object, java.lang.Object, boolean) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeFactory com.fasterxml.jackson.databind.JavaType constructParametrizedType(java.lang.Class&lt;?&gt;, java.lang.Class&lt;?&gt;, java.lang.Class&lt;?&gt;...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.CollectionType com.fasterxml.jackson.databind.type.CollectionType construct(java.lang.Class&lt;?&gt;, com.fasterxml.jackson.databind.type.TypeBindings, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.JavaType[], com.fasterxml.jackson.databind.JavaType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.SimpleType com.fasterxml.jackson.databind.type.SimpleType withContentValueHandler(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.SimpleType com.fasterxml.jackson.databind.type.SimpleType withStaticTyping()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeFactory com.fasterxml.jackson.databind.JavaType constructType(java.lang.reflect.Type) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.CollectionLikeType java.lang.StringBuilder getGenericSignature(java.lang.StringBuilder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.MapLikeType java.lang.StringBuilder getGenericSignature(java.lang.StringBuilder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.MapType com.fasterxml.jackson.databind.type.MapType construct(java.lang.Class&lt;?&gt;, com.fasterxml.jackson.databind.type.TypeBindings, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.JavaType[], com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.JavaType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.CollectionType com.fasterxml.jackson.databind.JavaType withValueHandler(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.MapLikeType com.fasterxml.jackson.databind.type.MapLikeType construct(java.lang.Class&lt;?&gt;, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.JavaType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeFactory com.fasterxml.jackson.databind.type.TypeFactory withModifier(com.fasterxml.jackson.databind.type.TypeModifier)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.SimpleType com.fasterxml.jackson.databind.type.SimpleType constructUnsafe(java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeFactory com.fasterxml.jackson.databind.JavaType _resolveSuperClass(com.fasterxml.jackson.databind.type.ClassStack, java.lang.Class&lt;?&gt;, com.fasterxml.jackson.databind.type.TypeBindings) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeFactory com.fasterxml.jackson.databind.type.CollectionLikeType constructRawCollectionLikeType(java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.ClassStack com.fasterxml.jackson.databind.type.ClassStack child(java.lang.Class&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.MapType com.fasterxml.jackson.databind.type.MapType construct(java.lang.Class&lt;?&gt;, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.JavaType)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeFactory com.fasterxml.jackson.databind.type.MapLikeType constructMapLikeType(java.lang.Class&lt;?&gt;, java.lang.Class&lt;?&gt;, java.lang.Class&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.MapLikeType com.fasterxml.jackson.databind.type.MapLikeType withValueHandler(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeFactory CORE_TYPE_BOOL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeFactory com.fasterxml.jackson.databind.JavaType unknownType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.ArrayType com.fasterxml.jackson.databind.JavaType withContentTypeHandler(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.ArrayType com.fasterxml.jackson.databind.type.ArrayType withContentTypeHandler(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.ReferenceType com.fasterxml.jackson.databind.type.ReferenceType construct(java.lang.Class&lt;?&gt;, com.fasterxml.jackson.databind.type.TypeBindings, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.JavaType[], com.fasterxml.jackson.databind.JavaType) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.CollectionLikeType com.fasterxml.jackson.databind.JavaType withStaticTyping()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.CollectionLikeType com.fasterxml.jackson.databind.type.CollectionLikeType withStaticTyping()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.CollectionLikeType com.fasterxml.jackson.databind.JavaType withTypeHandler(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeParser java.util.List&lt;com.fasterxml.jackson.databind.JavaType&gt; parseTypes(com.fasterxml.jackson.databind.type.TypeParser.MyTokenizer)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.ResolvedRecursiveType com.fasterxml.jackson.databind.JavaType withStaticTyping()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.ArrayType _componentType'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeFactory com.fasterxml.jackson.databind.JavaType[] findTypeParameters(java.lang.Class&lt;?&gt;, java.lang.Class&lt;?&gt;, com.fasterxml.jackson.databind.type.TypeBindings)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeBase java.lang.StringBuilder getGenericSignature(java.lang.StringBuilder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.ArrayType com.fasterxml.jackson.databind.JavaType getContentType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.ReferenceType com.fasterxml.jackson.databind.type.ReferenceType upgradeFrom(com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.JavaType)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.CollectionType com.fasterxml.jackson.databind.type.CollectionLikeType withValueHandler(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeParser java.lang.Class&lt;?&gt; findClass(java.lang.String, com.fasterxml.jackson.databind.type.TypeParser.MyTokenizer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.SimpleType com.fasterxml.jackson.databind.JavaType withContentType(com.fasterxml.jackson.databind.JavaType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeFactory com.fasterxml.jackson.databind.JavaType[] _resolveSuperInterfaces(com.fasterxml.jackson.databind.type.ClassStack, java.lang.Class&lt;?&gt;, com.fasterxml.jackson.databind.type.TypeBindings) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.ReferenceType ReferenceType(java.lang.Class&lt;?&gt;, com.fasterxml.jackson.databind.type.TypeBindings, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.JavaType[], com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.JavaType, java.lang.Object, java.lang.Object, boolean) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.ReferenceType com.fasterxml.jackson.databind.JavaType refine(java.lang.Class&lt;?&gt;, com.fasterxml.jackson.databind.type.TypeBindings, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.JavaType[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeFactory com.fasterxml.jackson.databind.JavaType _fromVariable(com.fasterxml.jackson.databind.type.ClassStack, java.lang.reflect.TypeVariable&lt;?&gt;, com.fasterxml.jackson.databind.type.TypeBindings) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.ArrayType com.fasterxml.jackson.databind.JavaType withContentType(com.fasterxml.jackson.databind.JavaType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.CollectionType com.fasterxml.jackson.databind.JavaType withContentTypeHandler(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.MapLikeType com.fasterxml.jackson.databind.JavaType withStaticTyping()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeBindings com.fasterxml.jackson.databind.type.TypeBindings createIfNeeded(java.lang.Class&lt;?&gt;, com.fasterxml.jackson.databind.JavaType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.ArrayType com.fasterxml.jackson.databind.JavaType _narrow(java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.ArrayType com.fasterxml.jackson.databind.type.ArrayType withContentValueHandler(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.SimpleType com.fasterxml.jackson.databind.JavaType withValueHandler(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.MapLikeType com.fasterxml.jackson.databind.type.MapLikeType construct(java.lang.Class&lt;?&gt;, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.JavaType)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeFactory com.fasterxml.jackson.databind.JavaType uncheckedSimpleType(java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.MapLikeType com.fasterxml.jackson.databind.JavaType withTypeHandler(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.ArrayType ArrayType(com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.type.TypeBindings, java.lang.Object, java.lang.Object, java.lang.Object, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeBase void serializeWithType(com.fasterxml.jackson.core.JsonGenerator, com.fasterxml.jackson.databind.SerializerProvider, com.fasterxml.jackson.databind.jsontype.TypeSerializer) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.CollectionType com.fasterxml.jackson.databind.type.CollectionType withStaticTyping()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.ReferenceType com.fasterxml.jackson.databind.type.ReferenceType withValueHandler(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeFactory com.fasterxml.jackson.databind.type.MapType constructMapType(java.lang.Class&lt;? extends java.util.Map&gt;, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.JavaType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeFactory com.fasterxml.jackson.databind.type.CollectionLikeType constructCollectionLikeType(java.lang.Class&lt;?&gt;, com.fasterxml.jackson.databind.JavaType)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeFactory com.fasterxml.jackson.databind.JavaType constructType(java.lang.reflect.Type, com.fasterxml.jackson.databind.JavaType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.MapLikeType com.fasterxml.jackson.databind.type.MapLikeType withKeyTypeHandler(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeFactory com.fasterxml.jackson.databind.type.CollectionLikeType constructCollectionLikeType(java.lang.Class&lt;?&gt;, java.lang.Class&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.ResolvedRecursiveType java.lang.StringBuilder getGenericSignature(java.lang.StringBuilder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.CollectionLikeType com.fasterxml.jackson.databind.JavaType _narrow(java.lang.Class&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.MapType com.fasterxml.jackson.databind.type.MapType withTypeHandler(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.MapType com.fasterxml.jackson.databind.type.MapLikeType withTypeHandler(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.MapLikeType com.fasterxml.jackson.databind.JavaType _narrow(java.lang.Class&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeParser com.fasterxml.jackson.databind.JavaType parseType(com.fasterxml.jackson.databind.type.TypeParser.MyTokenizer)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.MapType com.fasterxml.jackson.databind.type.MapLikeType withKeyValueHandler(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeFactory _parser'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.ClassKey int compareTo(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.CollectionType com.fasterxml.jackson.databind.JavaType refine(java.lang.Class&lt;?&gt;, com.fasterxml.jackson.databind.type.TypeBindings, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.JavaType[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.CollectionLikeType java.lang.StringBuilder getErasedSignature(java.lang.StringBuilder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.MapType com.fasterxml.jackson.databind.JavaType withTypeHandler(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.ReferenceType java.lang.StringBuilder getGenericSignature(java.lang.StringBuilder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.CollectionLikeType com.fasterxml.jackson.databind.type.CollectionLikeType withContentTypeHandler(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.MapLikeType com.fasterxml.jackson.databind.JavaType withValueHandler(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeBase java.lang.StringBuilder _classSignature(java.lang.Class&lt;?&gt;, java.lang.StringBuilder, boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeFactory com.fasterxml.jackson.databind.type.MapLikeType constructMapLikeType(java.lang.Class&lt;?&gt;, java.lang.Class&lt;?&gt;, java.lang.Class&lt;?&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.ReferenceType com.fasterxml.jackson.databind.JavaType withContentTypeHandler(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeParser java.lang.IllegalArgumentException _problem(com.fasterxml.jackson.databind.type.TypeParser.MyTokenizer, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeFactory java.lang.Class&lt;?&gt; findClass(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeBase void serializeWithType(com.fasterxml.jackson.core.JsonGenerator, com.fasterxml.jackson.databind.SerializerProvider, com.fasterxml.jackson.databind.jsontype.TypeSerializer) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeFactory com.fasterxml.jackson.databind.JavaType _newSimpleType(java.lang.Class&lt;?&gt;, com.fasterxml.jackson.databind.type.TypeBindings, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.JavaType[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeFactory java.lang.Class&lt;?&gt; rawClass(java.lang.reflect.Type) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.SimpleType SimpleType(java.lang.Class&lt;?&gt;, com.fasterxml.jackson.databind.type.TypeBindings, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.JavaType[], int, java.lang.Object, java.lang.Object, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.SimpleType java.lang.StringBuilder getGenericSignature(java.lang.StringBuilder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.CollectionType com.fasterxml.jackson.databind.type.CollectionType withTypeHandler(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.MapType MapType(com.fasterxml.jackson.databind.type.TypeBase, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.JavaType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.SimpleType SimpleType(java.lang.Class&lt;?&gt;, com.fasterxml.jackson.databind.type.TypeBindings, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.JavaType[], java.lang.Object, java.lang.Object, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeFactory com.fasterxml.jackson.databind.JavaType constructParametrizedType(java.lang.Class&lt;?&gt;, java.lang.Class&lt;?&gt;, com.fasterxml.jackson.databind.JavaType...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.MapType com.fasterxml.jackson.databind.type.MapType withKeyValueHandler(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeFactory com.fasterxml.jackson.databind.JavaType constructParametricType(java.lang.Class&lt;?&gt;, java.lang.Class&lt;?&gt;...) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.CollectionType com.fasterxml.jackson.databind.type.CollectionLikeType withTypeHandler(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeFactory com.fasterxml.jackson.databind.JavaType _fromParamType(com.fasterxml.jackson.databind.type.ClassStack, java.lang.reflect.ParameterizedType, com.fasterxml.jackson.databind.type.TypeBindings) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.ClassKey int compareTo(com.fasterxml.jackson.databind.type.ClassKey) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.CollectionLikeType com.fasterxml.jackson.databind.type.CollectionLikeType upgradeFrom(com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.JavaType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeFactory com.fasterxml.jackson.databind.JavaType _constructSimple(java.lang.Class&lt;?&gt;, com.fasterxml.jackson.databind.type.TypeBindings, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.JavaType[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeFactory com.fasterxml.jackson.databind.JavaType _findWellKnownSimple(java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeBindings com.fasterxml.jackson.databind.type.TypeBindings create(java.lang.Class&lt;?&gt;, com.fasterxml.jackson.databind.JavaType)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.CollectionType com.fasterxml.jackson.databind.JavaType _narrow(java.lang.Class&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeBindings com.fasterxml.jackson.databind.type.TypeBindings withUnboundVariable(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.ArrayType com.fasterxml.jackson.core.type.ResolvedType getContentType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.CollectionLikeType CollectionLikeType(java.lang.Class&lt;?&gt;, com.fasterxml.jackson.databind.type.TypeBindings, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.JavaType[], com.fasterxml.jackson.databind.JavaType, java.lang.Object, java.lang.Object, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.CollectionLikeType com.fasterxml.jackson.databind.type.CollectionLikeType withValueHandler(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.MapType com.fasterxml.jackson.databind.type.MapType withContentTypeHandler(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeBase void serializeWithType(com.fasterxml.jackson.core.JsonGenerator, com.fasterxml.jackson.databind.SerializerProvider, com.fasterxml.jackson.databind.jsontype.TypeSerializer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeFactory com.fasterxml.jackson.databind.JavaType constructReferenceType(java.lang.Class&lt;?&gt;, com.fasterxml.jackson.databind.JavaType) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.CollectionLikeType java.lang.StringBuilder getGenericSignature(java.lang.StringBuilder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeFactory com.fasterxml.jackson.databind.type.CollectionType constructRawCollectionType(java.lang.Class&lt;? extends java.util.Collection&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeFactory com.fasterxml.jackson.databind.JavaType constructGeneralizedType(com.fasterxml.jackson.databind.JavaType, java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.ClassKey void reset(java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.MapType com.fasterxml.jackson.databind.type.MapType withKeyType(com.fasterxml.jackson.databind.JavaType)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.ReferenceType com.fasterxml.jackson.databind.JavaType withContentType(com.fasterxml.jackson.databind.JavaType)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.SimpleType com.fasterxml.jackson.databind.JavaType refine(java.lang.Class&lt;?&gt;, com.fasterxml.jackson.databind.type.TypeBindings, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.JavaType[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.ArrayType com.fasterxml.jackson.databind.JavaType withContentType(com.fasterxml.jackson.databind.JavaType)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.MapLikeType com.fasterxml.jackson.databind.JavaType withContentTypeHandler(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeFactory com.fasterxml.jackson.databind.JavaType constructParametricType(java.lang.Class&lt;?&gt;, com.fasterxml.jackson.databind.JavaType...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.ArrayType _emptyArray'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeFactory com.fasterxml.jackson.databind.JavaType constructParametrizedType(java.lang.Class&lt;?&gt;, java.lang.Class&lt;?&gt;, java.lang.Class&lt;?&gt;...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.MapLikeType com.fasterxml.jackson.databind.type.MapLikeType withKeyValueHandler(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.MapType com.fasterxml.jackson.databind.type.MapLikeType withContentTypeHandler(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeFactory com.fasterxml.jackson.databind.type.TypeFactory withCache(com.fasterxml.jackson.databind.util.LRUMap&lt;java.lang.Object,com.fasterxml.jackson.databind.JavaType&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeFactory com.fasterxml.jackson.databind.JavaType _fromArrayType(com.fasterxml.jackson.databind.type.ClassStack, java.lang.reflect.GenericArrayType, com.fasterxml.jackson.databind.type.TypeBindings) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.SimpleType com.fasterxml.jackson.databind.type.SimpleType withTypeHandler(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeFactory com.fasterxml.jackson.databind.JavaType _fromWildcard(com.fasterxml.jackson.databind.type.ClassStack, java.lang.reflect.WildcardType, com.fasterxml.jackson.databind.type.TypeBindings) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeFactory com.fasterxml.jackson.databind.JavaType constructParametricType(java.lang.Class&lt;?&gt;, java.lang.Class&lt;?&gt;...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeFactory com.fasterxml.jackson.databind.type.CollectionType constructCollectionType(java.lang.Class&lt;? extends java.util.Collection&gt;, java.lang.Class&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeFactory com.fasterxml.jackson.databind.JavaType _fromAny(com.fasterxml.jackson.databind.type.ClassStack, java.lang.reflect.Type, com.fasterxml.jackson.databind.type.TypeBindings) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.MapLikeType java.lang.StringBuilder getGenericSignature(java.lang.StringBuilder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.SimpleType SimpleType(java.lang.Class&lt;?&gt;, com.fasterxml.jackson.databind.type.TypeBindings, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.JavaType[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeFactory com.fasterxml.jackson.databind.JavaType _constructSimple(java.lang.Class&lt;?&gt;, com.fasterxml.jackson.databind.type.TypeBindings, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.JavaType[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeFactory com.fasterxml.jackson.databind.type.MapLikeType constructMapLikeType(java.lang.Class&lt;?&gt;, java.lang.Class&lt;?&gt;, java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeFactory com.fasterxml.jackson.databind.type.ArrayType constructArrayType(java.lang.Class&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.MapType com.fasterxml.jackson.databind.JavaType refine(java.lang.Class&lt;?&gt;, com.fasterxml.jackson.databind.type.TypeBindings, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.JavaType[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeFactory com.fasterxml.jackson.databind.type.MapLikeType constructRawMapLikeType(java.lang.Class&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.CollectionLikeType com.fasterxml.jackson.databind.JavaType withValueHandler(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeFactory com.fasterxml.jackson.databind.JavaType constructReferenceType(java.lang.Class&lt;?&gt;, com.fasterxml.jackson.databind.JavaType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.ReferenceType com.fasterxml.jackson.databind.type.ReferenceType construct(java.lang.Class&lt;?&gt;, com.fasterxml.jackson.databind.JavaType)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.ReferenceType com.fasterxml.jackson.databind.type.SimpleType withTypeHandler(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.MapType com.fasterxml.jackson.databind.type.MapLikeType withKeyTypeHandler(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.CollectionLikeType com.fasterxml.jackson.databind.JavaType withContentTypeHandler(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.MapType com.fasterxml.jackson.databind.JavaType _narrow(java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.ResolvedRecursiveType com.fasterxml.jackson.databind.JavaType withContentValueHandler(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeFactory com.fasterxml.jackson.databind.type.MapType constructMapType(java.lang.Class&lt;? extends java.util.Map&gt;, java.lang.Class&lt;?&gt;, java.lang.Class&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeBase java.lang.StringBuilder _classSignature(java.lang.Class&lt;?&gt;, java.lang.StringBuilder, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeFactory com.fasterxml.jackson.databind.JavaType constructSimpleType(java.lang.Class&lt;?&gt;, com.fasterxml.jackson.databind.JavaType[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.SimpleType SimpleType(java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeFactory com.fasterxml.jackson.databind.JavaType _fromClass(com.fasterxml.jackson.databind.type.ClassStack, java.lang.Class&lt;?&gt;, com.fasterxml.jackson.databind.type.TypeBindings) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.MapType com.fasterxml.jackson.databind.JavaType withContentValueHandler(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.ResolvedRecursiveType com.fasterxml.jackson.databind.JavaType _narrow(java.lang.Class&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.MapLikeType com.fasterxml.jackson.databind.type.MapLikeType upgradeFrom(com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.JavaType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.ResolvedRecursiveType com.fasterxml.jackson.databind.JavaType withContentType(com.fasterxml.jackson.databind.JavaType)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeFactory com.fasterxml.jackson.databind.type.MapLikeType constructMapLikeType(java.lang.Class&lt;?&gt;, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.JavaType)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.SimpleType java.lang.StringBuilder getErasedSignature(java.lang.StringBuilder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.ArrayType java.lang.StringBuilder getGenericSignature(java.lang.StringBuilder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.ReferenceType com.fasterxml.jackson.databind.type.ReferenceType construct(java.lang.Class&lt;?&gt;, com.fasterxml.jackson.databind.type.TypeBindings, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.JavaType[], com.fasterxml.jackson.databind.JavaType)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.SimpleType SimpleType(com.fasterxml.jackson.databind.type.TypeBase) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeFactory com.fasterxml.jackson.databind.type.MapType constructRawMapType(java.lang.Class&lt;? extends java.util.Map&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeFactory com.fasterxml.jackson.databind.JavaType[] findTypeParameters(java.lang.Class&lt;?&gt;, java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.MapLikeType com.fasterxml.jackson.databind.type.MapLikeType withTypeHandler(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.MapType com.fasterxml.jackson.databind.type.MapType withKeyTypeHandler(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeFactory com.fasterxml.jackson.databind.type.MapLikeType constructMapLikeType(java.lang.Class&lt;?&gt;, java.lang.Class&lt;?&gt;, java.lang.Class&lt;?&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeParser com.fasterxml.jackson.databind.JavaType parse(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.SimpleType com.fasterxml.jackson.databind.JavaType _narrow(java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeParser java.lang.IllegalArgumentException _problem(com.fasterxml.jackson.databind.type.TypeParser.MyTokenizer, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.ArrayType com.fasterxml.jackson.databind.JavaType withValueHandler(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.MapType com.fasterxml.jackson.databind.JavaType _narrow(java.lang.Class&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.ReferenceType com.fasterxml.jackson.databind.JavaType withContentValueHandler(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.ResolvedRecursiveType ResolvedRecursiveType(java.lang.Class&lt;?&gt;, com.fasterxml.jackson.databind.type.TypeBindings) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.MapType com.fasterxml.jackson.databind.type.MapType withStaticTyping()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeFactory com.fasterxml.jackson.databind.type.CollectionLikeType constructCollectionLikeType(java.lang.Class&lt;?&gt;, com.fasterxml.jackson.databind.JavaType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.SimpleType com.fasterxml.jackson.databind.JavaType withContentTypeHandler(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.SimpleType com.fasterxml.jackson.databind.JavaType withStaticTyping()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeParser com.fasterxml.jackson.databind.JavaType parseType(com.fasterxml.jackson.databind.type.TypeParser.MyTokenizer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.CollectionLikeType com.fasterxml.jackson.databind.type.CollectionLikeType upgradeFrom(com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.JavaType)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.SimpleType com.fasterxml.jackson.databind.JavaType withTypeHandler(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeFactory com.fasterxml.jackson.databind.JavaType _fromParamType(com.fasterxml.jackson.databind.type.ClassStack, java.lang.reflect.ParameterizedType, com.fasterxml.jackson.databind.type.TypeBindings)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.CollectionLikeType com.fasterxml.jackson.databind.JavaType refine(java.lang.Class&lt;?&gt;, com.fasterxml.jackson.databind.type.TypeBindings, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.JavaType[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.CollectionType com.fasterxml.jackson.databind.type.CollectionType construct(java.lang.Class&lt;?&gt;, com.fasterxml.jackson.databind.JavaType) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.MapType com.fasterxml.jackson.databind.type.MapType withValueHandler(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeFactory com.fasterxml.jackson.databind.type.TypeFactory defaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.SimpleType com.fasterxml.jackson.databind.JavaType withContentType(com.fasterxml.jackson.databind.JavaType)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeFactory com.fasterxml.jackson.databind.JavaType[] findTypeParameters(java.lang.Class&lt;?&gt;, java.lang.Class&lt;?&gt;, com.fasterxml.jackson.databind.type.TypeBindings) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.ReferenceType com.fasterxml.jackson.databind.type.SimpleType withValueHandler(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeBase java.lang.StringBuilder getErasedSignature(java.lang.StringBuilder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.SimpleType com.fasterxml.jackson.databind.type.SimpleType constructUnsafe(java.lang.Class&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeBindings java.lang.Object readResolve()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeFactory CORE_TYPE_ENUM'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeFactory com.fasterxml.jackson.databind.JavaType _fromWellKnownInterface(com.fasterxml.jackson.databind.type.ClassStack, java.lang.Class&lt;?&gt;, com.fasterxml.jackson.databind.type.TypeBindings, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.JavaType[]) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.CollectionLikeType com.fasterxml.jackson.databind.type.CollectionLikeType construct(java.lang.Class&lt;?&gt;, com.fasterxml.jackson.databind.type.TypeBindings, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.JavaType[], com.fasterxml.jackson.databind.JavaType)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.ReferenceType com.fasterxml.jackson.databind.type.ReferenceType withTypeHandler(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.MapType com.fasterxml.jackson.databind.type.MapLikeType withContentValueHandler(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.CollectionType com.fasterxml.jackson.databind.JavaType withContentType(com.fasterxml.jackson.databind.JavaType)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeFactory com.fasterxml.jackson.databind.JavaType uncheckedSimpleType(java.lang.Class&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.MapType com.fasterxml.jackson.databind.type.MapType construct(java.lang.Class&lt;?&gt;, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.JavaType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeFactory com.fasterxml.jackson.databind.JavaType[] findTypeParameters(java.lang.Class&lt;?&gt;, java.lang.Class&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.CollectionType com.fasterxml.jackson.databind.type.CollectionType construct(java.lang.Class&lt;?&gt;, com.fasterxml.jackson.databind.JavaType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.SimpleType com.fasterxml.jackson.databind.type.SimpleType withValueHandler(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeBase TypeBase(com.fasterxml.jackson.databind.type.TypeBase) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeFactory _typeCache'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.CollectionLikeType CollectionLikeType(java.lang.Class&lt;?&gt;, com.fasterxml.jackson.databind.type.TypeBindings, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.JavaType[], com.fasterxml.jackson.databind.JavaType, java.lang.Object, java.lang.Object, boolean) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.CollectionType com.fasterxml.jackson.databind.type.CollectionLikeType withContentTypeHandler(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeFactory com.fasterxml.jackson.databind.JavaType constructSimpleType(java.lang.Class&lt;?&gt;, java.lang.Class&lt;?&gt;, com.fasterxml.jackson.databind.JavaType[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeFactory com.fasterxml.jackson.databind.JavaType _unknownType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.ResolvedRecursiveType com.fasterxml.jackson.databind.JavaType withContentType(com.fasterxml.jackson.databind.JavaType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.MapLikeType com.fasterxml.jackson.databind.JavaType refine(java.lang.Class&lt;?&gt;, com.fasterxml.jackson.databind.type.TypeBindings, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.JavaType[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeFactory com.fasterxml.jackson.databind.JavaType constructGeneralizedType(com.fasterxml.jackson.databind.JavaType, java.lang.Class&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.CollectionType com.fasterxml.jackson.databind.type.CollectionType withValueHandler(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.ArrayType com.fasterxml.jackson.databind.type.ArrayType withValueHandler(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.MapLikeType MapLikeType(com.fasterxml.jackson.databind.type.TypeBase, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.JavaType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeFactory com.fasterxml.jackson.databind.type.CollectionType constructRawCollectionType(java.lang.Class&lt;? extends java.util.Collection&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.ReferenceType java.lang.StringBuilder getErasedSignature(java.lang.StringBuilder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeBindings com.fasterxml.jackson.databind.type.TypeBindings create(java.lang.Class&lt;?&gt;, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.JavaType)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.CollectionLikeType CollectionLikeType(com.fasterxml.jackson.databind.type.TypeBase, com.fasterxml.jackson.databind.JavaType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeFactory instance'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.CollectionType com.fasterxml.jackson.databind.type.CollectionType construct(java.lang.Class&lt;?&gt;, com.fasterxml.jackson.databind.JavaType)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.CollectionLikeType com.fasterxml.jackson.databind.type.CollectionLikeType withTypeHandler(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeFactory com.fasterxml.jackson.databind.JavaType constructSpecializedType(com.fasterxml.jackson.databind.JavaType, java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.CollectionType com.fasterxml.jackson.databind.type.CollectionType construct(java.lang.Class&lt;?&gt;, com.fasterxml.jackson.databind.type.TypeBindings, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.JavaType[], com.fasterxml.jackson.databind.JavaType)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.MapType com.fasterxml.jackson.databind.JavaType refine(java.lang.Class&lt;?&gt;, com.fasterxml.jackson.databind.type.TypeBindings, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.JavaType[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeBase com.fasterxml.jackson.databind.JavaType[] findTypeParameters(java.lang.Class&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.MapLikeType java.lang.StringBuilder getErasedSignature(java.lang.StringBuilder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.CollectionType com.fasterxml.jackson.databind.type.CollectionLikeType withContentValueHandler(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.ArrayType com.fasterxml.jackson.databind.type.ArrayType construct(com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.type.TypeBindings, java.lang.Object, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeFactory com.fasterxml.jackson.databind.JavaType[] findTypeParameters(com.fasterxml.jackson.databind.JavaType, java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.SimpleType com.fasterxml.jackson.databind.JavaType withContentValueHandler(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.ReferenceType com.fasterxml.jackson.databind.type.SimpleType withStaticTyping()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeBindings com.fasterxml.jackson.databind.JavaType[] typeParameterArray()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.CollectionLikeType com.fasterxml.jackson.databind.type.CollectionLikeType construct(java.lang.Class&lt;?&gt;, com.fasterxml.jackson.databind.JavaType)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.MapLikeType MapLikeType(java.lang.Class&lt;?&gt;, com.fasterxml.jackson.databind.type.TypeBindings, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.JavaType[], com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.JavaType, java.lang.Object, java.lang.Object, boolean) 5'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeBase void serialize(com.fasterxml.jackson.core.JsonGenerator, com.fasterxml.jackson.databind.SerializerProvider) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.CollectionLikeType com.fasterxml.jackson.databind.type.CollectionLikeType construct(java.lang.Class&lt;?&gt;, com.fasterxml.jackson.databind.type.TypeBindings, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.JavaType[], com.fasterxml.jackson.databind.JavaType) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeBase com.fasterxml.jackson.databind.JavaType _bogusSuperClass(java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.MapType com.fasterxml.jackson.databind.JavaType withStaticTyping()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.MapLikeType com.fasterxml.jackson.databind.type.MapLikeType withContentValueHandler(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.MapLikeType com.fasterxml.jackson.databind.type.MapLikeType withContentTypeHandler(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeFactory CORE_TYPE_CLASS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.MapLikeType com.fasterxml.jackson.databind.type.MapLikeType withKeyType(com.fasterxml.jackson.databind.JavaType)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.ReferenceType _anchorType'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeFactory com.fasterxml.jackson.databind.type.MapType constructMapType(java.lang.Class&lt;? extends java.util.Map&gt;, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.JavaType)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.CollectionType com.fasterxml.jackson.databind.JavaType _narrow(java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.CollectionType com.fasterxml.jackson.databind.JavaType withContentType(com.fasterxml.jackson.databind.JavaType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.CollectionType com.fasterxml.jackson.databind.JavaType withContentValueHandler(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeBindings com.fasterxml.jackson.databind.type.TypeBindings createIfNeeded(java.lang.Class&lt;?&gt;, com.fasterxml.jackson.databind.JavaType[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.ReferenceType ReferenceType(com.fasterxml.jackson.databind.type.TypeBase, com.fasterxml.jackson.databind.JavaType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeFactory CORE_TYPE_STRING'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeParser com.fasterxml.jackson.databind.type.TypeParser withFactory(com.fasterxml.jackson.databind.type.TypeFactory)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.CollectionLikeType com.fasterxml.jackson.databind.JavaType withContentType(com.fasterxml.jackson.databind.JavaType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeBase void serialize(com.fasterxml.jackson.core.JsonGenerator, com.fasterxml.jackson.databind.SerializerProvider) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeFactory com.fasterxml.jackson.databind.JavaType _fromClass(com.fasterxml.jackson.databind.type.ClassStack, java.lang.Class&lt;?&gt;, com.fasterxml.jackson.databind.type.TypeBindings)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.SimpleType com.fasterxml.jackson.databind.JavaType _narrow(java.lang.Class&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.ReferenceType com.fasterxml.jackson.databind.JavaType getAnchorType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.MapLikeType MapLikeType(java.lang.Class&lt;?&gt;, com.fasterxml.jackson.databind.type.TypeBindings, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.JavaType[], com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.JavaType, java.lang.Object, java.lang.Object, boolean) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeFactory com.fasterxml.jackson.databind.type.ArrayType constructArrayType(com.fasterxml.jackson.databind.JavaType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.MapLikeType com.fasterxml.jackson.databind.JavaType withContentType(com.fasterxml.jackson.databind.JavaType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.ReferenceType com.fasterxml.jackson.databind.JavaType withStaticTyping()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeBase TypeBase(java.lang.Class&lt;?&gt;, com.fasterxml.jackson.databind.type.TypeBindings, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.JavaType[], int, java.lang.Object, java.lang.Object, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeFactory CORE_TYPE_LONG'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.MapLikeType com.fasterxml.jackson.databind.type.MapLikeType upgradeFrom(com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.JavaType)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.SimpleType com.fasterxml.jackson.databind.type.SimpleType construct(java.lang.Class&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeFactory com.fasterxml.jackson.databind.JavaType constructReferenceType(java.lang.Class&lt;?&gt;, com.fasterxml.jackson.databind.JavaType)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.CollectionLikeType com.fasterxml.jackson.databind.type.CollectionLikeType construct(java.lang.Class&lt;?&gt;, com.fasterxml.jackson.databind.JavaType) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeBindings com.fasterxml.jackson.databind.type.TypeBindings createIfNeeded(java.lang.Class&lt;?&gt;, com.fasterxml.jackson.databind.JavaType[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.ReferenceType com.fasterxml.jackson.databind.JavaType _narrow(java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeFactory com.fasterxml.jackson.databind.JavaType _constructSimple(java.lang.Class&lt;?&gt;, com.fasterxml.jackson.databind.type.TypeBindings, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.JavaType[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeFactory com.fasterxml.jackson.databind.JavaType constructFromCanonical(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.ReferenceType com.fasterxml.jackson.databind.JavaType refine(java.lang.Class&lt;?&gt;, com.fasterxml.jackson.databind.type.TypeBindings, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.JavaType[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeFactory com.fasterxml.jackson.databind.JavaType constructType(java.lang.reflect.Type, java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.MapType com.fasterxml.jackson.databind.type.MapLikeType withKeyType(com.fasterxml.jackson.databind.JavaType)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.MapType com.fasterxml.jackson.databind.type.MapLikeType withStaticTyping()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.ReferenceType com.fasterxml.jackson.databind.type.ReferenceType upgradeFrom(com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.JavaType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeFactory com.fasterxml.jackson.databind.type.MapType constructMapType(java.lang.Class&lt;? extends java.util.Map&gt;, java.lang.Class&lt;?&gt;, java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeBindings com.fasterxml.jackson.databind.type.TypeBindings createIfNeeded(java.lang.Class&lt;?&gt;, com.fasterxml.jackson.databind.JavaType)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.ResolvedRecursiveType com.fasterxml.jackson.databind.JavaType _narrow(java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.ReferenceType com.fasterxml.jackson.databind.JavaType withTypeHandler(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeFactory CORE_TYPE_INT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeFactory TypeFactory(com.fasterxml.jackson.databind.util.LRUMap&lt;java.lang.Object,com.fasterxml.jackson.databind.JavaType&gt;, com.fasterxml.jackson.databind.type.TypeParser, com.fasterxml.jackson.databind.type.TypeModifier[], java.lang.ClassLoader) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeFactory com.fasterxml.jackson.databind.type.MapType constructRawMapType(java.lang.Class&lt;? extends java.util.Map&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.ReferenceType com.fasterxml.jackson.databind.type.ReferenceType withContentValueHandler(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeFactory com.fasterxml.jackson.databind.type.MapLikeType constructMapLikeType(java.lang.Class&lt;?&gt;, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.JavaType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.MapType com.fasterxml.jackson.databind.type.MapType construct(java.lang.Class&lt;?&gt;, com.fasterxml.jackson.databind.type.TypeBindings, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.JavaType[], com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.JavaType)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.CollectionLikeType com.fasterxml.jackson.databind.type.CollectionLikeType construct(java.lang.Class&lt;?&gt;, com.fasterxml.jackson.databind.JavaType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.MapType com.fasterxml.jackson.databind.JavaType withContentType(com.fasterxml.jackson.databind.JavaType)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.ResolvedRecursiveType java.lang.StringBuilder getErasedSignature(java.lang.StringBuilder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.CollectionType com.fasterxml.jackson.databind.JavaType withStaticTyping()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeFactory com.fasterxml.jackson.databind.type.CollectionLikeType constructRawCollectionLikeType(java.lang.Class&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.ArrayType java.lang.StringBuilder getErasedSignature(java.lang.StringBuilder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.CollectionType com.fasterxml.jackson.databind.JavaType withTypeHandler(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeFactory com.fasterxml.jackson.databind.type.MapLikeType constructRawMapLikeType(java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeFactory com.fasterxml.jackson.databind.JavaType constructSimpleType(java.lang.Class&lt;?&gt;, com.fasterxml.jackson.databind.JavaType[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.ReferenceType com.fasterxml.jackson.databind.type.ReferenceType upgradeFrom(com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.JavaType) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.CollectionLikeType com.fasterxml.jackson.databind.type.CollectionLikeType withContentValueHandler(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.ResolvedRecursiveType com.fasterxml.jackson.databind.JavaType withContentTypeHandler(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.MapLikeType com.fasterxml.jackson.databind.type.MapLikeType withStaticTyping()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.MapType com.fasterxml.jackson.databind.JavaType withContentTypeHandler(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.CollectionLikeType com.fasterxml.jackson.databind.JavaType withContentValueHandler(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.SimpleType java.lang.StringBuilder getGenericSignature(java.lang.StringBuilder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.ArrayType com.fasterxml.jackson.databind.JavaType refine(java.lang.Class&lt;?&gt;, com.fasterxml.jackson.databind.type.TypeBindings, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.JavaType[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.CollectionType CollectionType(com.fasterxml.jackson.databind.type.TypeBase, com.fasterxml.jackson.databind.JavaType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeFactory com.fasterxml.jackson.databind.JavaType _newSimpleType(java.lang.Class&lt;?&gt;, com.fasterxml.jackson.databind.type.TypeBindings, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.JavaType[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeFactory com.fasterxml.jackson.databind.type.CollectionType constructCollectionType(java.lang.Class&lt;? extends java.util.Collection&gt;, com.fasterxml.jackson.databind.JavaType)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.MapType com.fasterxml.jackson.databind.type.MapType construct(java.lang.Class&lt;?&gt;, com.fasterxml.jackson.databind.type.TypeBindings, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.JavaType[], com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.JavaType) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.ReferenceType com.fasterxml.jackson.databind.JavaType withContentType(com.fasterxml.jackson.databind.JavaType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeFactory com.fasterxml.jackson.databind.type.CollectionLikeType constructCollectionLikeType(java.lang.Class&lt;?&gt;, java.lang.Class&lt;?&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.MapType com.fasterxml.jackson.databind.type.MapType withContentValueHandler(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeFactory com.fasterxml.jackson.databind.type.ArrayType constructArrayType(java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeFactory com.fasterxml.jackson.databind.JavaType constructSimpleType(java.lang.Class&lt;?&gt;, java.lang.Class&lt;?&gt;, com.fasterxml.jackson.databind.JavaType[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeFactory com.fasterxml.jackson.databind.JavaType constructParametricType(java.lang.Class&lt;?&gt;, java.lang.Class&lt;?&gt;...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.MapType com.fasterxml.jackson.databind.type.MapType construct(java.lang.Class&lt;?&gt;, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.JavaType) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeFactory com.fasterxml.jackson.databind.type.CollectionType constructCollectionType(java.lang.Class&lt;? extends java.util.Collection&gt;, java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.MapLikeType com.fasterxml.jackson.databind.JavaType withContentValueHandler(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeBindings java.lang.Object asKey(java.lang.Class&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.ArrayType com.fasterxml.jackson.databind.type.ArrayType construct(com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.type.TypeBindings) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.CollectionLikeType com.fasterxml.jackson.databind.type.CollectionLikeType construct(java.lang.Class&lt;?&gt;, com.fasterxml.jackson.databind.type.TypeBindings, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.JavaType[], com.fasterxml.jackson.databind.JavaType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.MapType com.fasterxml.jackson.databind.JavaType withValueHandler(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeFactory CORE_TYPE_OBJECT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeFactory com.fasterxml.jackson.databind.JavaType constructType(com.fasterxml.jackson.core.type.TypeReference&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.CollectionLikeType com.fasterxml.jackson.databind.JavaType _narrow(java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.ArrayType com.fasterxml.jackson.databind.JavaType withTypeHandler(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.ArrayType com.fasterxml.jackson.databind.type.ArrayType withTypeHandler(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.ArrayType com.fasterxml.jackson.databind.JavaType withStaticTyping()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.MapLikeType com.fasterxml.jackson.databind.JavaType withHandlersFrom(com.fasterxml.jackson.databind.JavaType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.MapType com.fasterxml.jackson.databind.type.MapType construct(java.lang.Class&lt;?&gt;, com.fasterxml.jackson.databind.type.TypeBindings, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.JavaType[], com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.JavaType) 5'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.ReferenceType com.fasterxml.jackson.databind.type.ReferenceType withStaticTyping()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.CollectionLikeType com.fasterxml.jackson.databind.JavaType refine(java.lang.Class&lt;?&gt;, com.fasterxml.jackson.databind.type.TypeBindings, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.JavaType[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.CollectionType com.fasterxml.jackson.databind.type.CollectionType construct(java.lang.Class&lt;?&gt;, com.fasterxml.jackson.databind.type.TypeBindings, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.JavaType[], com.fasterxml.jackson.databind.JavaType) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.ResolvedRecursiveType com.fasterxml.jackson.databind.JavaType withValueHandler(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.CollectionLikeType com.fasterxml.jackson.databind.JavaType withHandlersFrom(com.fasterxml.jackson.databind.JavaType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeFactory com.fasterxml.jackson.databind.type.TypeFactory withClassLoader(java.lang.ClassLoader)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.TypeFactory com.fasterxml.jackson.databind.type.CollectionLikeType constructCollectionLikeType(java.lang.Class&lt;?&gt;, java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.MapLikeType com.fasterxml.jackson.databind.JavaType refine(java.lang.Class&lt;?&gt;, com.fasterxml.jackson.databind.type.TypeBindings, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.JavaType[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.ReferenceType ReferenceType(java.lang.Class&lt;?&gt;, com.fasterxml.jackson.databind.type.TypeBindings, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.JavaType[], com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.JavaType, java.lang.Object, java.lang.Object, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.type.MapType com.fasterxml.jackson.databind.type.MapType construct(java.lang.Class&lt;?&gt;, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.JavaType) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

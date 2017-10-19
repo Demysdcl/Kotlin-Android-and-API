@@ -1,0 +1,14 @@
+<root>
+    <item name='ch.qos.logback.core.rolling.SizeAndTimeBasedFNATP ch.qos.logback.core.rolling.helper.ArchiveRemover createArchiveRemover()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.rolling.SizeBasedTriggeringPolicy SEE_SIZE_FORMAT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.rolling.FixedWindowRollingPolicy ZIP_ENTRY_DATE_PATTERN'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.rolling.DefaultTimeBasedFileNamingAndTriggeringPolicy java.lang.String toString()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

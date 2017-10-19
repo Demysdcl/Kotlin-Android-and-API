@@ -1,0 +1,29 @@
+<root>
+    <item name='ch.qos.logback.classic.db.DBAppender void subAppend(ch.qos.logback.classic.spi.ILoggingEvent, java.sql.Connection, java.sql.PreparedStatement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.db.DBAppender void secondarySubAppend(ch.qos.logback.classic.spi.ILoggingEvent, java.sql.Connection, long) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.db.DBAppender void subAppend(ch.qos.logback.classic.spi.ILoggingEvent, java.sql.Connection, java.sql.PreparedStatement) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.db.DBAppender void secondarySubAppend(java.lang.Object, java.sql.Connection, long) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.db.DBAppender void subAppend(java.lang.Object, java.sql.Connection, java.sql.PreparedStatement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.db.DBAppender void insertThrowable(ch.qos.logback.classic.spi.IThrowableProxy, java.sql.Connection, long) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.db.DBAppender void subAppend(java.lang.Object, java.sql.Connection, java.sql.PreparedStatement) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.db.DBHelper short computeReferenceMask(ch.qos.logback.classic.spi.ILoggingEvent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.db.DBAppender void insertProperties(java.util.Map&lt;java.lang.String,java.lang.String&gt;, java.sql.Connection, long) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

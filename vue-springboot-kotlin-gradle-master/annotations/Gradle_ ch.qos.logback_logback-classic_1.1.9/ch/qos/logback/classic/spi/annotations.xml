@@ -1,0 +1,113 @@
+<root>
+    <item name='ch.qos.logback.classic.spi.ThrowableProxy ThrowableProxy(java.lang.Throwable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.spi.CallerData EMPTY_CALLER_DATA_ARRAY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.spi.CallerData NA'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.spi.LoggingEvent LoggingEvent(java.lang.String, ch.qos.logback.classic.Logger, ch.qos.logback.classic.Level, java.lang.String, java.lang.Throwable, java.lang.Object[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.spi.StackTraceElementProxy StackTraceElementProxy(java.lang.StackTraceElement) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.spi.ThrowableProxyUtil void subjoinSTEP(java.lang.StringBuilder, ch.qos.logback.classic.spi.StackTraceElementProxy) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.spi.ThrowableProxyUtil void subjoinFirstLine(java.lang.StringBuilder, ch.qos.logback.classic.spi.IThrowableProxy) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.spi.ThrowableProxyUtil void subjoinSTEPArray(java.lang.StringBuilder, int, ch.qos.logback.classic.spi.IThrowableProxy) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.spi.LoggerComparator int compare(ch.qos.logback.classic.Logger, ch.qos.logback.classic.Logger) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.spi.ThrowableProxyUtil void build(ch.qos.logback.classic.spi.ThrowableProxy, java.lang.Throwable, ch.qos.logback.classic.spi.ThrowableProxy) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.spi.ThrowableProxyUtil void subjoinSTEPArray(java.lang.StringBuilder, ch.qos.logback.classic.spi.IThrowableProxy) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.spi.LoggerContextListener void onLevelChange(ch.qos.logback.classic.Logger, ch.qos.logback.classic.Level) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='ch.qos.logback.classic.spi.LoggingEventVO ch.qos.logback.classic.spi.LoggingEventVO build(ch.qos.logback.classic.spi.ILoggingEvent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.spi.LoggerComparator int compare(java.lang.Object, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.spi.ThrowableProxyUtil void subjoinFirstLineRootCauseFirst(java.lang.StringBuilder, ch.qos.logback.classic.spi.IThrowableProxy) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.spi.LoggerContextVO LoggerContextVO(ch.qos.logback.classic.LoggerContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.spi.ThrowableProxyUtil void subjoinSTEP(java.lang.StringBuilder, ch.qos.logback.classic.spi.StackTraceElementProxy) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.spi.LoggerContextAware void setLoggerContext(ch.qos.logback.classic.LoggerContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='ch.qos.logback.classic.spi.CallerData java.lang.StackTraceElement naInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.spi.EventArgUtil java.lang.Object[] trimmedCopy(java.lang.Object[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.spi.LoggingEventVO ch.qos.logback.classic.spi.LoggingEventVO build(ch.qos.logback.classic.spi.ILoggingEvent)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.spi.ThrowableProxyUtil void subjoinFirstLine(java.lang.StringBuilder, ch.qos.logback.classic.spi.IThrowableProxy) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.spi.EventArgUtil java.lang.Object[] trimmedCopy(java.lang.Object[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.spi.LoggerComparator int compare(ch.qos.logback.classic.Logger, ch.qos.logback.classic.Logger) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.spi.ThrowableProxyUtil void build(ch.qos.logback.classic.spi.ThrowableProxy, java.lang.Throwable, ch.qos.logback.classic.spi.ThrowableProxy) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.spi.LoggerRemoteView LoggerRemoteView(java.lang.String, ch.qos.logback.classic.LoggerContext) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.spi.LoggerContextListener void onLevelChange(ch.qos.logback.classic.Logger, ch.qos.logback.classic.Level) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='ch.qos.logback.classic.spi.LoggerContextAwareBase void setLoggerContext(ch.qos.logback.classic.LoggerContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='ch.qos.logback.classic.spi.StackTraceElementProxy java.lang.StackTraceElement getStackTraceElement()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.spi.LoggerComparator int compare(java.lang.Object, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.spi.ThrowableProxyUtil void subjoinFirstLineRootCauseFirst(java.lang.StringBuilder, ch.qos.logback.classic.spi.IThrowableProxy) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.spi.Configurator void configure(ch.qos.logback.classic.LoggerContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+</root>

@@ -1,0 +1,59 @@
+<root>
+    <item name='ch.qos.logback.core.joran.spi.ConsoleTarget SystemOut'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.joran.spi.ConfigurationWatchList java.util.List&lt;java.io.File&gt; getCopyOfFileWatchList()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.joran.spi.EventPlayer java.util.List&lt;ch.qos.logback.core.joran.event.SaxEvent&gt; getCopyOfPlayerEventList()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.joran.spi.ElementPath java.util.List&lt;java.lang.String&gt; getCopyOfPartList()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.joran.spi.InterpretationContext java.util.Map&lt;java.lang.String,java.lang.String&gt; getCopyOfPropertyMap()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.joran.spi.RuleStore void addRule(ch.qos.logback.core.joran.spi.ElementSelector, ch.qos.logback.core.joran.action.Action) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='ch.qos.logback.core.joran.spi.ConfigurationWatchList ch.qos.logback.core.joran.spi.ConfigurationWatchList buildClone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.joran.spi.ElementSelector boolean fullPathMatch(ch.qos.logback.core.joran.spi.ElementPath) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.joran.spi.ConsoleTarget SystemErr'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.joran.spi.Interpreter ch.qos.logback.core.joran.spi.InterpretationContext getInterpretationContext()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.joran.spi.DefaultNestedComponentRegistry void add(java.lang.Class&lt;?&gt;, java.lang.String, java.lang.Class&lt;?&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.joran.spi.Interpreter void endElement(ch.qos.logback.core.joran.event.EndEvent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.joran.spi.Interpreter void startElement(ch.qos.logback.core.joran.event.StartEvent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.joran.spi.ElementPath ch.qos.logback.core.joran.spi.ElementPath duplicate()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.joran.spi.Interpreter void characters(ch.qos.logback.core.joran.event.BodyEvent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.joran.spi.ConfigurationWatchList void addToWatchList(java.net.URL) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.joran.spi.Interpreter ch.qos.logback.core.joran.spi.InterpretationContext getExecutionContext()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.joran.spi.SimpleRuleStore void addRule(ch.qos.logback.core.joran.spi.ElementSelector, ch.qos.logback.core.joran.action.Action) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

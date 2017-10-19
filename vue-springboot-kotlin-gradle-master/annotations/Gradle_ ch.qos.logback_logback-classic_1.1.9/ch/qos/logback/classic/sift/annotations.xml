@@ -1,0 +1,50 @@
+<root>
+    <item name='ch.qos.logback.classic.sift.MDCBasedDiscriminator java.lang.String getDiscriminatingValue(ch.qos.logback.classic.spi.ILoggingEvent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.sift.SiftingJoranConfigurator void addDefaultNestedComponentRegistryRules(ch.qos.logback.core.joran.spi.DefaultNestedComponentRegistry) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.sift.ContextBasedDiscriminator java.lang.String getDiscriminatingValue(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.sift.SiftingAppender long getTimestamp(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.sift.SiftingAppender long getTimestamp(ch.qos.logback.classic.spi.ILoggingEvent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.sift.SiftingJoranConfigurator void addInstanceRules(ch.qos.logback.core.joran.spi.RuleStore) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.sift.SiftAction void begin(ch.qos.logback.core.joran.spi.InterpretationContext, java.lang.String, org.xml.sax.Attributes) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.sift.SiftingJoranConfigurator ch.qos.logback.core.joran.spi.ElementPath initialElementPath()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.sift.AppenderFactoryUsingJoran ch.qos.logback.core.sift.SiftingJoranConfiguratorBase&lt;ch.qos.logback.classic.spi.ILoggingEvent&gt; getSiftingJoranConfigurator(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.sift.SiftAction void end(ch.qos.logback.core.joran.spi.InterpretationContext, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.sift.SiftingAppender boolean eventMarksEndOfLife(ch.qos.logback.classic.spi.ILoggingEvent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.sift.JNDIBasedContextDiscriminator java.lang.String getKey()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.sift.SiftingAppender boolean eventMarksEndOfLife(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.sift.ContextBasedDiscriminator java.lang.String getKey()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.sift.ContextBasedDiscriminator java.lang.String getDiscriminatingValue(ch.qos.logback.classic.spi.ILoggingEvent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.sift.MDCBasedDiscriminator java.lang.String getDiscriminatingValue(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

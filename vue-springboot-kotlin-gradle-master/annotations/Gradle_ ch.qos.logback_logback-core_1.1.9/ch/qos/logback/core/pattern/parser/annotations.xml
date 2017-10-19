@@ -1,0 +1,17 @@
+<root>
+    <item name='ch.qos.logback.core.pattern.parser.Parser REPLACE_CONVERTER_WORD'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.pattern.parser.Parser Parser(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.pattern.parser.Parser DEFAULT_COMPOSITE_CONVERTER_MAP'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.pattern.parser.Parser Parser(java.lang.String, ch.qos.logback.core.pattern.util.IEscapeUtil) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.pattern.parser.Parser MISSING_RIGHT_PARENTHESIS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

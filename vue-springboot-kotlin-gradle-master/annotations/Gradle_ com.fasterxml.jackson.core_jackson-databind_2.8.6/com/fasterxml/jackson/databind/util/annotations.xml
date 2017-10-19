@@ -1,0 +1,803 @@
+<root>
+    <item name='com.fasterxml.jackson.databind.util.TokenBuffer com.fasterxml.jackson.databind.util.TokenBuffer deserialize(com.fasterxml.jackson.core.JsonParser, com.fasterxml.jackson.databind.DeserializationContext)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.SimpleBeanPropertyDefinition com.fasterxml.jackson.databind.util.SimpleBeanPropertyDefinition construct(com.fasterxml.jackson.databind.cfg.MapperConfig&lt;?&gt;, com.fasterxml.jackson.databind.introspect.AnnotatedMember, com.fasterxml.jackson.databind.PropertyName, com.fasterxml.jackson.databind.PropertyMetadata, com.fasterxml.jackson.annotation.JsonInclude.Include) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.EnumValues java.util.EnumMap&lt;?,com.fasterxml.jackson.core.SerializableString&gt; internalMap()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.ArrayBuilders.FloatBuilder float[] _constructArray(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.ClassUtil com.fasterxml.jackson.databind.util.ClassUtil.Ctor[] getConstructors(java.lang.Class&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.RootNameLookup com.fasterxml.jackson.databind.PropertyName findRootName(com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.cfg.MapperConfig&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.ClassUtil java.lang.Class&lt;? extends java.lang.Enum&lt;?&gt;&gt; findEnumType(java.lang.Enum&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.NameTransformer java.lang.String reverse(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.ClassUtil void checkAndFixAccess(java.lang.reflect.Member, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.ClassUtil boolean isProxyType(java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.ObjectBuffer java.lang.Object[] appendCompletedChunk(java.lang.Object[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.SimpleBeanPropertyDefinition com.fasterxml.jackson.databind.util.SimpleBeanPropertyDefinition construct(com.fasterxml.jackson.databind.cfg.MapperConfig&lt;?&gt;, com.fasterxml.jackson.databind.introspect.AnnotatedMember)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.TokenBuffer com.fasterxml.jackson.databind.util.TokenBuffer append(com.fasterxml.jackson.databind.util.TokenBuffer)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.TokenBuffer com.fasterxml.jackson.core.JsonGenerator setFeatureMask(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.RootNameLookup com.fasterxml.jackson.databind.PropertyName findRootName(java.lang.Class&lt;?&gt;, com.fasterxml.jackson.databind.cfg.MapperConfig&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.SimpleBeanPropertyDefinition java.lang.String getInternalName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.TokenBuffer com.fasterxml.jackson.core.JsonGenerator overrideStdFeatures(int, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.EnumValues java.lang.Class&lt;java.lang.Enum&lt;?&gt;&gt; getEnumClass()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.ArrayBuilders.IntBuilder java.lang.Object _constructArray(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.BeanUtil java.lang.String okNameForRegularGetter(com.fasterxml.jackson.databind.introspect.AnnotatedMethod, java.lang.String, boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.EnumResolver com.fasterxml.jackson.databind.util.EnumResolver constructUsingToString(java.lang.Class&lt;java.lang.Enum&lt;?&gt;&gt;, com.fasterxml.jackson.databind.AnnotationIntrospector)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.SimpleBeanPropertyDefinition com.fasterxml.jackson.databind.introspect.BeanPropertyDefinition withSimpleName(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.BeanUtil boolean isCglibGetCallbacks(com.fasterxml.jackson.databind.introspect.AnnotatedMethod) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.ClassUtil void checkAndFixAccess(java.lang.reflect.Member) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.ClassUtil java.lang.Class&lt;? extends java.lang.Enum&lt;?&gt;&gt; findEnumType(java.util.EnumSet&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.ArrayBuilders java.util.List&lt;T&gt; addToList(java.util.List&lt;T&gt;, T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.EnumResolver com.fasterxml.jackson.databind.util.EnumResolver constructUsingToString(java.lang.Class&lt;java.lang.Enum&lt;?&gt;&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.SimpleBeanPropertyDefinition _metadata'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.ClassUtil void unwrapAndThrowAsIAE(java.lang.Throwable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.ArrayBuilders T[] insertInListNoDup(T[], T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.TokenBuffer com.fasterxml.jackson.core.JsonParser asParser(com.fasterxml.jackson.core.JsonParser)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.StdDateFormat java.util.Date parse(java.lang.String, java.text.ParsePosition) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.ArrayBuilders.ShortBuilder java.lang.Object _constructArray(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.ArrayBuilders T[] insertInList(T[], T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.ClassUtil boolean isJacksonStdImpl(java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.EnumValues com.fasterxml.jackson.databind.util.EnumValues constructFromName(com.fasterxml.jackson.databind.cfg.MapperConfig&lt;?&gt;, java.lang.Class&lt;java.lang.Enum&lt;?&gt;&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.SimpleBeanPropertyDefinition com.fasterxml.jackson.databind.util.SimpleBeanPropertyDefinition construct(com.fasterxml.jackson.databind.cfg.MapperConfig&lt;?&gt;, com.fasterxml.jackson.databind.introspect.AnnotatedMember, com.fasterxml.jackson.databind.PropertyName, com.fasterxml.jackson.databind.PropertyMetadata, com.fasterxml.jackson.annotation.JsonInclude.Include)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.ArrayBuilders.BooleanBuilder boolean[] _constructArray(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.ClassUtil java.lang.Class&lt;?&gt; primitiveType(java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.EnumResolver com.fasterxml.jackson.databind.util.CompactStringObjectMap constructLookup()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.TypeKey TypeKey(com.fasterxml.jackson.databind.JavaType, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.ArrayBuilders.LongBuilder java.lang.Object _constructArray(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.TokenBuffer.Segment com.fasterxml.jackson.databind.util.TokenBuffer.Segment append(int, com.fasterxml.jackson.core.JsonToken) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.StdDateFormat DATE_FORMAT_ISO8601_Z'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.ArrayBuilders.LongBuilder long[] _constructArray(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.EnumResolver com.fasterxml.jackson.databind.util.EnumResolver constructUsingMethod(java.lang.Class&lt;java.lang.Enum&lt;?&gt;&gt;, java.lang.reflect.Method, com.fasterxml.jackson.databind.AnnotationIntrospector)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.SimpleBeanPropertyDefinition com.fasterxml.jackson.databind.util.SimpleBeanPropertyDefinition construct(com.fasterxml.jackson.databind.cfg.MapperConfig&lt;?&gt;, com.fasterxml.jackson.databind.introspect.AnnotatedMember, com.fasterxml.jackson.databind.PropertyName, com.fasterxml.jackson.databind.PropertyMetadata, com.fasterxml.jackson.annotation.JsonInclude.Value)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.ArrayIterator java.util.Iterator&lt;T&gt; iterator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.EnumValues com.fasterxml.jackson.databind.util.EnumValues constructFromName(com.fasterxml.jackson.databind.cfg.MapperConfig&lt;?&gt;, java.lang.Class&lt;java.lang.Enum&lt;?&gt;&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.TokenBuffer com.fasterxml.jackson.core.JsonGenerator enable(com.fasterxml.jackson.core.JsonGenerator.Feature)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.TypeKey void resetUntyped(java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.TokenBuffer void copyCurrentStructure(com.fasterxml.jackson.core.JsonParser) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.ArrayBuilders.FloatBuilder java.lang.Object _constructArray(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.StdDateFormat DATE_FORMAT_PLAIN'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.StdDateFormat boolean looksLikeISO8601(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.ArrayBuilders.DoubleBuilder java.lang.Object _constructArray(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.ISO8601Utils java.util.Date parse(java.lang.String, java.text.ParsePosition) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.TypeKey TypeKey(java.lang.Class&lt;?&gt;, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.RootNameLookup java.lang.Object readResolve()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.TokenBuffer com.fasterxml.jackson.core.JsonGenerator disable(com.fasterxml.jackson.core.JsonGenerator.Feature) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.ObjectBuffer java.lang.Object[] appendCompletedChunk(java.lang.Object[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.EnumValues com.fasterxml.jackson.databind.util.EnumValues construct(com.fasterxml.jackson.databind.SerializationConfig, java.lang.Class&lt;java.lang.Enum&lt;?&gt;&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.ClassUtil java.lang.reflect.Type[] getGenericInterfaces(java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.JSONWrappedObject void serialize(com.fasterxml.jackson.core.JsonGenerator, com.fasterxml.jackson.databind.SerializerProvider) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.StdConverter com.fasterxml.jackson.databind.JavaType getInputType(com.fasterxml.jackson.databind.type.TypeFactory) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.StdDateFormat ALL_FORMATS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.NameTransformer.Chained java.lang.String reverse(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.TypeKey void resetUntyped(com.fasterxml.jackson.databind.JavaType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.NameTransformer.NopTransformer java.lang.String reverse(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.EnumResolver com.fasterxml.jackson.databind.util.EnumResolver constructUnsafe(java.lang.Class&lt;?&gt;, com.fasterxml.jackson.databind.AnnotationIntrospector) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.BeanUtil java.lang.String legacyManglePropertyName(java.lang.String, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.EnumResolver com.fasterxml.jackson.databind.util.EnumResolver constructUnsafeUsingToString(java.lang.Class&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.SimpleBeanPropertyDefinition com.fasterxml.jackson.databind.util.SimpleBeanPropertyDefinition construct(com.fasterxml.jackson.databind.cfg.MapperConfig&lt;?&gt;, com.fasterxml.jackson.databind.introspect.AnnotatedMember, com.fasterxml.jackson.databind.PropertyName) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.SimpleBeanPropertyDefinition com.fasterxml.jackson.databind.introspect.BeanPropertyDefinition withName(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.CompactStringObjectMap com.fasterxml.jackson.databind.util.CompactStringObjectMap construct(java.util.Map&lt;java.lang.String,T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.StdDateFormat DATE_FORMAT_STR_RFC1123'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.BeanUtil java.lang.String okNameForSetter(com.fasterxml.jackson.databind.introspect.AnnotatedMethod) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.SimpleBeanPropertyDefinition _fullName'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.ArrayBuilders java.util.HashSet&lt;T&gt; setAndArray(java.util.Set&lt;T&gt;, T[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.BeanUtil java.lang.String okNameForIsGetter(com.fasterxml.jackson.databind.introspect.AnnotatedMethod, java.lang.String, boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.ISO8601Utils java.util.Date parse(java.lang.String, java.text.ParsePosition) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.SimpleBeanPropertyDefinition com.fasterxml.jackson.databind.introspect.BeanPropertyDefinition withMetadata(com.fasterxml.jackson.databind.PropertyMetadata)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.ClassUtil boolean isConcrete(java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.EnumResolver com.fasterxml.jackson.databind.util.EnumResolver constructUnsafeUsingMethod(java.lang.Class&lt;?&gt;, java.lang.reflect.Method, com.fasterxml.jackson.databind.AnnotationIntrospector) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.EnumValues com.fasterxml.jackson.databind.util.EnumValues constructFromToString(com.fasterxml.jackson.databind.cfg.MapperConfig&lt;?&gt;, java.lang.Class&lt;java.lang.Enum&lt;?&gt;&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.JSONPObject void serializeWithType(com.fasterxml.jackson.core.JsonGenerator, com.fasterxml.jackson.databind.SerializerProvider, com.fasterxml.jackson.databind.jsontype.TypeSerializer) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.TokenBuffer com.fasterxml.jackson.databind.util.TokenBuffer deserialize(com.fasterxml.jackson.core.JsonParser, com.fasterxml.jackson.databind.DeserializationContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.ClassUtil java.util.Iterator&lt;T&gt; emptyIterator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.ClassUtil java.lang.String canBeABeanType(java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.ArrayBuilders java.lang.Object getArrayComparator(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.ISO8601DateFormat java.lang.StringBuffer format(java.util.Date, java.lang.StringBuffer, java.text.FieldPosition) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.ViewMatcher com.fasterxml.jackson.databind.util.ViewMatcher construct(java.lang.Class&lt;?&gt;[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.ClassUtil java.lang.Class&lt;? extends java.lang.Enum&lt;?&gt;&gt; findEnumType(java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.StdDateFormat com.fasterxml.jackson.databind.util.StdDateFormat withTimeZone(java.util.TimeZone)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.TokenBuffer com.fasterxml.jackson.core.JsonParser asParser()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.ISO8601DateFormat java.util.Date parse(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.TokenBuffer.Segment com.fasterxml.jackson.databind.util.TokenBuffer.Segment append(int, com.fasterxml.jackson.core.JsonToken, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.JSONPObject void serializeWithType(com.fasterxml.jackson.core.JsonGenerator, com.fasterxml.jackson.databind.SerializerProvider, com.fasterxml.jackson.databind.jsontype.TypeSerializer) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.StdDateFormat java.text.DateFormat getRFC1123Format(java.util.TimeZone, java.util.Locale) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.TokenBuffer void _append(com.fasterxml.jackson.core.JsonToken) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.BeanUtil java.lang.String okNameForIsGetter(com.fasterxml.jackson.databind.introspect.AnnotatedMethod, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.StdDateFormat DATE_FORMAT_ISO8601'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.RootNameLookup com.fasterxml.jackson.databind.PropertyName findRootName(java.lang.Class&lt;?&gt;, com.fasterxml.jackson.databind.cfg.MapperConfig&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.TokenBuffer void _append(com.fasterxml.jackson.core.JsonToken, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.SimpleBeanPropertyDefinition com.fasterxml.jackson.databind.util.SimpleBeanPropertyDefinition construct(com.fasterxml.jackson.databind.cfg.MapperConfig&lt;?&gt;, com.fasterxml.jackson.databind.introspect.AnnotatedMember) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.TokenBuffer.Segment com.fasterxml.jackson.databind.util.TokenBuffer.Segment append(int, com.fasterxml.jackson.core.JsonToken, java.lang.Object, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.SimpleBeanPropertyDefinition com.fasterxml.jackson.databind.introspect.BeanPropertyDefinition withName(com.fasterxml.jackson.databind.PropertyName)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.ClassUtil java.lang.reflect.Type getGenericSuperclass(java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.TokenBuffer com.fasterxml.jackson.databind.util.TokenBuffer append(com.fasterxml.jackson.databind.util.TokenBuffer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.BeanUtil boolean isGroovyMetaClassSetter(com.fasterxml.jackson.databind.introspect.AnnotatedMethod) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.StdDateFormat java.lang.Object clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.TokenBuffer.Segment _tokens'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.ArrayBuilders.IntBuilder int[] _constructArray(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.EnumValues com.fasterxml.jackson.databind.util.EnumValues construct(com.fasterxml.jackson.databind.SerializationConfig, java.lang.Class&lt;java.lang.Enum&lt;?&gt;&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.JSONPObject void serializeWithType(com.fasterxml.jackson.core.JsonGenerator, com.fasterxml.jackson.databind.SerializerProvider, com.fasterxml.jackson.databind.jsontype.TypeSerializer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.ClassUtil java.lang.Throwable throwRootCauseIfIOE(java.lang.Throwable)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.JSONWrappedObject void serialize(com.fasterxml.jackson.core.JsonGenerator, com.fasterxml.jackson.databind.SerializerProvider) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.EnumResolver com.fasterxml.jackson.databind.util.EnumResolver constructUnsafe(java.lang.Class&lt;?&gt;, com.fasterxml.jackson.databind.AnnotationIntrospector) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.LRUMap java.lang.Object readResolve()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.SimpleBeanPropertyDefinition com.fasterxml.jackson.databind.util.SimpleBeanPropertyDefinition construct(com.fasterxml.jackson.databind.cfg.MapperConfig&lt;?&gt;, com.fasterxml.jackson.databind.introspect.AnnotatedMember, com.fasterxml.jackson.databind.PropertyName, com.fasterxml.jackson.databind.PropertyMetadata, com.fasterxml.jackson.annotation.JsonInclude.Value) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.StdConverter com.fasterxml.jackson.databind.JavaType _findConverterType(com.fasterxml.jackson.databind.type.TypeFactory)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.EnumResolver com.fasterxml.jackson.databind.util.EnumResolver constructUsingMethod(java.lang.Class&lt;java.lang.Enum&lt;?&gt;&gt;, java.lang.reflect.Method)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.SimpleBeanPropertyDefinition com.fasterxml.jackson.databind.introspect.BeanPropertyDefinition withInclusion(com.fasterxml.jackson.annotation.JsonInclude.Value)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.NameTransformer com.fasterxml.jackson.databind.util.NameTransformer simpleTransformer(java.lang.String, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.TokenBuffer com.fasterxml.jackson.core.JsonParser asParser(com.fasterxml.jackson.core.JsonParser) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.CompactStringObjectMap com.fasterxml.jackson.databind.util.CompactStringObjectMap construct(java.util.Map&lt;java.lang.String,T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.EnumResolver com.fasterxml.jackson.databind.util.EnumResolver constructUnsafeUsingMethod(java.lang.Class&lt;?&gt;, java.lang.reflect.Method)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.ClassUtil java.lang.Throwable getRootCause(java.lang.Throwable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.Converter com.fasterxml.jackson.databind.JavaType getOutputType(com.fasterxml.jackson.databind.type.TypeFactory) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.TokenBuffer com.fasterxml.jackson.core.JsonGenerator disable(com.fasterxml.jackson.core.JsonGenerator.Feature)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.ArrayBuilders java.util.ArrayList&lt;T&gt; arrayToList(T[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.TypeKey void resetTyped(java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.TokenBuffer void copyCurrentEvent(com.fasterxml.jackson.core.JsonParser) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.EnumValues com.fasterxml.jackson.databind.util.EnumValues construct(com.fasterxml.jackson.databind.SerializationConfig, java.lang.Class&lt;java.lang.Enum&lt;?&gt;&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.StdDateFormat DATE_FORMAT_RFC1123'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.NameTransformer com.fasterxml.jackson.databind.util.NameTransformer chainedTransformer(com.fasterxml.jackson.databind.util.NameTransformer, com.fasterxml.jackson.databind.util.NameTransformer)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.SimpleBeanPropertyDefinition SimpleBeanPropertyDefinition(com.fasterxml.jackson.databind.introspect.AnnotatedMember, com.fasterxml.jackson.databind.PropertyName, com.fasterxml.jackson.databind.AnnotationIntrospector, com.fasterxml.jackson.databind.PropertyMetadata, com.fasterxml.jackson.annotation.JsonInclude.Include) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.EnumResolver com.fasterxml.jackson.databind.util.EnumResolver constructFor(java.lang.Class&lt;java.lang.Enum&lt;?&gt;&gt;, com.fasterxml.jackson.databind.AnnotationIntrospector) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.EnumResolver com.fasterxml.jackson.databind.util.EnumResolver constructUsingMethod(java.lang.Class&lt;java.lang.Enum&lt;?&gt;&gt;, java.lang.reflect.Method, com.fasterxml.jackson.databind.AnnotationIntrospector) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.SimpleBeanPropertyDefinition com.fasterxml.jackson.databind.PropertyMetadata getMetadata()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.RawValue void serialize(com.fasterxml.jackson.core.JsonGenerator, com.fasterxml.jackson.databind.SerializerProvider) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.TokenBuffer TokenBuffer(com.fasterxml.jackson.core.JsonParser, com.fasterxml.jackson.databind.DeserializationContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.EnumResolver com.fasterxml.jackson.databind.util.EnumResolver constructUnsafeUsingMethod(java.lang.Class&lt;?&gt;, java.lang.reflect.Method, com.fasterxml.jackson.databind.AnnotationIntrospector)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.TokenBuffer com.fasterxml.jackson.core.JsonGenerator setCodec(com.fasterxml.jackson.core.ObjectCodec)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.EnumValues com.fasterxml.jackson.databind.util.EnumValues constructFromName(com.fasterxml.jackson.databind.cfg.MapperConfig&lt;?&gt;, java.lang.Class&lt;java.lang.Enum&lt;?&gt;&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.TypeKey TypeKey(com.fasterxml.jackson.databind.util.TypeKey) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.EnumResolver com.fasterxml.jackson.databind.util.EnumResolver constructUnsafeUsingToString(java.lang.Class&lt;?&gt;, com.fasterxml.jackson.databind.AnnotationIntrospector) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.ArrayBuilders.ShortBuilder short[] _constructArray(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.SimpleBeanPropertyDefinition com.fasterxml.jackson.databind.PropertyName getFullName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.TokenBuffer void _appendValue(com.fasterxml.jackson.core.JsonToken) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.ArrayBuilders java.util.HashSet&lt;T&gt; arrayToSet(T[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.EnumResolver com.fasterxml.jackson.databind.util.EnumResolver constructFor(java.lang.Class&lt;java.lang.Enum&lt;?&gt;&gt;, com.fasterxml.jackson.databind.AnnotationIntrospector) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.ClassUtil void throwAsIAE(java.lang.Throwable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.EnumResolver com.fasterxml.jackson.databind.util.EnumResolver constructUnsafeUsingToString(java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.EnumResolver java.util.List&lt;java.lang.Enum&lt;?&gt;&gt; getEnums()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.RawValue void serialize(com.fasterxml.jackson.core.JsonGenerator, com.fasterxml.jackson.databind.SerializerProvider) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.StdDateFormat java.text.DateFormat getISO8601Format(java.util.TimeZone, java.util.Locale) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.TypeKey void resetTyped(com.fasterxml.jackson.databind.JavaType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.StdDateFormat void setTimeZone(java.util.TimeZone) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.EnumResolver com.fasterxml.jackson.databind.util.EnumResolver constructUnsafe(java.lang.Class&lt;?&gt;, com.fasterxml.jackson.databind.AnnotationIntrospector)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.JSONWrappedObject void serializeWithType(com.fasterxml.jackson.core.JsonGenerator, com.fasterxml.jackson.databind.SerializerProvider, com.fasterxml.jackson.databind.jsontype.TypeSerializer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.ClassUtil java.lang.Class&lt;? extends java.lang.Enum&lt;?&gt;&gt; findEnumType(java.util.EnumMap&lt;?,?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.TypeKey int typedHash(java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.ViewMatcher EMPTY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.ArrayBuilders T[] insertInList(T[], T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.BeanUtil java.lang.String okNameForSetter(com.fasterxml.jackson.databind.introspect.AnnotatedMethod, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.ObjectBuffer java.lang.Object[] completeAndClearBuffer(java.lang.Object[], int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.ClassUtil void unwrapAndThrowAsIAE(java.lang.Throwable, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.StdDateFormat java.util.Date parseAsISO8601(java.lang.String, java.text.ParsePosition, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.StdDateFormat com.fasterxml.jackson.databind.util.StdDateFormat withLocale(java.util.Locale) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.ClassUtil com.fasterxml.jackson.databind.util.ClassUtil.Ctor[] getConstructors(java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.SimpleBeanPropertyDefinition com.fasterxml.jackson.databind.introspect.BeanPropertyDefinition withMetadata(com.fasterxml.jackson.databind.PropertyMetadata) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.SimpleBeanPropertyDefinition java.lang.String getName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.JSONWrappedObject void serializeWithType(com.fasterxml.jackson.core.JsonGenerator, com.fasterxml.jackson.databind.SerializerProvider, com.fasterxml.jackson.databind.jsontype.TypeSerializer) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.BeanUtil java.lang.String okNameForMutator(com.fasterxml.jackson.databind.introspect.AnnotatedMethod, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.ISO8601DateFormat java.lang.Object clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.TokenBuffer TokenBuffer(com.fasterxml.jackson.core.JsonParser) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.StdDateFormat DATE_FORMAT_STR_ISO8601_Z'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.JSONPObject void serialize(com.fasterxml.jackson.core.JsonGenerator, com.fasterxml.jackson.databind.SerializerProvider) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.BeanUtil java.lang.String okNameForRegularGetter(com.fasterxml.jackson.databind.introspect.AnnotatedMethod, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.EnumValues com.fasterxml.jackson.databind.util.EnumValues constructFromToString(com.fasterxml.jackson.databind.cfg.MapperConfig&lt;?&gt;, java.lang.Class&lt;java.lang.Enum&lt;?&gt;&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.SimpleBeanPropertyDefinition com.fasterxml.jackson.databind.util.SimpleBeanPropertyDefinition construct(com.fasterxml.jackson.databind.cfg.MapperConfig&lt;?&gt;, com.fasterxml.jackson.databind.introspect.AnnotatedMember, com.fasterxml.jackson.databind.PropertyName)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.BeanUtil java.lang.String okNameForGetter(com.fasterxml.jackson.databind.introspect.AnnotatedMethod, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.ISO8601DateFormat java.lang.StringBuffer format(java.util.Date, java.lang.StringBuffer, java.text.FieldPosition)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.TypeKey int untypedHash(com.fasterxml.jackson.databind.JavaType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.NameTransformer NOP'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.RootNameLookup com.fasterxml.jackson.databind.PropertyName findRootName(com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.cfg.MapperConfig&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.RawValue void serializeWithType(com.fasterxml.jackson.core.JsonGenerator, com.fasterxml.jackson.databind.SerializerProvider, com.fasterxml.jackson.databind.jsontype.TypeSerializer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.CompactStringObjectMap java.util.List&lt;java.lang.String&gt; keys()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.PrimitiveArrayBuilder T _constructArray(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.TokenBuffer com.fasterxml.jackson.core.JsonGenerator useDefaultPrettyPrinter()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.JSONWrappedObject void serializeWithType(com.fasterxml.jackson.core.JsonGenerator, com.fasterxml.jackson.databind.SerializerProvider, com.fasterxml.jackson.databind.jsontype.TypeSerializer) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.ClassUtil boolean isNonStaticInnerClass(java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.ClassUtil java.lang.reflect.Method[] getDeclaredMethods(java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.ClassUtil java.lang.String getPackageName(java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.TokenBuffer com.fasterxml.jackson.core.JsonGenerator enable(com.fasterxml.jackson.core.JsonGenerator.Feature) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.JSONPObject void serialize(com.fasterxml.jackson.core.JsonGenerator, com.fasterxml.jackson.databind.SerializerProvider) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.ClassUtil boolean isCollectionMapOrArray(java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.EnumResolver com.fasterxml.jackson.databind.util.EnumResolver constructUsingMethod(java.lang.Class&lt;java.lang.Enum&lt;?&gt;&gt;, java.lang.reflect.Method) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.EnumResolver com.fasterxml.jackson.databind.util.EnumResolver constructFor(java.lang.Class&lt;java.lang.Enum&lt;?&gt;&gt;, com.fasterxml.jackson.databind.AnnotationIntrospector)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.EnumResolver com.fasterxml.jackson.databind.util.EnumResolver constructUnsafeUsingToString(java.lang.Class&lt;?&gt;, com.fasterxml.jackson.databind.AnnotationIntrospector)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.ISO8601Utils java.lang.String format(java.util.Date, boolean, java.util.TimeZone) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.BeanUtil java.lang.String stdManglePropertyName(java.lang.String, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.BeanUtil java.lang.String okNameForGetter(com.fasterxml.jackson.databind.introspect.AnnotatedMethod) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.ClassUtil java.lang.Throwable getRootCause(java.lang.Throwable)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.EnumResolver com.fasterxml.jackson.databind.util.EnumResolver constructUnsafeUsingMethod(java.lang.Class&lt;?&gt;, java.lang.reflect.Method) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.ArrayBuilders.DoubleBuilder double[] _constructArray(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.ClassUtil boolean isConcrete(java.lang.reflect.Member) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.ClassUtil java.lang.Class&lt;?&gt; findClass(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.StdDateFormat com.fasterxml.jackson.databind.util.StdDateFormat clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.StdDateFormat java.util.Date parseAsISO8601(java.lang.String, java.text.ParsePosition, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.StdConverter com.fasterxml.jackson.databind.JavaType _findConverterType(com.fasterxml.jackson.databind.type.TypeFactory) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.CompactStringObjectMap java.lang.Object find(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.StdDateFormat instance'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.ArrayBuilders.BooleanBuilder java.lang.Object _constructArray(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.StdDateFormat DATE_FORMAT_STR_PLAIN'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.TokenBuffer.Segment com.fasterxml.jackson.databind.util.TokenBuffer.Segment append(int, com.fasterxml.jackson.core.JsonToken, java.lang.Object, java.lang.Object, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.TokenBuffer com.fasterxml.jackson.databind.util.TokenBuffer forceUseOfBigDecimal(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.BeanUtil java.lang.String okNameForMutator(com.fasterxml.jackson.databind.introspect.AnnotatedMethod, java.lang.String, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.StdConverter com.fasterxml.jackson.databind.JavaType getOutputType(com.fasterxml.jackson.databind.type.TypeFactory) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.ClassUtil java.lang.Enum&lt;?&gt; findFirstAnnotatedEnumValue(java.lang.Class&lt;java.lang.Enum&lt;?&gt;&gt;, java.lang.Class&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.SimpleBeanPropertyDefinition com.fasterxml.jackson.databind.util.SimpleBeanPropertyDefinition construct(com.fasterxml.jackson.databind.cfg.MapperConfig&lt;?&gt;, com.fasterxml.jackson.databind.introspect.AnnotatedMember, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.LRUMap _map'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.SimpleBeanPropertyDefinition SimpleBeanPropertyDefinition(com.fasterxml.jackson.databind.introspect.AnnotatedMember, com.fasterxml.jackson.databind.PropertyName, com.fasterxml.jackson.databind.AnnotationIntrospector, com.fasterxml.jackson.databind.PropertyMetadata, com.fasterxml.jackson.annotation.JsonInclude.Value) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.TokenBuffer void writeFieldName(com.fasterxml.jackson.core.SerializableString) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.StdDateFormat DATE_FORMAT_STR_ISO8601'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.EnumResolver com.fasterxml.jackson.databind.util.EnumResolver constructUsingToString(java.lang.Class&lt;java.lang.Enum&lt;?&gt;&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.EnumResolver com.fasterxml.jackson.databind.util.EnumResolver constructUsingToString(java.lang.Class&lt;java.lang.Enum&lt;?&gt;&gt;, com.fasterxml.jackson.databind.AnnotationIntrospector) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.TokenBuffer void writeRawValue(java.lang.String, int, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.RawValue void serialize(com.fasterxml.jackson.core.JsonGenerator) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.ArrayBuilders.ByteBuilder byte[] _constructArray(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.ClassUtil java.lang.reflect.Field[] getDeclaredFields(java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.ArrayBuilders java.lang.Object getArrayComparator(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.StdDateFormat com.fasterxml.jackson.databind.util.StdDateFormat withLocale(java.util.Locale)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.ClassUtil java.util.List&lt;java.lang.Class&lt;?&gt;&gt; findSuperClasses(java.lang.Class&lt;?&gt;, java.lang.Class&lt;?&gt;, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.ArrayBuilders T[] insertInListNoDup(T[], T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.TypeKey int typedHash(com.fasterxml.jackson.databind.JavaType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.RawValue void _serialize(com.fasterxml.jackson.core.JsonGenerator) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.Converter com.fasterxml.jackson.databind.JavaType getInputType(com.fasterxml.jackson.databind.type.TypeFactory) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.RawValue void serializeWithType(com.fasterxml.jackson.core.JsonGenerator, com.fasterxml.jackson.databind.SerializerProvider, com.fasterxml.jackson.databind.jsontype.TypeSerializer) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.RawValue void serializeWithType(com.fasterxml.jackson.core.JsonGenerator, com.fasterxml.jackson.databind.SerializerProvider, com.fasterxml.jackson.databind.jsontype.TypeSerializer) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.TokenBuffer boolean isEnabled(com.fasterxml.jackson.core.JsonGenerator.Feature) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.ClassUtil java.lang.Class&lt;?&gt; wrapperType(java.lang.Class&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.BeanUtil boolean isGroovyMetaClassGetter(com.fasterxml.jackson.databind.introspect.AnnotatedMethod) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.ArrayBuilders.ByteBuilder java.lang.Object _constructArray(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.EnumValues com.fasterxml.jackson.core.SerializableString serializedValueFor(java.lang.Enum&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.StdDateFormat java.util.Date parse(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.TokenBuffer com.fasterxml.jackson.core.JsonParser asParser(com.fasterxml.jackson.core.ObjectCodec)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.ClassUtil boolean hasGetterSignature(java.lang.reflect.Method) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.SimpleBeanPropertyDefinition _name'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.TokenBuffer void _appendValue(com.fasterxml.jackson.core.JsonToken, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.util.TypeKey int untypedHash(java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

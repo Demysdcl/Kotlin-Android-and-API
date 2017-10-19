@@ -1,0 +1,35 @@
+<root>
+    <item name='ch.qos.logback.core.joran.JoranConfiguratorBase void addImplicitRules(ch.qos.logback.core.joran.spi.Interpreter) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.joran.JoranConfiguratorBase void addInstanceRules(ch.qos.logback.core.joran.spi.RuleStore) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.joran.GenericConfigurator void addImplicitRules(ch.qos.logback.core.joran.spi.Interpreter) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='ch.qos.logback.core.joran.GenericConfigurator void doConfigure(java.net.URL) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.joran.GenericConfigurator void informContextOfURLUsedForConfiguration(ch.qos.logback.core.Context, java.net.URL) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.joran.GenericConfigurator void doConfigure(java.io.File) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.joran.GenericConfigurator ch.qos.logback.core.joran.spi.ElementPath initialElementPath()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.joran.JoranConfiguratorBase ch.qos.logback.core.joran.spi.InterpretationContext getInterpretationContext()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.joran.GenericConfigurator void addInstanceRules(ch.qos.logback.core.joran.spi.RuleStore) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+</root>

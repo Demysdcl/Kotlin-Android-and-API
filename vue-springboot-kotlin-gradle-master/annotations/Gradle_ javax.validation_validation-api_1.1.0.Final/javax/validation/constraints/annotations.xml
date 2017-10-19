@@ -1,0 +1,23 @@
+<root>
+    <item name='javax.validation.constraints.Pattern.Flag CANON_EQ'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='javax.validation.constraints.Pattern.Flag DOTALL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='javax.validation.constraints.Pattern.Flag UNIX_LINES'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='javax.validation.constraints.Pattern.Flag CASE_INSENSITIVE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='javax.validation.constraints.Pattern.Flag MULTILINE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='javax.validation.constraints.Pattern.Flag COMMENTS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='javax.validation.constraints.Pattern.Flag UNICODE_CASE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

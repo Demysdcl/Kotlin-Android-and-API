@@ -1,0 +1,14 @@
+<root>
+    <item name='ch.qos.logback.classic.pattern.color.HighlightingCompositeConverter java.lang.String getForegroundColorCode(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.pattern.color.HighlightingCompositeConverter java.lang.String getForegroundColorCode(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.pattern.color.HighlightingCompositeConverter java.lang.String getForegroundColorCode(ch.qos.logback.classic.spi.ILoggingEvent)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.pattern.color.HighlightingCompositeConverter java.lang.String getForegroundColorCode(ch.qos.logback.classic.spi.ILoggingEvent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

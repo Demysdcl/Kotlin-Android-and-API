@@ -1,0 +1,14 @@
+<root>
+    <item name='ch.qos.logback.classic.jul.JULHelper java.util.logging.Logger asJULLogger(ch.qos.logback.classic.Logger) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.jul.JULHelper java.util.logging.Level asJULLevel(ch.qos.logback.classic.Level) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.jul.LevelChangePropagator void onLevelChange(ch.qos.logback.classic.Logger, ch.qos.logback.classic.Level) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.jul.LevelChangePropagator void onLevelChange(ch.qos.logback.classic.Logger, ch.qos.logback.classic.Level) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

@@ -1,0 +1,14 @@
+<root>
+    <item name='javax.validation.metadata.MethodType GETTER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='javax.validation.metadata.MethodType NON_GETTER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='javax.validation.metadata.Scope HIERARCHY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='javax.validation.metadata.Scope LOCAL_ELEMENT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

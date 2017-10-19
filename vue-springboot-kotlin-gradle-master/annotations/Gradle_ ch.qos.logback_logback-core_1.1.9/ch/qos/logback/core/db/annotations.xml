@@ -1,0 +1,17 @@
+<root>
+    <item name='ch.qos.logback.core.db.BindDataSourceToJNDIAction void begin(ch.qos.logback.core.joran.spi.InterpretationContext, java.lang.String, org.xml.sax.Attributes) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='ch.qos.logback.core.db.BindDataSourceToJNDIAction void begin(ch.qos.logback.core.joran.spi.InterpretationContext, java.lang.String, org.xml.sax.Attributes) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.db.BindDataSourceToJNDIAction void end(ch.qos.logback.core.joran.spi.InterpretationContext, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+</root>

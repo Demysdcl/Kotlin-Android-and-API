@@ -1,0 +1,14 @@
+<root>
+    <item name='com.fasterxml.jackson.databind.jsonschema.JsonSerializableSchema NO_VALUE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsonschema.JsonSchema com.fasterxml.jackson.databind.JsonNode getDefaultSchemaNode()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.jsonschema.SchemaAware com.fasterxml.jackson.databind.JsonNode getSchema(com.fasterxml.jackson.databind.SerializerProvider, java.lang.reflect.Type, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+</root>

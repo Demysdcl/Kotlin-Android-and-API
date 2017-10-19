@@ -1,0 +1,5 @@
+<root>
+    <item name='com.jayway.jsonpath.internal.function.json.Append java.lang.Object invoke(java.lang.String, com.jayway.jsonpath.internal.PathRef, java.lang.Object, com.jayway.jsonpath.internal.EvaluationContext, java.util.List&lt;com.jayway.jsonpath.internal.function.Parameter&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

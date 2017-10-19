@@ -1,0 +1,5 @@
+<root>
+    <item name='ch.qos.logback.classic.selector.servlet.LoggerContextFilter void doFilter(javax.servlet.ServletRequest, javax.servlet.ServletResponse, javax.servlet.FilterChain) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

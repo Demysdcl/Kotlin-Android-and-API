@@ -1,0 +1,1394 @@
+<root>
+    <item name='com.fasterxml.jackson.databind.deser.AbstractDeserializer java.lang.Object _deserializeFromObjectId(com.fasterxml.jackson.core.JsonParser, com.fasterxml.jackson.databind.DeserializationContext) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.DeserializerFactory com.fasterxml.jackson.databind.deser.ValueInstantiator findValueInstantiator(com.fasterxml.jackson.databind.DeserializationContext, com.fasterxml.jackson.databind.BeanDescription) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BasicDeserializerFactory com.fasterxml.jackson.databind.deser.DeserializerFactory withValueInstantiators(com.fasterxml.jackson.databind.deser.ValueInstantiators) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializerBase com.fasterxml.jackson.databind.deser.SettableBeanProperty _resolvedObjectIdProperty(com.fasterxml.jackson.databind.DeserializationContext, com.fasterxml.jackson.databind.deser.SettableBeanProperty)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BuilderBasedDeserializer java.lang.Object deserializeWithView(com.fasterxml.jackson.core.JsonParser, com.fasterxml.jackson.databind.DeserializationContext, java.lang.Object, java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BasicDeserializerFactory com.fasterxml.jackson.databind.jsontype.TypeDeserializer findPropertyContentTypeDeserializer(com.fasterxml.jackson.databind.DeserializationConfig, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.introspect.AnnotatedMember) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.DeserializationProblemHandler java.lang.Object handleWeirdStringValue(com.fasterxml.jackson.databind.DeserializationContext, java.lang.Class&lt;?&gt;, java.lang.String, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.ValueInstantiator java.lang.Object createUsingDefault(com.fasterxml.jackson.databind.DeserializationContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.SettableBeanProperty void depositSchemaProperty(com.fasterxml.jackson.databind.jsonFormatVisitors.JsonObjectFormatVisitor, com.fasterxml.jackson.databind.SerializerProvider) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.DefaultDeserializationContext com.fasterxml.jackson.databind.deser.DefaultDeserializationContext with(com.fasterxml.jackson.databind.deser.DeserializerFactory)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.CreatorProperty com.fasterxml.jackson.databind.deser.CreatorProperty withName(com.fasterxml.jackson.databind.PropertyName)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.DefaultDeserializationContext com.fasterxml.jackson.databind.deser.DefaultDeserializationContext createInstance(com.fasterxml.jackson.databind.DeserializationConfig, com.fasterxml.jackson.core.JsonParser, com.fasterxml.jackson.databind.InjectableValues) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.ValueInstantiator java.lang.Object createUsingArrayDelegate(com.fasterxml.jackson.databind.DeserializationContext, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializerBuilder _properties'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializerBase java.lang.Object _handleTypedObjectId(com.fasterxml.jackson.core.JsonParser, com.fasterxml.jackson.databind.DeserializationContext, java.lang.Object, java.lang.Object) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BuilderBasedDeserializer BuilderBasedDeserializer(com.fasterxml.jackson.databind.deser.BuilderBasedDeserializer, java.util.Set&lt;java.lang.String&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.DeserializerCache com.fasterxml.jackson.databind.JsonDeserializer&lt;java.lang.Object&gt; findDeserializerFromAnnotation(com.fasterxml.jackson.databind.DeserializationContext, com.fasterxml.jackson.databind.introspect.Annotated) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.DefaultDeserializationContext.Impl Impl(com.fasterxml.jackson.databind.deser.DefaultDeserializationContext.Impl, com.fasterxml.jackson.databind.DeserializationConfig, com.fasterxml.jackson.core.JsonParser, com.fasterxml.jackson.databind.InjectableValues) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.DeserializerFactory com.fasterxml.jackson.databind.JsonDeserializer&lt;?&gt; createMapDeserializer(com.fasterxml.jackson.databind.DeserializationContext, com.fasterxml.jackson.databind.type.MapType, com.fasterxml.jackson.databind.BeanDescription) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BasicDeserializerFactory com.fasterxml.jackson.databind.KeyDeserializer createKeyDeserializer(com.fasterxml.jackson.databind.DeserializationContext, com.fasterxml.jackson.databind.JavaType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializer java.lang.Object deserialize(com.fasterxml.jackson.core.JsonParser, com.fasterxml.jackson.databind.DeserializationContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.ValueInstantiator java.lang.Object createFromInt(com.fasterxml.jackson.databind.DeserializationContext, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BasicDeserializerFactory com.fasterxml.jackson.databind.jsontype.TypeDeserializer findPropertyContentTypeDeserializer(com.fasterxml.jackson.databind.DeserializationConfig, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.introspect.AnnotatedMember) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.CreatorProperty java.lang.Object deserializeSetAndReturn(com.fasterxml.jackson.core.JsonParser, com.fasterxml.jackson.databind.DeserializationContext, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BuilderBasedDeserializer java.lang.Object deserializeWithExternalTypeId(com.fasterxml.jackson.core.JsonParser, com.fasterxml.jackson.databind.DeserializationContext, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.DeserializerFactory com.fasterxml.jackson.databind.deser.ValueInstantiator findValueInstantiator(com.fasterxml.jackson.databind.DeserializationContext, com.fasterxml.jackson.databind.BeanDescription) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializerBase java.lang.Object deserializeFromNumber(com.fasterxml.jackson.core.JsonParser, com.fasterxml.jackson.databind.DeserializationContext)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.DefaultDeserializationContext DefaultDeserializationContext(com.fasterxml.jackson.databind.deser.DefaultDeserializationContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BuilderBasedDeserializer BuilderBasedDeserializer(com.fasterxml.jackson.databind.deser.BuilderBasedDeserializer, java.util.Set&lt;java.lang.String&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.DeserializerCache com.fasterxml.jackson.databind.JsonDeserializer&lt;java.lang.Object&gt; _createAndCacheValueDeserializer(com.fasterxml.jackson.databind.DeserializationContext, com.fasterxml.jackson.databind.deser.DeserializerFactory, com.fasterxml.jackson.databind.JavaType) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.DeserializerFactory com.fasterxml.jackson.databind.JsonDeserializer&lt;?&gt; createMapDeserializer(com.fasterxml.jackson.databind.DeserializationContext, com.fasterxml.jackson.databind.type.MapType, com.fasterxml.jackson.databind.BeanDescription) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BuilderBasedDeserializer com.fasterxml.jackson.databind.deser.BeanDeserializerBase withIgnorableProperties(java.util.Set&lt;java.lang.String&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializer java.lang.Object deserialize(com.fasterxml.jackson.core.JsonParser, com.fasterxml.jackson.databind.DeserializationContext) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializer com.fasterxml.jackson.databind.deser.BeanDeserializer withIgnorableProperties(java.util.Set&lt;java.lang.String&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BasicDeserializerFactory com.fasterxml.jackson.databind.JsonDeserializer&lt;?&gt; createMapLikeDeserializer(com.fasterxml.jackson.databind.DeserializationContext, com.fasterxml.jackson.databind.type.MapLikeType, com.fasterxml.jackson.databind.BeanDescription) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializerBase BeanDeserializerBase(com.fasterxml.jackson.databind.deser.BeanDeserializerBase, com.fasterxml.jackson.databind.deser.impl.ObjectIdReader) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.ValueInstantiators.Base com.fasterxml.jackson.databind.deser.ValueInstantiator findValueInstantiator(com.fasterxml.jackson.databind.DeserializationConfig, com.fasterxml.jackson.databind.BeanDescription, com.fasterxml.jackson.databind.deser.ValueInstantiator) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializer com.fasterxml.jackson.databind.deser.BeanDeserializer withIgnorableProperties(java.util.Set&lt;java.lang.String&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializerBase com.fasterxml.jackson.databind.deser.SettableBeanProperty _resolvedObjectIdProperty(com.fasterxml.jackson.databind.DeserializationContext, com.fasterxml.jackson.databind.deser.SettableBeanProperty) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.DeserializerFactory com.fasterxml.jackson.databind.JsonDeserializer&lt;?&gt; createArrayDeserializer(com.fasterxml.jackson.databind.DeserializationContext, com.fasterxml.jackson.databind.type.ArrayType, com.fasterxml.jackson.databind.BeanDescription) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BasicDeserializerFactory com.fasterxml.jackson.databind.JavaType mapAbstractType(com.fasterxml.jackson.databind.DeserializationConfig, com.fasterxml.jackson.databind.JavaType) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BuilderBasedDeserializer com.fasterxml.jackson.databind.JsonDeserializer&lt;java.lang.Object&gt; unwrappingDeserializer(com.fasterxml.jackson.databind.util.NameTransformer)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BasicDeserializerFactory com.fasterxml.jackson.databind.JsonDeserializer&lt;?&gt; createMapLikeDeserializer(com.fasterxml.jackson.databind.DeserializationContext, com.fasterxml.jackson.databind.type.MapLikeType, com.fasterxml.jackson.databind.BeanDescription) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.CreatorProperty CreatorProperty(com.fasterxml.jackson.databind.deser.CreatorProperty, com.fasterxml.jackson.databind.JsonDeserializer&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.SettableBeanProperty void depositSchemaProperty(com.fasterxml.jackson.databind.jsonFormatVisitors.JsonObjectFormatVisitor, com.fasterxml.jackson.databind.SerializerProvider) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializer java.lang.Object deserializeUsingPropertyBasedWithUnwrapped(com.fasterxml.jackson.core.JsonParser, com.fasterxml.jackson.databind.DeserializationContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.AbstractDeserializer java.lang.Object _deserializeFromObjectId(com.fasterxml.jackson.core.JsonParser, com.fasterxml.jackson.databind.DeserializationContext)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.DeserializerFactory com.fasterxml.jackson.databind.JsonDeserializer&lt;?&gt; createArrayDeserializer(com.fasterxml.jackson.databind.DeserializationContext, com.fasterxml.jackson.databind.type.ArrayType, com.fasterxml.jackson.databind.BeanDescription) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializerFactory com.fasterxml.jackson.databind.JsonDeserializer&lt;java.lang.Object&gt; buildThrowableDeserializer(com.fasterxml.jackson.databind.DeserializationContext, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.BeanDescription) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BuilderBasedDeserializer BuilderBasedDeserializer(com.fasterxml.jackson.databind.deser.BeanDeserializerBuilder, com.fasterxml.jackson.databind.BeanDescription, com.fasterxml.jackson.databind.deser.impl.BeanPropertyMap, java.util.Map&lt;java.lang.String,com.fasterxml.jackson.databind.deser.SettableBeanProperty&gt;, java.util.Set&lt;java.lang.String&gt;, boolean, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.DeserializationProblemHandler java.lang.Object handleWeirdKey(com.fasterxml.jackson.databind.DeserializationContext, java.lang.Class&lt;?&gt;, java.lang.String, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.DeserializerFactory com.fasterxml.jackson.databind.JsonDeserializer&lt;?&gt; createCollectionDeserializer(com.fasterxml.jackson.databind.DeserializationContext, com.fasterxml.jackson.databind.type.CollectionType, com.fasterxml.jackson.databind.BeanDescription) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializerFactory com.fasterxml.jackson.databind.deser.SettableAnyProperty constructAnySetter(com.fasterxml.jackson.databind.DeserializationContext, com.fasterxml.jackson.databind.BeanDescription, com.fasterxml.jackson.databind.introspect.AnnotatedMember) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.DeserializationProblemHandler java.lang.Object handleInstantiationProblem(com.fasterxml.jackson.databind.DeserializationContext, java.lang.Class&lt;?&gt;, java.lang.Object, java.lang.Throwable)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.ValueInstantiator java.lang.Object createFromDouble(com.fasterxml.jackson.databind.DeserializationContext, double)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.DefaultDeserializationContext com.fasterxml.jackson.databind.deser.DefaultDeserializationContext createInstance(com.fasterxml.jackson.databind.DeserializationConfig, com.fasterxml.jackson.core.JsonParser, com.fasterxml.jackson.databind.InjectableValues)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializerFactory instance'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.DeserializationProblemHandler java.lang.Object handleUnexpectedToken(com.fasterxml.jackson.databind.DeserializationContext, java.lang.Class&lt;?&gt;, com.fasterxml.jackson.core.JsonToken, com.fasterxml.jackson.core.JsonParser, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BasicDeserializerFactory com.fasterxml.jackson.databind.deser.SettableBeanProperty constructCreatorProperty(com.fasterxml.jackson.databind.DeserializationContext, com.fasterxml.jackson.databind.BeanDescription, com.fasterxml.jackson.databind.PropertyName, int, com.fasterxml.jackson.databind.introspect.AnnotatedParameter, java.lang.Object) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.ValueInstantiator java.lang.Object createUsingDefault(com.fasterxml.jackson.databind.DeserializationContext)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializer com.fasterxml.jackson.databind.deser.BeanDeserializerBase withObjectIdReader(com.fasterxml.jackson.databind.deser.impl.ObjectIdReader)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.ValueInstantiator java.lang.Object createUsingArrayDelegate(com.fasterxml.jackson.databind.DeserializationContext, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BuilderBasedDeserializer BuilderBasedDeserializer(com.fasterxml.jackson.databind.deser.BeanDeserializerBuilder, com.fasterxml.jackson.databind.BeanDescription, com.fasterxml.jackson.databind.deser.impl.BeanPropertyMap, java.util.Map&lt;java.lang.String,com.fasterxml.jackson.databind.deser.SettableBeanProperty&gt;, java.util.Set&lt;java.lang.String&gt;, boolean, boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.DeserializerCache boolean hasValueDeserializerFor(com.fasterxml.jackson.databind.DeserializationContext, com.fasterxml.jackson.databind.deser.DeserializerFactory, com.fasterxml.jackson.databind.JavaType) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.DeserializerFactory com.fasterxml.jackson.databind.JsonDeserializer&lt;?&gt; createCollectionDeserializer(com.fasterxml.jackson.databind.DeserializationContext, com.fasterxml.jackson.databind.type.CollectionType, com.fasterxml.jackson.databind.BeanDescription) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializerFactory com.fasterxml.jackson.databind.deser.SettableAnyProperty constructAnySetter(com.fasterxml.jackson.databind.DeserializationContext, com.fasterxml.jackson.databind.BeanDescription, com.fasterxml.jackson.databind.introspect.AnnotatedMember) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.DataFormatReaders com.fasterxml.jackson.databind.deser.DataFormatReaders.Match findFormat(java.io.InputStream)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.SettableAnyProperty SettableAnyProperty(com.fasterxml.jackson.databind.deser.SettableAnyProperty) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.ContextualDeserializer com.fasterxml.jackson.databind.JsonDeserializer&lt;?&gt; createContextual(com.fasterxml.jackson.databind.DeserializationContext, com.fasterxml.jackson.databind.BeanProperty)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializerBase com.fasterxml.jackson.databind.deser.SettableBeanProperty _resolveManagedReferenceProperty(com.fasterxml.jackson.databind.DeserializationContext, com.fasterxml.jackson.databind.deser.SettableBeanProperty)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.DeserializerCache com.fasterxml.jackson.databind.JsonDeserializer&lt;java.lang.Object&gt; _handleUnknownValueDeserializer(com.fasterxml.jackson.databind.DeserializationContext, com.fasterxml.jackson.databind.JavaType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializer java.lang.Object _deserializeUsingPropertyBased(com.fasterxml.jackson.core.JsonParser, com.fasterxml.jackson.databind.DeserializationContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializerBase java.lang.Object deserializeFromNumber(com.fasterxml.jackson.core.JsonParser, com.fasterxml.jackson.databind.DeserializationContext) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializerBase com.fasterxml.jackson.databind.deser.BeanDeserializerBase withIgnorableProperties(java.util.Set&lt;java.lang.String&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializerFactory com.fasterxml.jackson.databind.deser.SettableBeanProperty constructSetterlessProperty(com.fasterxml.jackson.databind.DeserializationContext, com.fasterxml.jackson.databind.BeanDescription, com.fasterxml.jackson.databind.introspect.BeanPropertyDefinition) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializerBase com.fasterxml.jackson.databind.deser.BeanDeserializerBase asArrayDeserializer()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.DeserializerCache com.fasterxml.jackson.databind.JsonDeserializer&lt;java.lang.Object&gt; _handleUnknownValueDeserializer(com.fasterxml.jackson.databind.DeserializationContext, com.fasterxml.jackson.databind.JavaType) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BasicDeserializerFactory com.fasterxml.jackson.databind.deser.DeserializerFactory withAdditionalKeyDeserializers(com.fasterxml.jackson.databind.deser.KeyDeserializers) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BasicDeserializerFactory boolean _handleSingleArgumentConstructor(com.fasterxml.jackson.databind.DeserializationContext, com.fasterxml.jackson.databind.BeanDescription, com.fasterxml.jackson.databind.introspect.VisibilityChecker&lt;?&gt;, com.fasterxml.jackson.databind.AnnotationIntrospector, com.fasterxml.jackson.databind.deser.impl.CreatorCollector, com.fasterxml.jackson.databind.introspect.AnnotatedConstructor, boolean, boolean) 5'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializerBase java.lang.Object wrapInstantiationProblem(java.lang.Throwable, com.fasterxml.jackson.databind.DeserializationContext)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BuilderBasedDeserializer java.lang.Object deserialize(com.fasterxml.jackson.core.JsonParser, com.fasterxml.jackson.databind.DeserializationContext, java.lang.Object) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.SettableBeanProperty java.lang.Object deserializeSetAndReturn(com.fasterxml.jackson.core.JsonParser, com.fasterxml.jackson.databind.DeserializationContext, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.ValueInstantiator java.lang.Object createFromLong(com.fasterxml.jackson.databind.DeserializationContext, long) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BasicDeserializerFactory com.fasterxml.jackson.databind.JsonDeserializer&lt;?&gt; createCollectionLikeDeserializer(com.fasterxml.jackson.databind.DeserializationContext, com.fasterxml.jackson.databind.type.CollectionLikeType, com.fasterxml.jackson.databind.BeanDescription) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BasicDeserializerFactory com.fasterxml.jackson.databind.type.CollectionType _mapAbstractCollectionType(com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.DeserializationConfig) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializerBase com.fasterxml.jackson.databind.JsonDeserializer&lt;java.lang.Object&gt; findConvertingDeserializer(com.fasterxml.jackson.databind.DeserializationContext, com.fasterxml.jackson.databind.deser.SettableBeanProperty) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.ValueInstantiator.Base Base(com.fasterxml.jackson.databind.JavaType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializerFactory com.fasterxml.jackson.databind.deser.SettableBeanProperty constructSetterlessProperty(com.fasterxml.jackson.databind.DeserializationContext, com.fasterxml.jackson.databind.BeanDescription, com.fasterxml.jackson.databind.introspect.BeanPropertyDefinition) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializerFactory boolean isIgnorableType(com.fasterxml.jackson.databind.DeserializationConfig, com.fasterxml.jackson.databind.BeanDescription, java.lang.Class&lt;?&gt;, java.util.Map&lt;java.lang.Class&lt;?&gt;,java.lang.Boolean&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializerFactory void addObjectIdReader(com.fasterxml.jackson.databind.DeserializationContext, com.fasterxml.jackson.databind.BeanDescription, com.fasterxml.jackson.databind.deser.BeanDeserializerBuilder) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BuilderBasedDeserializer com.fasterxml.jackson.databind.deser.BeanDeserializerBase withBeanProperties(com.fasterxml.jackson.databind.deser.impl.BeanPropertyMap)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BasicDeserializerFactory com.fasterxml.jackson.databind.JsonDeserializer&lt;?&gt; createCollectionLikeDeserializer(com.fasterxml.jackson.databind.DeserializationContext, com.fasterxml.jackson.databind.type.CollectionLikeType, com.fasterxml.jackson.databind.BeanDescription) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BasicDeserializerFactory com.fasterxml.jackson.databind.JsonDeserializer&lt;?&gt; findDefaultDeserializer(com.fasterxml.jackson.databind.DeserializationContext, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.BeanDescription) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.AbstractDeserializer java.lang.Object _deserializeIfNatural(com.fasterxml.jackson.core.JsonParser, com.fasterxml.jackson.databind.DeserializationContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.AbstractDeserializer java.lang.Object deserialize(com.fasterxml.jackson.core.JsonParser, com.fasterxml.jackson.databind.DeserializationContext)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.Deserializers.Base com.fasterxml.jackson.databind.JsonDeserializer&lt;?&gt; findBeanDeserializer(com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.DeserializationConfig, com.fasterxml.jackson.databind.BeanDescription) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.SettableBeanProperty void fixAccess(com.fasterxml.jackson.databind.DeserializationConfig) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BasicDeserializerFactory com.fasterxml.jackson.databind.JsonDeserializer&lt;?&gt; findOptionalStdDeserializer(com.fasterxml.jackson.databind.DeserializationContext, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.BeanDescription) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializerBase BeanDeserializerBase(com.fasterxml.jackson.databind.deser.BeanDeserializerBase, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.DeserializerFactory com.fasterxml.jackson.databind.JsonDeserializer&lt;?&gt; createReferenceDeserializer(com.fasterxml.jackson.databind.DeserializationContext, com.fasterxml.jackson.databind.type.ReferenceType, com.fasterxml.jackson.databind.BeanDescription) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BuilderBasedDeserializer java.lang.Object deserialize(com.fasterxml.jackson.core.JsonParser, com.fasterxml.jackson.databind.DeserializationContext, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializerBase void handleUnknownProperty(com.fasterxml.jackson.core.JsonParser, com.fasterxml.jackson.databind.DeserializationContext, java.lang.Object, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BasicDeserializerFactory boolean _checkIfCreatorPropertyBased(com.fasterxml.jackson.databind.AnnotationIntrospector, com.fasterxml.jackson.databind.introspect.AnnotatedWithParams, com.fasterxml.jackson.databind.introspect.BeanPropertyDefinition) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializerBase void handleIgnoredProperty(com.fasterxml.jackson.core.JsonParser, com.fasterxml.jackson.databind.DeserializationContext, java.lang.Object, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.ValueInstantiator java.lang.Object createFromDouble(com.fasterxml.jackson.databind.DeserializationContext, double) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializerBase java.lang.Object deserializeFromObjectId(com.fasterxml.jackson.core.JsonParser, com.fasterxml.jackson.databind.DeserializationContext) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializerFactory com.fasterxml.jackson.databind.deser.BeanDeserializerBuilder constructBeanDeserializerBuilder(com.fasterxml.jackson.databind.DeserializationContext, com.fasterxml.jackson.databind.BeanDescription)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializerBase java.lang.Object deserializeFromObject(com.fasterxml.jackson.core.JsonParser, com.fasterxml.jackson.databind.DeserializationContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BasicDeserializerFactory com.fasterxml.jackson.databind.JsonDeserializer&lt;?&gt; findOptionalStdDeserializer(com.fasterxml.jackson.databind.DeserializationContext, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.BeanDescription) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.CreatorProperty com.fasterxml.jackson.databind.deser.SettableBeanProperty withName(com.fasterxml.jackson.databind.PropertyName)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializer com.fasterxml.jackson.databind.deser.BeanDeserializerBase withIgnorableProperties(java.util.Set) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializer BeanDeserializer(com.fasterxml.jackson.databind.deser.BeanDeserializerBuilder, com.fasterxml.jackson.databind.BeanDescription, com.fasterxml.jackson.databind.deser.impl.BeanPropertyMap, java.util.Map&lt;java.lang.String,com.fasterxml.jackson.databind.deser.SettableBeanProperty&gt;, java.util.HashSet&lt;java.lang.String&gt;, boolean, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializer java.lang.Object _deserializeWithErrorWrapping(com.fasterxml.jackson.core.JsonParser, com.fasterxml.jackson.databind.DeserializationContext, com.fasterxml.jackson.databind.deser.SettableBeanProperty) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.AbstractDeserializer AbstractDeserializer(com.fasterxml.jackson.databind.deser.BeanDeserializerBuilder, com.fasterxml.jackson.databind.BeanDescription, java.util.Map&lt;java.lang.String,com.fasterxml.jackson.databind.deser.SettableBeanProperty&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BuilderBasedDeserializer java.lang.Object deserialize(com.fasterxml.jackson.core.JsonParser, com.fasterxml.jackson.databind.DeserializationContext, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BasicDeserializerFactory com.fasterxml.jackson.databind.util.EnumResolver constructEnumResolver(java.lang.Class&lt;?&gt;, com.fasterxml.jackson.databind.DeserializationConfig, com.fasterxml.jackson.databind.introspect.AnnotatedMethod)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.ValueInstantiator java.lang.Object createFromObjectWith(com.fasterxml.jackson.databind.DeserializationContext, java.lang.Object[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializerBase void handleIgnoredProperty(com.fasterxml.jackson.core.JsonParser, com.fasterxml.jackson.databind.DeserializationContext, java.lang.Object, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializerFactory boolean isPotentialBeanType(java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializerFactory void addReferenceProperties(com.fasterxml.jackson.databind.DeserializationContext, com.fasterxml.jackson.databind.BeanDescription, com.fasterxml.jackson.databind.deser.BeanDeserializerBuilder) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializerFactory com.fasterxml.jackson.databind.JsonDeserializer&lt;java.lang.Object&gt; buildThrowableDeserializer(com.fasterxml.jackson.databind.DeserializationContext, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.BeanDescription) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.SettableBeanProperty SettableBeanProperty(com.fasterxml.jackson.databind.deser.SettableBeanProperty, com.fasterxml.jackson.databind.JsonDeserializer&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializerFactory com.fasterxml.jackson.databind.deser.DeserializerFactory withConfig(com.fasterxml.jackson.databind.cfg.DeserializerFactoryConfig)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.AbstractDeserializer AbstractDeserializer(com.fasterxml.jackson.databind.deser.BeanDeserializerBuilder, com.fasterxml.jackson.databind.BeanDescription, java.util.Map&lt;java.lang.String,com.fasterxml.jackson.databind.deser.SettableBeanProperty&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.DefaultDeserializationContext DefaultDeserializationContext(com.fasterxml.jackson.databind.deser.DeserializerFactory, com.fasterxml.jackson.databind.deser.DeserializerCache) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.DataFormatReaders com.fasterxml.jackson.databind.deser.DataFormatReaders.Match findFormat(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.DeserializerFactory com.fasterxml.jackson.databind.JavaType mapAbstractType(com.fasterxml.jackson.databind.DeserializationConfig, com.fasterxml.jackson.databind.JavaType)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BuilderBasedDeserializer com.fasterxml.jackson.databind.deser.BeanDeserializerBase asArrayDeserializer()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.SettableAnyProperty com.fasterxml.jackson.databind.deser.SettableAnyProperty withValueDeserializer(com.fasterxml.jackson.databind.JsonDeserializer&lt;java.lang.Object&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.DeserializerFactory com.fasterxml.jackson.databind.JsonDeserializer&lt;?&gt; createReferenceDeserializer(com.fasterxml.jackson.databind.DeserializationContext, com.fasterxml.jackson.databind.type.ReferenceType, com.fasterxml.jackson.databind.BeanDescription) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.ValueInstantiator java.lang.Object createUsingDelegate(com.fasterxml.jackson.databind.DeserializationContext, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializer java.lang.Object deserialize(com.fasterxml.jackson.core.JsonParser, com.fasterxml.jackson.databind.DeserializationContext, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.DeserializerCache com.fasterxml.jackson.databind.JsonDeserializer&lt;java.lang.Object&gt; findValueDeserializer(com.fasterxml.jackson.databind.DeserializationContext, com.fasterxml.jackson.databind.deser.DeserializerFactory, com.fasterxml.jackson.databind.JavaType) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.SettableAnyProperty java.lang.Object deserialize(com.fasterxml.jackson.core.JsonParser, com.fasterxml.jackson.databind.DeserializationContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializer com.fasterxml.jackson.databind.deser.BeanDeserializerBase asArrayDeserializer()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializerBuilder com.fasterxml.jackson.databind.deser.SettableBeanProperty findProperty(com.fasterxml.jackson.databind.PropertyName) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.ContextualDeserializer com.fasterxml.jackson.databind.JsonDeserializer&lt;?&gt; createContextual(com.fasterxml.jackson.databind.DeserializationContext, com.fasterxml.jackson.databind.BeanProperty) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializerBase java.lang.Object deserializeFromObject(com.fasterxml.jackson.core.JsonParser, com.fasterxml.jackson.databind.DeserializationContext) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializerBase java.lang.Object deserializeWithType(com.fasterxml.jackson.core.JsonParser, com.fasterxml.jackson.databind.DeserializationContext, com.fasterxml.jackson.databind.jsontype.TypeDeserializer) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.DefaultDeserializationContext DefaultDeserializationContext(com.fasterxml.jackson.databind.deser.DefaultDeserializationContext, com.fasterxml.jackson.databind.DeserializationConfig, com.fasterxml.jackson.core.JsonParser, com.fasterxml.jackson.databind.InjectableValues) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BuilderBasedDeserializer java.lang.Object deserializeUsingPropertyBasedWithUnwrapped(com.fasterxml.jackson.core.JsonParser, com.fasterxml.jackson.databind.DeserializationContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.CreatorProperty void fixAccess(com.fasterxml.jackson.databind.DeserializationConfig) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializer java.lang.Object deserializeFromNull(com.fasterxml.jackson.core.JsonParser, com.fasterxml.jackson.databind.DeserializationContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.SettableAnyProperty void fixAccess(com.fasterxml.jackson.databind.DeserializationConfig) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializerFactory void addBeanProps(com.fasterxml.jackson.databind.DeserializationContext, com.fasterxml.jackson.databind.BeanDescription, com.fasterxml.jackson.databind.deser.BeanDeserializerBuilder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializerBase java.lang.Object deserializeFromBoolean(com.fasterxml.jackson.core.JsonParser, com.fasterxml.jackson.databind.DeserializationContext)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializerFactory com.fasterxml.jackson.databind.deser.BeanDeserializerBuilder constructBeanDeserializerBuilder(com.fasterxml.jackson.databind.DeserializationContext, com.fasterxml.jackson.databind.BeanDescription) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BasicDeserializerFactory com.fasterxml.jackson.databind.deser.DeserializerFactory withAbstractTypeResolver(com.fasterxml.jackson.databind.AbstractTypeResolver) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializerBuilder com.fasterxml.jackson.databind.JsonDeserializer&lt;?&gt; buildBuilderBased(com.fasterxml.jackson.databind.JavaType, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.ResolvableDeserializer void resolve(com.fasterxml.jackson.databind.DeserializationContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.SettableBeanProperty java.lang.String getName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.ValueInstantiator java.lang.Object createFromLong(com.fasterxml.jackson.databind.DeserializationContext, long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializerFactory void addBeanProps(com.fasterxml.jackson.databind.DeserializationContext, com.fasterxml.jackson.databind.BeanDescription, com.fasterxml.jackson.databind.deser.BeanDeserializerBuilder) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializerFactory com.fasterxml.jackson.databind.deser.SettableAnyProperty constructAnySetter(com.fasterxml.jackson.databind.DeserializationContext, com.fasterxml.jackson.databind.BeanDescription, com.fasterxml.jackson.databind.introspect.AnnotatedMember)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializerBase com.fasterxml.jackson.databind.deser.SettableBeanProperty findProperty(com.fasterxml.jackson.databind.PropertyName) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.DataFormatReaders com.fasterxml.jackson.databind.deser.DataFormatReaders withMinimalMatch(com.fasterxml.jackson.core.format.MatchStrength)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.DeserializationProblemHandler java.lang.Object handleMissingInstantiator(com.fasterxml.jackson.databind.DeserializationContext, java.lang.Class&lt;?&gt;, com.fasterxml.jackson.core.JsonParser, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BasicDeserializerFactory com.fasterxml.jackson.databind.JsonDeserializer&lt;?&gt; createReferenceDeserializer(com.fasterxml.jackson.databind.DeserializationContext, com.fasterxml.jackson.databind.type.ReferenceType, com.fasterxml.jackson.databind.BeanDescription) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializerBase boolean hasProperty(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializerBase java.lang.Object deserializeWithType(com.fasterxml.jackson.core.JsonParser, com.fasterxml.jackson.databind.DeserializationContext, com.fasterxml.jackson.databind.jsontype.TypeDeserializer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializerBase com.fasterxml.jackson.databind.deser.BeanDeserializerBase withIgnorableProperties(java.util.Set&lt;java.lang.String&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BasicDeserializerFactory java.util.Map&lt;com.fasterxml.jackson.databind.introspect.AnnotatedWithParams,com.fasterxml.jackson.databind.introspect.BeanPropertyDefinition[]&gt; _findCreatorsFromProperties(com.fasterxml.jackson.databind.DeserializationContext, com.fasterxml.jackson.databind.BeanDescription) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializerFactory void addBeanProps(com.fasterxml.jackson.databind.DeserializationContext, com.fasterxml.jackson.databind.BeanDescription, com.fasterxml.jackson.databind.deser.BeanDeserializerBuilder) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializer BeanDeserializer(com.fasterxml.jackson.databind.deser.BeanDeserializerBuilder, com.fasterxml.jackson.databind.BeanDescription, com.fasterxml.jackson.databind.deser.impl.BeanPropertyMap, java.util.Map&lt;java.lang.String,com.fasterxml.jackson.databind.deser.SettableBeanProperty&gt;, java.util.HashSet&lt;java.lang.String&gt;, boolean, boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.DataFormatReaders com.fasterxml.jackson.databind.deser.DataFormatReaders with(com.fasterxml.jackson.databind.DeserializationConfig)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.DataFormatReaders com.fasterxml.jackson.databind.deser.DataFormatReaders.Match findFormat(byte[], int, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializerBase com.fasterxml.jackson.databind.JsonDeserializer&lt;java.lang.Object&gt; unwrappingDeserializer(com.fasterxml.jackson.databind.util.NameTransformer)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.ValueInstantiator java.lang.Object createUsingDelegate(com.fasterxml.jackson.databind.DeserializationContext, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.AbstractDeserializer AbstractDeserializer(com.fasterxml.jackson.databind.BeanDescription) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializerBase BeanDeserializerBase(com.fasterxml.jackson.databind.deser.BeanDeserializerBase, com.fasterxml.jackson.databind.util.NameTransformer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.ValueInstantiator java.lang.Object createFromInt(com.fasterxml.jackson.databind.DeserializationContext, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializerBase java.lang.Object _handleTypedObjectId(com.fasterxml.jackson.core.JsonParser, com.fasterxml.jackson.databind.DeserializationContext, java.lang.Object, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.ValueInstantiator java.lang.Object createFromObjectWith(com.fasterxml.jackson.databind.DeserializationContext, java.lang.Object[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BasicDeserializerFactory com.fasterxml.jackson.databind.JsonDeserializer&lt;?&gt; createReferenceDeserializer(com.fasterxml.jackson.databind.DeserializationContext, com.fasterxml.jackson.databind.type.ReferenceType, com.fasterxml.jackson.databind.BeanDescription) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.ValueInstantiator java.lang.Object _createFromStringFallbacks(com.fasterxml.jackson.databind.DeserializationContext, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.DefaultDeserializationContext DefaultDeserializationContext(com.fasterxml.jackson.databind.deser.DefaultDeserializationContext, com.fasterxml.jackson.databind.DeserializationConfig, com.fasterxml.jackson.core.JsonParser, com.fasterxml.jackson.databind.InjectableValues) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.DeserializerFactory com.fasterxml.jackson.databind.deser.DeserializerFactory withAdditionalDeserializers(com.fasterxml.jackson.databind.deser.Deserializers) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.DeserializerCache com.fasterxml.jackson.databind.JsonDeserializer&lt;java.lang.Object&gt; _findCachedDeserializer(com.fasterxml.jackson.databind.JavaType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.DefaultDeserializationContext.Impl Impl(com.fasterxml.jackson.databind.deser.DefaultDeserializationContext.Impl, com.fasterxml.jackson.databind.DeserializationConfig, com.fasterxml.jackson.core.JsonParser, com.fasterxml.jackson.databind.InjectableValues) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BasicDeserializerFactory com.fasterxml.jackson.databind.JavaType mapAbstractType(com.fasterxml.jackson.databind.DeserializationConfig, com.fasterxml.jackson.databind.JavaType)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializerBase BeanDeserializerBase(com.fasterxml.jackson.databind.deser.BeanDeserializerBase, com.fasterxml.jackson.databind.deser.impl.BeanPropertyMap) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.DeserializerFactory com.fasterxml.jackson.databind.JsonDeserializer&lt;java.lang.Object&gt; createBuilderBasedDeserializer(com.fasterxml.jackson.databind.DeserializationContext, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.BeanDescription, java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.DeserializerFactory com.fasterxml.jackson.databind.deser.DeserializerFactory withDeserializerModifier(com.fasterxml.jackson.databind.deser.BeanDeserializerModifier) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializerFactory java.util.List&lt;com.fasterxml.jackson.databind.introspect.BeanPropertyDefinition&gt; filterBeanProps(com.fasterxml.jackson.databind.DeserializationContext, com.fasterxml.jackson.databind.BeanDescription, com.fasterxml.jackson.databind.deser.BeanDeserializerBuilder, java.util.List&lt;com.fasterxml.jackson.databind.introspect.BeanPropertyDefinition&gt;, java.util.Set&lt;java.lang.String&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializerBase com.fasterxml.jackson.databind.deser.SettableBeanProperty _resolveInnerClassValuedProperty(com.fasterxml.jackson.databind.DeserializationContext, com.fasterxml.jackson.databind.deser.SettableBeanProperty)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.CreatorProperty com.fasterxml.jackson.databind.deser.SettableBeanProperty withValueDeserializer(com.fasterxml.jackson.databind.JsonDeserializer)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BasicDeserializerFactory com.fasterxml.jackson.databind.JsonDeserializer&lt;?&gt; createArrayDeserializer(com.fasterxml.jackson.databind.DeserializationContext, com.fasterxml.jackson.databind.type.ArrayType, com.fasterxml.jackson.databind.BeanDescription) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.KeyDeserializers com.fasterxml.jackson.databind.KeyDeserializer findKeyDeserializer(com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.DeserializationConfig, com.fasterxml.jackson.databind.BeanDescription) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BuilderBasedDeserializer com.fasterxml.jackson.databind.deser.BeanDeserializerBase withObjectIdReader(com.fasterxml.jackson.databind.deser.impl.ObjectIdReader)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.DeserializerFactory com.fasterxml.jackson.databind.JsonDeserializer&lt;?&gt; createMapLikeDeserializer(com.fasterxml.jackson.databind.DeserializationContext, com.fasterxml.jackson.databind.type.MapLikeType, com.fasterxml.jackson.databind.BeanDescription) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BasicDeserializerFactory com.fasterxml.jackson.databind.JsonDeserializer&lt;?&gt; createArrayDeserializer(com.fasterxml.jackson.databind.DeserializationContext, com.fasterxml.jackson.databind.type.ArrayType, com.fasterxml.jackson.databind.BeanDescription) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.DefaultDeserializationContext.Impl com.fasterxml.jackson.databind.deser.DefaultDeserializationContext createInstance(com.fasterxml.jackson.databind.DeserializationConfig, com.fasterxml.jackson.core.JsonParser, com.fasterxml.jackson.databind.InjectableValues) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializerBuilder com.fasterxml.jackson.databind.JsonDeserializer&lt;?&gt; build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.DeserializerCache com.fasterxml.jackson.databind.util.Converter&lt;java.lang.Object,java.lang.Object&gt; findConverter(com.fasterxml.jackson.databind.DeserializationContext, com.fasterxml.jackson.databind.introspect.Annotated) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BasicDeserializerFactory com.fasterxml.jackson.databind.KeyDeserializer findKeyDeserializerFromAnnotation(com.fasterxml.jackson.databind.DeserializationContext, com.fasterxml.jackson.databind.introspect.Annotated) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.ValueInstantiator com.fasterxml.jackson.databind.deser.SettableBeanProperty[] getFromObjectArguments(com.fasterxml.jackson.databind.DeserializationConfig) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializer BeanDeserializer(com.fasterxml.jackson.databind.deser.BeanDeserializerBase, com.fasterxml.jackson.databind.deser.impl.BeanPropertyMap) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.DeserializerCache com.fasterxml.jackson.databind.KeyDeserializer findKeyDeserializer(com.fasterxml.jackson.databind.DeserializationContext, com.fasterxml.jackson.databind.deser.DeserializerFactory, com.fasterxml.jackson.databind.JavaType) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BasicDeserializerFactory com.fasterxml.jackson.databind.JsonDeserializer&lt;?&gt; createMapDeserializer(com.fasterxml.jackson.databind.DeserializationContext, com.fasterxml.jackson.databind.type.MapType, com.fasterxml.jackson.databind.BeanDescription) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BasicDeserializerFactory void _addDeserializerConstructors(com.fasterxml.jackson.databind.DeserializationContext, com.fasterxml.jackson.databind.BeanDescription, com.fasterxml.jackson.databind.introspect.VisibilityChecker&lt;?&gt;, com.fasterxml.jackson.databind.AnnotationIntrospector, com.fasterxml.jackson.databind.deser.impl.CreatorCollector, java.util.Map&lt;com.fasterxml.jackson.databind.introspect.AnnotatedWithParams,com.fasterxml.jackson.databind.introspect.BeanPropertyDefinition[]&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BuilderBasedDeserializer BuilderBasedDeserializer(com.fasterxml.jackson.databind.deser.BuilderBasedDeserializer, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.DeserializerFactory com.fasterxml.jackson.databind.KeyDeserializer createKeyDeserializer(com.fasterxml.jackson.databind.DeserializationContext, com.fasterxml.jackson.databind.JavaType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializerFactory com.fasterxml.jackson.databind.JsonDeserializer&lt;java.lang.Object&gt; buildBuilderBasedDeserializer(com.fasterxml.jackson.databind.DeserializationContext, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.BeanDescription) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.ValueInstantiator java.lang.Object _createFromStringFallbacks(com.fasterxml.jackson.databind.DeserializationContext, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.DataFormatReaders com.fasterxml.jackson.databind.deser.DataFormatReaders with(com.fasterxml.jackson.databind.ObjectReader[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializerFactory void addInjectables(com.fasterxml.jackson.databind.DeserializationContext, com.fasterxml.jackson.databind.BeanDescription, com.fasterxml.jackson.databind.deser.BeanDeserializerBuilder) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BasicDeserializerFactory com.fasterxml.jackson.databind.JsonDeserializer&lt;?&gt; createMapDeserializer(com.fasterxml.jackson.databind.DeserializationContext, com.fasterxml.jackson.databind.type.MapType, com.fasterxml.jackson.databind.BeanDescription) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializerFactory com.fasterxml.jackson.databind.deser.SettableBeanProperty constructSettableProperty(com.fasterxml.jackson.databind.DeserializationContext, com.fasterxml.jackson.databind.BeanDescription, com.fasterxml.jackson.databind.introspect.BeanPropertyDefinition, com.fasterxml.jackson.databind.JavaType) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BasicDeserializerFactory com.fasterxml.jackson.databind.PropertyName _findImplicitParamName(com.fasterxml.jackson.databind.introspect.AnnotatedParameter, com.fasterxml.jackson.databind.AnnotationIntrospector) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializer java.lang.Object _deserializeOther(com.fasterxml.jackson.core.JsonParser, com.fasterxml.jackson.databind.DeserializationContext, com.fasterxml.jackson.core.JsonToken) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.DefaultDeserializationContext.Impl Impl(com.fasterxml.jackson.databind.deser.DefaultDeserializationContext.Impl) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.ValueInstantiator java.lang.Object createFromObjectWith(com.fasterxml.jackson.databind.DeserializationContext, com.fasterxml.jackson.databind.deser.SettableBeanProperty[], com.fasterxml.jackson.databind.deser.impl.PropertyValueBuffer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializerBase java.lang.Object deserializeFromDouble(com.fasterxml.jackson.core.JsonParser, com.fasterxml.jackson.databind.DeserializationContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BasicDeserializerFactory com.fasterxml.jackson.databind.JavaType modifyTypeByAnnotation(com.fasterxml.jackson.databind.DeserializationContext, com.fasterxml.jackson.databind.introspect.Annotated, com.fasterxml.jackson.databind.JavaType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializerBase java.lang.Object deserializeFromArray(com.fasterxml.jackson.core.JsonParser, com.fasterxml.jackson.databind.DeserializationContext) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializerBase com.fasterxml.jackson.databind.deser.BeanDeserializerBase withObjectIdReader(com.fasterxml.jackson.databind.deser.impl.ObjectIdReader)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.DeserializerFactory com.fasterxml.jackson.databind.deser.DeserializerFactory withAdditionalKeyDeserializers(com.fasterxml.jackson.databind.deser.KeyDeserializers) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.Deserializers com.fasterxml.jackson.databind.JsonDeserializer&lt;?&gt; findBeanDeserializer(com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.DeserializationConfig, com.fasterxml.jackson.databind.BeanDescription) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializer BeanDeserializer(com.fasterxml.jackson.databind.deser.BeanDeserializerBase) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializerFactory java.util.List&lt;com.fasterxml.jackson.databind.introspect.BeanPropertyDefinition&gt; filterBeanProps(com.fasterxml.jackson.databind.DeserializationContext, com.fasterxml.jackson.databind.BeanDescription, com.fasterxml.jackson.databind.deser.BeanDeserializerBuilder, java.util.List&lt;com.fasterxml.jackson.databind.introspect.BeanPropertyDefinition&gt;, java.util.Set&lt;java.lang.String&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.DataFormatReaders com.fasterxml.jackson.databind.deser.DataFormatReaders withMaxInputLookahead(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.DeserializerFactory com.fasterxml.jackson.databind.JsonDeserializer&lt;?&gt; createTreeDeserializer(com.fasterxml.jackson.databind.DeserializationConfig, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.BeanDescription)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializerFactory com.fasterxml.jackson.databind.deser.SettableBeanProperty constructSettableProperty(com.fasterxml.jackson.databind.DeserializationContext, com.fasterxml.jackson.databind.BeanDescription, com.fasterxml.jackson.databind.introspect.BeanPropertyDefinition, com.fasterxml.jackson.databind.JavaType) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BuilderBasedDeserializer BuilderBasedDeserializer(com.fasterxml.jackson.databind.deser.BuilderBasedDeserializer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializerBase BeanDeserializerBase(com.fasterxml.jackson.databind.deser.BeanDeserializerBuilder, com.fasterxml.jackson.databind.BeanDescription, com.fasterxml.jackson.databind.deser.impl.BeanPropertyMap, java.util.Map&lt;java.lang.String,com.fasterxml.jackson.databind.deser.SettableBeanProperty&gt;, java.util.Set&lt;java.lang.String&gt;, boolean, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BasicDeserializerFactory com.fasterxml.jackson.databind.deser.ValueInstantiator findValueInstantiator(com.fasterxml.jackson.databind.DeserializationContext, com.fasterxml.jackson.databind.BeanDescription)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializerBase java.lang.Object deserializeFromDouble(com.fasterxml.jackson.core.JsonParser, com.fasterxml.jackson.databind.DeserializationContext) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.SettableBeanProperty SettableBeanProperty(com.fasterxml.jackson.databind.introspect.BeanPropertyDefinition, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.jsontype.TypeDeserializer, com.fasterxml.jackson.databind.util.Annotations) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.DeserializerCache _cachedDeserializers'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializerFactory com.fasterxml.jackson.databind.JsonDeserializer&lt;java.lang.Object&gt; buildBuilderBasedDeserializer(com.fasterxml.jackson.databind.DeserializationContext, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.BeanDescription) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.DeserializerCache com.fasterxml.jackson.databind.JsonDeserializer&lt;java.lang.Object&gt; _createDeserializer(com.fasterxml.jackson.databind.DeserializationContext, com.fasterxml.jackson.databind.deser.DeserializerFactory, com.fasterxml.jackson.databind.JavaType) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.DeserializerFactory com.fasterxml.jackson.databind.JsonDeserializer&lt;java.lang.Object&gt; createBeanDeserializer(com.fasterxml.jackson.databind.DeserializationContext, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.BeanDescription) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializer java.lang.Object deserializeWithExternalTypeId(com.fasterxml.jackson.core.JsonParser, com.fasterxml.jackson.databind.DeserializationContext, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BasicDeserializerFactory void _addDeserializerFactoryMethods(com.fasterxml.jackson.databind.DeserializationContext, com.fasterxml.jackson.databind.BeanDescription, com.fasterxml.jackson.databind.introspect.VisibilityChecker&lt;?&gt;, com.fasterxml.jackson.databind.AnnotationIntrospector, com.fasterxml.jackson.databind.deser.impl.CreatorCollector, java.util.Map&lt;com.fasterxml.jackson.databind.introspect.AnnotatedWithParams,com.fasterxml.jackson.databind.introspect.BeanPropertyDefinition[]&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.DeserializerFactory com.fasterxml.jackson.databind.JsonDeserializer&lt;?&gt; createCollectionLikeDeserializer(com.fasterxml.jackson.databind.DeserializationContext, com.fasterxml.jackson.databind.type.CollectionLikeType, com.fasterxml.jackson.databind.BeanDescription) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializerBuilder void addCreatorProperty(com.fasterxml.jackson.databind.deser.SettableBeanProperty) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializer java.lang.Object deserialize(com.fasterxml.jackson.core.JsonParser, com.fasterxml.jackson.databind.DeserializationContext, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BuilderBasedDeserializer BuilderBasedDeserializer(com.fasterxml.jackson.databind.deser.BuilderBasedDeserializer, com.fasterxml.jackson.databind.util.NameTransformer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.DeserializerFactory com.fasterxml.jackson.databind.JavaType mapAbstractType(com.fasterxml.jackson.databind.DeserializationConfig, com.fasterxml.jackson.databind.JavaType) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializerBase BeanDeserializerBase(com.fasterxml.jackson.databind.deser.BeanDeserializerBuilder, com.fasterxml.jackson.databind.BeanDescription, com.fasterxml.jackson.databind.deser.impl.BeanPropertyMap, java.util.Map&lt;java.lang.String,com.fasterxml.jackson.databind.deser.SettableBeanProperty&gt;, java.util.Set&lt;java.lang.String&gt;, boolean, boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BuilderBasedDeserializer BuilderBasedDeserializer(com.fasterxml.jackson.databind.deser.BuilderBasedDeserializer, com.fasterxml.jackson.databind.deser.impl.BeanPropertyMap) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializerBuilder com.fasterxml.jackson.databind.deser.AbstractDeserializer buildAbstract()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.DeserializerFactory com.fasterxml.jackson.databind.JsonDeserializer&lt;?&gt; createCollectionLikeDeserializer(com.fasterxml.jackson.databind.DeserializationContext, com.fasterxml.jackson.databind.type.CollectionLikeType, com.fasterxml.jackson.databind.BeanDescription) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.DeserializerFactory NO_DESERIALIZERS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BasicDeserializerFactory com.fasterxml.jackson.databind.JavaType resolveMemberAndTypeAnnotations(com.fasterxml.jackson.databind.DeserializationContext, com.fasterxml.jackson.databind.introspect.AnnotatedMember, com.fasterxml.jackson.databind.JavaType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializerBase java.lang.Object deserializeFromObjectId(com.fasterxml.jackson.core.JsonParser, com.fasterxml.jackson.databind.DeserializationContext)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.DeserializationProblemHandler NOT_HANDLED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.DefaultDeserializationContext.Impl Impl(com.fasterxml.jackson.databind.deser.DeserializerFactory) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BasicDeserializerFactory void _addDeserializerFactoryMethods(com.fasterxml.jackson.databind.DeserializationContext, com.fasterxml.jackson.databind.BeanDescription, com.fasterxml.jackson.databind.introspect.VisibilityChecker&lt;?&gt;, com.fasterxml.jackson.databind.AnnotationIntrospector, com.fasterxml.jackson.databind.deser.impl.CreatorCollector, java.util.Map&lt;com.fasterxml.jackson.databind.introspect.AnnotatedWithParams,com.fasterxml.jackson.databind.introspect.BeanPropertyDefinition[]&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.DefaultDeserializationContext.Impl com.fasterxml.jackson.databind.deser.DefaultDeserializationContext createInstance(com.fasterxml.jackson.databind.DeserializationConfig, com.fasterxml.jackson.core.JsonParser, com.fasterxml.jackson.databind.InjectableValues)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.DeserializerCache com.fasterxml.jackson.databind.JsonDeserializer&lt;?&gt; _createDeserializer2(com.fasterxml.jackson.databind.DeserializationContext, com.fasterxml.jackson.databind.deser.DeserializerFactory, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.BeanDescription) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializer java.lang.Object deserialize(com.fasterxml.jackson.core.JsonParser, com.fasterxml.jackson.databind.DeserializationContext, java.lang.Object) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.DataFormatReaders com.fasterxml.jackson.databind.deser.DataFormatReaders withOptimalMatch(com.fasterxml.jackson.core.format.MatchStrength)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.DeserializerCache com.fasterxml.jackson.databind.JsonDeserializer&lt;java.lang.Object&gt; findConvertingDeserializer(com.fasterxml.jackson.databind.DeserializationContext, com.fasterxml.jackson.databind.introspect.Annotated, com.fasterxml.jackson.databind.JsonDeserializer&lt;java.lang.Object&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializer BeanDeserializer(com.fasterxml.jackson.databind.deser.BeanDeserializerBase, com.fasterxml.jackson.databind.deser.impl.ObjectIdReader) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.SettableBeanProperty void deserializeAndSet(com.fasterxml.jackson.core.JsonParser, com.fasterxml.jackson.databind.DeserializationContext, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.SettableBeanProperty java.lang.Object deserialize(com.fasterxml.jackson.core.JsonParser, com.fasterxml.jackson.databind.DeserializationContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BasicDeserializerFactory com.fasterxml.jackson.databind.JsonDeserializer&lt;?&gt; createCollectionDeserializer(com.fasterxml.jackson.databind.DeserializationContext, com.fasterxml.jackson.databind.type.CollectionType, com.fasterxml.jackson.databind.BeanDescription) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.AbstractDeserializer java.lang.Object deserializeWithType(com.fasterxml.jackson.core.JsonParser, com.fasterxml.jackson.databind.DeserializationContext, com.fasterxml.jackson.databind.jsontype.TypeDeserializer) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.CreatorProperty CreatorProperty(com.fasterxml.jackson.databind.deser.CreatorProperty, com.fasterxml.jackson.databind.PropertyName) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.DefaultDeserializationContext com.fasterxml.jackson.databind.deser.impl.ReadableObjectId createReadableObjectId(com.fasterxml.jackson.annotation.ObjectIdGenerator.IdKey)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BuilderBasedDeserializer java.lang.Object _deserialize(com.fasterxml.jackson.core.JsonParser, com.fasterxml.jackson.databind.DeserializationContext, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializer BeanDeserializer(com.fasterxml.jackson.databind.deser.BeanDeserializerBase, java.util.Set&lt;java.lang.String&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.ValueInstantiator java.lang.Object createFromBoolean(com.fasterxml.jackson.databind.DeserializationContext, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.DeserializerCache com.fasterxml.jackson.databind.JsonDeserializer&lt;java.lang.Object&gt; _createDeserializer(com.fasterxml.jackson.databind.DeserializationContext, com.fasterxml.jackson.databind.deser.DeserializerFactory, com.fasterxml.jackson.databind.JavaType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.DeserializerCache com.fasterxml.jackson.databind.JsonDeserializer&lt;?&gt; _createDeserializer2(com.fasterxml.jackson.databind.DeserializationContext, com.fasterxml.jackson.databind.deser.DeserializerFactory, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.BeanDescription) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.ValueInstantiator java.lang.Object createFromObjectWith(com.fasterxml.jackson.databind.DeserializationContext, java.lang.Object[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.DefaultDeserializationContext.Impl com.fasterxml.jackson.databind.deser.DefaultDeserializationContext with(com.fasterxml.jackson.databind.deser.DeserializerFactory)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BasicDeserializerFactory com.fasterxml.jackson.databind.util.EnumResolver constructEnumResolver(java.lang.Class&lt;?&gt;, com.fasterxml.jackson.databind.DeserializationConfig, com.fasterxml.jackson.databind.introspect.AnnotatedMethod) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BasicDeserializerFactory void _checkImplicitlyNamedConstructors(com.fasterxml.jackson.databind.DeserializationContext, com.fasterxml.jackson.databind.BeanDescription, com.fasterxml.jackson.databind.introspect.VisibilityChecker&lt;?&gt;, com.fasterxml.jackson.databind.AnnotationIntrospector, com.fasterxml.jackson.databind.deser.impl.CreatorCollector, java.util.List&lt;com.fasterxml.jackson.databind.introspect.AnnotatedConstructor&gt;) 5'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BasicDeserializerFactory com.fasterxml.jackson.databind.JsonDeserializer&lt;?&gt; createCollectionDeserializer(com.fasterxml.jackson.databind.DeserializationContext, com.fasterxml.jackson.databind.type.CollectionType, com.fasterxml.jackson.databind.BeanDescription) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializer BeanDeserializer(com.fasterxml.jackson.databind.deser.BeanDeserializerBase, com.fasterxml.jackson.databind.util.NameTransformer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializerBuilder void addBackReferenceProperty(java.lang.String, com.fasterxml.jackson.databind.deser.SettableBeanProperty) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.CreatorProperty void deserializeAndSet(com.fasterxml.jackson.core.JsonParser, com.fasterxml.jackson.databind.DeserializationContext, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializerBase java.lang.Object handleUnknownProperties(com.fasterxml.jackson.databind.DeserializationContext, java.lang.Object, com.fasterxml.jackson.databind.util.TokenBuffer) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializerBase java.lang.Object deserializeFromBoolean(com.fasterxml.jackson.core.JsonParser, com.fasterxml.jackson.databind.DeserializationContext) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BasicDeserializerFactory com.fasterxml.jackson.databind.JsonDeserializer&lt;java.lang.Object&gt; findDeserializerFromAnnotation(com.fasterxml.jackson.databind.DeserializationContext, com.fasterxml.jackson.databind.introspect.Annotated) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializer com.fasterxml.jackson.databind.deser.BeanDeserializerBase withBeanProperties(com.fasterxml.jackson.databind.deser.impl.BeanPropertyMap)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializer BeanDeserializer(com.fasterxml.jackson.databind.deser.BeanDeserializerBase, java.util.Set&lt;java.lang.String&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.ValueInstantiator java.lang.Class&lt;?&gt; getValueClass()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.DeserializerFactory com.fasterxml.jackson.databind.JsonDeserializer&lt;?&gt; createMapLikeDeserializer(com.fasterxml.jackson.databind.DeserializationContext, com.fasterxml.jackson.databind.type.MapLikeType, com.fasterxml.jackson.databind.BeanDescription) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.DeserializerCache com.fasterxml.jackson.databind.JsonDeserializer&lt;?&gt; _createDeserializer2(com.fasterxml.jackson.databind.DeserializationContext, com.fasterxml.jackson.databind.deser.DeserializerFactory, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.BeanDescription) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.DeserializerFactory com.fasterxml.jackson.databind.JsonDeserializer&lt;?&gt; createTreeDeserializer(com.fasterxml.jackson.databind.DeserializationConfig, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.BeanDescription) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BasicDeserializerFactory UNWRAPPED_CREATOR_PARAM_NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BasicDeserializerFactory com.fasterxml.jackson.databind.util.EnumResolver constructEnumResolver(java.lang.Class&lt;?&gt;, com.fasterxml.jackson.databind.DeserializationConfig, com.fasterxml.jackson.databind.introspect.AnnotatedMethod) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.AbstractDeserializer java.lang.Object deserializeWithType(com.fasterxml.jackson.core.JsonParser, com.fasterxml.jackson.databind.DeserializationContext, com.fasterxml.jackson.databind.jsontype.TypeDeserializer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.SettableBeanProperty MISSING_VALUE_DESERIALIZER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BuilderBasedDeserializer BuilderBasedDeserializer(com.fasterxml.jackson.databind.deser.BuilderBasedDeserializer, com.fasterxml.jackson.databind.deser.impl.ObjectIdReader) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.DataFormatReaders DataFormatReaders(java.util.Collection&lt;com.fasterxml.jackson.databind.ObjectReader&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.DataFormatReaders.AccessorForReader com.fasterxml.jackson.databind.deser.DataFormatReaders.Match createMatcher(com.fasterxml.jackson.databind.ObjectReader, com.fasterxml.jackson.core.format.MatchStrength)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BasicDeserializerFactory com.fasterxml.jackson.databind.JsonDeserializer&lt;?&gt; createTreeDeserializer(com.fasterxml.jackson.databind.DeserializationConfig, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.BeanDescription) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BasicDeserializerFactory com.fasterxml.jackson.databind.JsonDeserializer&lt;?&gt; createEnumDeserializer(com.fasterxml.jackson.databind.DeserializationContext, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.BeanDescription) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BuilderBasedDeserializer java.lang.Object deserializeWithUnwrapped(com.fasterxml.jackson.core.JsonParser, com.fasterxml.jackson.databind.DeserializationContext, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.DefaultDeserializationContext.Impl Impl(com.fasterxml.jackson.databind.deser.DefaultDeserializationContext.Impl, com.fasterxml.jackson.databind.deser.DeserializerFactory) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BuilderBasedDeserializer java.lang.Object deserialize(com.fasterxml.jackson.core.JsonParser, com.fasterxml.jackson.databind.DeserializationContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BuilderBasedDeserializer java.lang.Object deserializeFromObject(com.fasterxml.jackson.core.JsonParser, com.fasterxml.jackson.databind.DeserializationContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BasicDeserializerFactory com.fasterxml.jackson.databind.deser.SettableBeanProperty constructCreatorProperty(com.fasterxml.jackson.databind.DeserializationContext, com.fasterxml.jackson.databind.BeanDescription, com.fasterxml.jackson.databind.PropertyName, int, com.fasterxml.jackson.databind.introspect.AnnotatedParameter, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.CreatorProperty com.fasterxml.jackson.databind.deser.CreatorProperty withValueDeserializer(com.fasterxml.jackson.databind.JsonDeserializer&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.DataFormatReaders.Match java.io.InputStream getDataStream()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BasicDeserializerFactory com.fasterxml.jackson.databind.deser.ValueInstantiator _constructDefaultValueInstantiator(com.fasterxml.jackson.databind.DeserializationContext, com.fasterxml.jackson.databind.BeanDescription)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BuilderBasedDeserializer java.lang.Object deserialize(com.fasterxml.jackson.core.JsonParser, com.fasterxml.jackson.databind.DeserializationContext) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.ValueInstantiator java.lang.Object createFromString(com.fasterxml.jackson.databind.DeserializationContext, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BasicDeserializerFactory com.fasterxml.jackson.databind.deser.SettableBeanProperty constructCreatorProperty(com.fasterxml.jackson.databind.DeserializationContext, com.fasterxml.jackson.databind.BeanDescription, com.fasterxml.jackson.databind.PropertyName, int, com.fasterxml.jackson.databind.introspect.AnnotatedParameter, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.DeserializationProblemHandler java.lang.Object handleWeirdNumberValue(com.fasterxml.jackson.databind.DeserializationContext, java.lang.Class&lt;?&gt;, java.lang.Number, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializerBase java.lang.Object deserializeFromString(com.fasterxml.jackson.core.JsonParser, com.fasterxml.jackson.databind.DeserializationContext) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.DeserializerFactory com.fasterxml.jackson.databind.JsonDeserializer&lt;?&gt; createEnumDeserializer(com.fasterxml.jackson.databind.DeserializationContext, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.BeanDescription) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializerBase java.util.Collection&lt;java.lang.Object&gt; getKnownPropertyNames()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializer java.lang.Object deserializeWithUnwrapped(com.fasterxml.jackson.core.JsonParser, com.fasterxml.jackson.databind.DeserializationContext, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializerBuilder com.fasterxml.jackson.databind.deser.SettableBeanProperty removeProperty(com.fasterxml.jackson.databind.PropertyName) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.ValueInstantiator java.lang.Object createFromBoolean(com.fasterxml.jackson.databind.DeserializationContext, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializerFactory com.fasterxml.jackson.databind.JsonDeserializer&lt;java.lang.Object&gt; createBuilderBasedDeserializer(com.fasterxml.jackson.databind.DeserializationContext, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.BeanDescription, java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BasicDeserializerFactory com.fasterxml.jackson.databind.deser.ValueInstantiator _constructDefaultValueInstantiator(com.fasterxml.jackson.databind.DeserializationContext, com.fasterxml.jackson.databind.BeanDescription) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.AbstractDeserializer java.lang.Object deserialize(com.fasterxml.jackson.core.JsonParser, com.fasterxml.jackson.databind.DeserializationContext) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BasicDeserializerFactory com.fasterxml.jackson.databind.deser.DeserializerFactory withDeserializerModifier(com.fasterxml.jackson.databind.deser.BeanDeserializerModifier) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.ValueInstantiator java.lang.Object createFromString(com.fasterxml.jackson.databind.DeserializationContext, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializerBase java.lang.Object _convertObjectId(com.fasterxml.jackson.core.JsonParser, com.fasterxml.jackson.databind.DeserializationContext, java.lang.Object, com.fasterxml.jackson.databind.JsonDeserializer&lt;java.lang.Object&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializer com.fasterxml.jackson.databind.deser.BeanDeserializer withObjectIdReader(com.fasterxml.jackson.databind.deser.impl.ObjectIdReader)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.ValueInstantiators com.fasterxml.jackson.databind.deser.ValueInstantiator findValueInstantiator(com.fasterxml.jackson.databind.DeserializationConfig, com.fasterxml.jackson.databind.BeanDescription, com.fasterxml.jackson.databind.deser.ValueInstantiator) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializerBuilder void addOrReplaceProperty(com.fasterxml.jackson.databind.deser.SettableBeanProperty, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializerBuilder boolean hasProperty(com.fasterxml.jackson.databind.PropertyName) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializerBase com.fasterxml.jackson.databind.JsonDeserializer&lt;?&gt; createContextual(com.fasterxml.jackson.databind.DeserializationContext, com.fasterxml.jackson.databind.BeanProperty) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BasicDeserializerFactory com.fasterxml.jackson.databind.deser.ValueInstantiator _constructDefaultValueInstantiator(com.fasterxml.jackson.databind.DeserializationContext, com.fasterxml.jackson.databind.BeanDescription) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializerFactory com.fasterxml.jackson.databind.JsonDeserializer&lt;java.lang.Object&gt; createBeanDeserializer(com.fasterxml.jackson.databind.DeserializationContext, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.BeanDescription) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.AbstractDeserializer com.fasterxml.jackson.databind.deser.AbstractDeserializer constructForNonPOJO(com.fasterxml.jackson.databind.BeanDescription) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BasicDeserializerFactory com.fasterxml.jackson.databind.deser.DeserializerFactory withAdditionalDeserializers(com.fasterxml.jackson.databind.deser.Deserializers) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BasicDeserializerFactory com.fasterxml.jackson.databind.deser.DeserializerFactory withConfig(com.fasterxml.jackson.databind.cfg.DeserializerFactoryConfig)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.DeserializerCache com.fasterxml.jackson.databind.JsonDeserializer&lt;java.lang.Object&gt; _createAndCache2(com.fasterxml.jackson.databind.DeserializationContext, com.fasterxml.jackson.databind.deser.DeserializerFactory, com.fasterxml.jackson.databind.JavaType) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializer com.fasterxml.jackson.databind.deser.BeanDeserializerBase withIgnorableProperties(java.util.Set)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BuilderBasedDeserializer com.fasterxml.jackson.databind.deser.BeanDeserializerBase withIgnorableProperties(java.util.Set&lt;java.lang.String&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializerBase java.lang.Object wrapInstantiationProblem(java.lang.Throwable, com.fasterxml.jackson.databind.DeserializationContext) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.DeserializerFactory com.fasterxml.jackson.databind.deser.DeserializerFactory withAbstractTypeResolver(com.fasterxml.jackson.databind.AbstractTypeResolver) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BasicDeserializerFactory boolean _handleSingleArgumentFactory(com.fasterxml.jackson.databind.DeserializationConfig, com.fasterxml.jackson.databind.BeanDescription, com.fasterxml.jackson.databind.introspect.VisibilityChecker&lt;?&gt;, com.fasterxml.jackson.databind.AnnotationIntrospector, com.fasterxml.jackson.databind.deser.impl.CreatorCollector, com.fasterxml.jackson.databind.introspect.AnnotatedMethod, boolean) 5'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.CreatorProperty void inject(com.fasterxml.jackson.databind.DeserializationContext, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.SettableBeanProperty SettableBeanProperty(com.fasterxml.jackson.databind.deser.SettableBeanProperty, com.fasterxml.jackson.databind.PropertyName) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializerBase BeanDeserializerBase(com.fasterxml.jackson.databind.deser.BeanDeserializerBase, java.util.Set&lt;java.lang.String&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BuilderBasedDeserializer java.lang.Object _deserializeUsingPropertyBased(com.fasterxml.jackson.core.JsonParser, com.fasterxml.jackson.databind.DeserializationContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializerBase java.lang.Object _convertObjectId(com.fasterxml.jackson.core.JsonParser, com.fasterxml.jackson.databind.DeserializationContext, java.lang.Object, com.fasterxml.jackson.databind.JsonDeserializer&lt;java.lang.Object&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializerBase java.lang.Object _deserializeUsingPropertyBased(com.fasterxml.jackson.core.JsonParser, com.fasterxml.jackson.databind.DeserializationContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BasicDeserializerFactory com.fasterxml.jackson.databind.JavaType _findRemappedType(com.fasterxml.jackson.databind.DeserializationConfig, java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.CreatorProperty java.lang.Object findInjectableValue(com.fasterxml.jackson.databind.DeserializationContext, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializer com.fasterxml.jackson.databind.JsonDeserializer&lt;java.lang.Object&gt; unwrappingDeserializer(com.fasterxml.jackson.databind.util.NameTransformer)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializerBase TEMP_PROPERTY_NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializerBase java.lang.Object deserializeFromDouble(com.fasterxml.jackson.core.JsonParser, com.fasterxml.jackson.databind.DeserializationContext)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.ValueInstantiator java.lang.Object createFromObjectWith(com.fasterxml.jackson.databind.DeserializationContext, com.fasterxml.jackson.databind.deser.SettableBeanProperty[], com.fasterxml.jackson.databind.deser.impl.PropertyValueBuffer)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializerBase void replaceProperty(com.fasterxml.jackson.databind.deser.SettableBeanProperty, com.fasterxml.jackson.databind.deser.SettableBeanProperty) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.AbstractDeserializer com.fasterxml.jackson.databind.deser.AbstractDeserializer constructForNonPOJO(com.fasterxml.jackson.databind.BeanDescription)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.DeserializerFactory com.fasterxml.jackson.databind.JsonDeserializer&lt;?&gt; createEnumDeserializer(com.fasterxml.jackson.databind.DeserializationContext, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.BeanDescription) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.ValueInstantiator java.lang.Object createFromObjectWith(com.fasterxml.jackson.databind.DeserializationContext, com.fasterxml.jackson.databind.deser.SettableBeanProperty[], com.fasterxml.jackson.databind.deser.impl.PropertyValueBuffer) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BasicDeserializerFactory com.fasterxml.jackson.databind.jsontype.TypeDeserializer findTypeDeserializer(com.fasterxml.jackson.databind.DeserializationConfig, com.fasterxml.jackson.databind.JavaType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BasicDeserializerFactory com.fasterxml.jackson.databind.jsontype.TypeDeserializer findPropertyTypeDeserializer(com.fasterxml.jackson.databind.DeserializationConfig, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.introspect.AnnotatedMember) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializer java.lang.Object deserializeWithView(com.fasterxml.jackson.core.JsonParser, com.fasterxml.jackson.databind.DeserializationContext, java.lang.Object, java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BasicDeserializerFactory com.fasterxml.jackson.databind.JavaType resolveType(com.fasterxml.jackson.databind.DeserializationContext, com.fasterxml.jackson.databind.BeanDescription, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.introspect.AnnotatedMember) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BasicDeserializerFactory com.fasterxml.jackson.databind.jsontype.TypeDeserializer findTypeDeserializer(com.fasterxml.jackson.databind.DeserializationConfig, com.fasterxml.jackson.databind.JavaType) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializerBase com.fasterxml.jackson.databind.deser.SettableBeanProperty _resolveUnwrappedProperty(com.fasterxml.jackson.databind.DeserializationContext, com.fasterxml.jackson.databind.deser.SettableBeanProperty) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializerBuilder BeanDeserializerBuilder(com.fasterxml.jackson.databind.deser.BeanDeserializerBuilder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializerBase com.fasterxml.jackson.databind.deser.SettableBeanProperty _resolveInnerClassValuedProperty(com.fasterxml.jackson.databind.DeserializationContext, com.fasterxml.jackson.databind.deser.SettableBeanProperty) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.AbstractDeserializer java.lang.Object deserialize(com.fasterxml.jackson.core.JsonParser, com.fasterxml.jackson.databind.DeserializationContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BasicDeserializerFactory com.fasterxml.jackson.databind.deser.ValueInstantiator findValueInstantiator(com.fasterxml.jackson.databind.DeserializationContext, com.fasterxml.jackson.databind.BeanDescription) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializerBase void resolve(com.fasterxml.jackson.databind.DeserializationContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.DeserializerCache com.fasterxml.jackson.databind.JsonDeserializer&lt;java.lang.Object&gt; _createAndCache2(com.fasterxml.jackson.databind.DeserializationContext, com.fasterxml.jackson.databind.deser.DeserializerFactory, com.fasterxml.jackson.databind.JavaType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.DeserializerFactory com.fasterxml.jackson.databind.jsontype.TypeDeserializer findTypeDeserializer(com.fasterxml.jackson.databind.DeserializationConfig, com.fasterxml.jackson.databind.JavaType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializerBase BeanDeserializerBase(com.fasterxml.jackson.databind.deser.BeanDeserializerBase) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializer java.lang.Object deserializeUsingPropertyBasedWithExternalTypeId(com.fasterxml.jackson.core.JsonParser, com.fasterxml.jackson.databind.DeserializationContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.SettableBeanProperty SettableBeanProperty(com.fasterxml.jackson.databind.deser.SettableBeanProperty) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializerBase com.fasterxml.jackson.databind.deser.SettableBeanProperty _resolveManagedReferenceProperty(com.fasterxml.jackson.databind.DeserializationContext, com.fasterxml.jackson.databind.deser.SettableBeanProperty) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializer java.lang.Object deserializeFromObject(com.fasterxml.jackson.core.JsonParser, com.fasterxml.jackson.databind.DeserializationContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializerBuilder void addProperty(com.fasterxml.jackson.databind.deser.SettableBeanProperty) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.SettableBeanProperty com.fasterxml.jackson.databind.deser.SettableBeanProperty withName(com.fasterxml.jackson.databind.PropertyName)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.SettableBeanProperty com.fasterxml.jackson.databind.deser.SettableBeanProperty withValueDeserializer(com.fasterxml.jackson.databind.JsonDeserializer&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializer BeanDeserializer(com.fasterxml.jackson.databind.deser.BeanDeserializerBase, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.DefaultDeserializationContext DefaultDeserializationContext(com.fasterxml.jackson.databind.deser.DefaultDeserializationContext, com.fasterxml.jackson.databind.deser.DeserializerFactory) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.DataFormatReaders com.fasterxml.jackson.databind.deser.DataFormatReaders withType(com.fasterxml.jackson.databind.JavaType)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.DeserializerFactory com.fasterxml.jackson.databind.jsontype.TypeDeserializer findTypeDeserializer(com.fasterxml.jackson.databind.DeserializationConfig, com.fasterxml.jackson.databind.JavaType) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BasicDeserializerFactory com.fasterxml.jackson.databind.deser.ValueInstantiator findValueInstantiator(com.fasterxml.jackson.databind.DeserializationContext, com.fasterxml.jackson.databind.BeanDescription) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BasicDeserializerFactory com.fasterxml.jackson.databind.JsonDeserializer&lt;?&gt; createTreeDeserializer(com.fasterxml.jackson.databind.DeserializationConfig, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.BeanDescription)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializerBase com.fasterxml.jackson.databind.deser.BeanDeserializerBase withBeanProperties(com.fasterxml.jackson.databind.deser.impl.BeanPropertyMap)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializerBase BeanDeserializerBase(com.fasterxml.jackson.databind.deser.BeanDeserializerBase, java.util.Set&lt;java.lang.String&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.DefaultDeserializationContext boolean tryToResolveUnresolvedObjectId(com.fasterxml.jackson.databind.deser.impl.ReadableObjectId) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BeanDeserializer java.lang.Object deserializeFromObject(com.fasterxml.jackson.core.JsonParser, com.fasterxml.jackson.databind.DeserializationContext) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.DeserializerFactory com.fasterxml.jackson.databind.deser.DeserializerFactory withValueInstantiators(com.fasterxml.jackson.databind.deser.ValueInstantiators) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.DeserializerCache com.fasterxml.jackson.databind.KeyDeserializer _handleUnknownKeyDeserializer(com.fasterxml.jackson.databind.DeserializationContext, com.fasterxml.jackson.databind.JavaType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.DeserializerCache _incompleteDeserializers'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BasicDeserializerFactory com.fasterxml.jackson.databind.JsonDeserializer&lt;?&gt; createEnumDeserializer(com.fasterxml.jackson.databind.DeserializationContext, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.BeanDescription) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.DeserializerFactory com.fasterxml.jackson.databind.deser.ValueInstantiator findValueInstantiator(com.fasterxml.jackson.databind.DeserializationContext, com.fasterxml.jackson.databind.BeanDescription)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.deser.BuilderBasedDeserializer java.lang.Object deserializeFromObject(com.fasterxml.jackson.core.JsonParser, com.fasterxml.jackson.databind.DeserializationContext) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+</root>

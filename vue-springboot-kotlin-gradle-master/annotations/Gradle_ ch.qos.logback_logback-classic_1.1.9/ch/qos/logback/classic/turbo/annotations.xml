@@ -1,0 +1,5 @@
+<root>
+    <item name='ch.qos.logback.classic.turbo.DynamicThresholdFilter void addMDCValueLevelPair(ch.qos.logback.classic.turbo.MDCValueLevelPair) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

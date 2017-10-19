@@ -1,0 +1,35 @@
+<root>
+    <item name='com.fasterxml.classmate.members.ResolvedField int compareTo(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.classmate.members.ResolvedMember void applyOverride(java.lang.annotation.Annotation) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.classmate.members.RawMethod com.fasterxml.classmate.util.MethodKey createKey()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.classmate.members.ResolvedField int compareTo(com.fasterxml.classmate.members.ResolvedField) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.classmate.members.ResolvedMethod int compareTo(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.classmate.members.ResolvedMember void applyDefault(java.lang.annotation.Annotation) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.classmate.members.RawConstructor com.fasterxml.classmate.util.MethodKey createKey()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.classmate.members.ResolvedMethod int compareTo(com.fasterxml.classmate.members.ResolvedMethod) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.classmate.members.ResolvedMember void applyOverrides(com.fasterxml.classmate.Annotations) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.classmate.members.ResolvedParameterizedMember _paramAnnotations'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.classmate.members.ResolvedParameterizedMember _paramTypes'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

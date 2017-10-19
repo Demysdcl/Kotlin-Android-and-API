@@ -1,0 +1,26 @@
+<root>
+    <item name='com.fasterxml.jackson.databind.exc.InvalidTypeIdException com.fasterxml.jackson.databind.exc.InvalidTypeIdException from(com.fasterxml.jackson.core.JsonParser, java.lang.String, com.fasterxml.jackson.databind.JavaType, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.exc.IgnoredPropertyException com.fasterxml.jackson.databind.exc.IgnoredPropertyException from(com.fasterxml.jackson.core.JsonParser, java.lang.Object, java.lang.String, java.util.Collection&lt;java.lang.Object&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.exc.UnrecognizedPropertyException com.fasterxml.jackson.databind.exc.UnrecognizedPropertyException from(com.fasterxml.jackson.core.JsonParser, java.lang.Object, java.lang.String, java.util.Collection&lt;java.lang.Object&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.exc.InvalidFormatException com.fasterxml.jackson.databind.exc.InvalidFormatException from(com.fasterxml.jackson.core.JsonParser, java.lang.String, java.lang.Object, java.lang.Class&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.exc.UnrecognizedPropertyException com.fasterxml.jackson.databind.exc.UnrecognizedPropertyException from(com.fasterxml.jackson.core.JsonParser, java.lang.Object, java.lang.String, java.util.Collection&lt;java.lang.Object&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.exc.IgnoredPropertyException com.fasterxml.jackson.databind.exc.IgnoredPropertyException from(com.fasterxml.jackson.core.JsonParser, java.lang.Object, java.lang.String, java.util.Collection&lt;java.lang.Object&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.exc.IgnoredPropertyException com.fasterxml.jackson.databind.exc.IgnoredPropertyException from(com.fasterxml.jackson.core.JsonParser, java.lang.Object, java.lang.String, java.util.Collection&lt;java.lang.Object&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.exc.UnrecognizedPropertyException com.fasterxml.jackson.databind.exc.UnrecognizedPropertyException from(com.fasterxml.jackson.core.JsonParser, java.lang.Object, java.lang.String, java.util.Collection&lt;java.lang.Object&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

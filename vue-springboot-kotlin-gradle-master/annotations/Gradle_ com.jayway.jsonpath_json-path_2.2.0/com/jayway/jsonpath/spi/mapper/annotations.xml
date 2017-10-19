@@ -1,0 +1,35 @@
+<root>
+    <item name='com.jayway.jsonpath.spi.mapper.TapestryMappingProvider T map(java.lang.Object, com.jayway.jsonpath.TypeRef&lt;T&gt;, com.jayway.jsonpath.Configuration) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.jayway.jsonpath.spi.mapper.GsonMappingProvider T map(java.lang.Object, com.jayway.jsonpath.TypeRef&lt;T&gt;, com.jayway.jsonpath.Configuration) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.spi.mapper.JacksonMappingProvider T map(java.lang.Object, com.jayway.jsonpath.TypeRef&lt;T&gt;, com.jayway.jsonpath.Configuration) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.jayway.jsonpath.spi.mapper.JsonOrgMappingProvider T map(java.lang.Object, com.jayway.jsonpath.TypeRef&lt;T&gt;, com.jayway.jsonpath.Configuration) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.jayway.jsonpath.spi.mapper.MappingProvider T map(java.lang.Object, com.jayway.jsonpath.TypeRef&lt;T&gt;, com.jayway.jsonpath.Configuration) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.jayway.jsonpath.spi.mapper.JsonSmartMappingProvider T map(java.lang.Object, com.jayway.jsonpath.TypeRef&lt;T&gt;, com.jayway.jsonpath.Configuration) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+</root>

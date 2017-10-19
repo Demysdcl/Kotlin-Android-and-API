@@ -1,0 +1,11 @@
+<root>
+    <item name='ch.qos.logback.classic.log4j.XMLLayout java.lang.String doLayout(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.log4j.XMLLayout java.lang.String getContentType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.log4j.XMLLayout java.lang.String doLayout(ch.qos.logback.classic.spi.ILoggingEvent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

@@ -1,0 +1,194 @@
+<root>
+    <item name='ch.qos.logback.core.util.LocationUtil SCHEME_PATTERN'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.util.Loader java.lang.ClassLoader getClassLoaderOfObject(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.util.Duration ch.qos.logback.core.util.Duration buildUnbounded()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.util.Duration ch.qos.logback.core.util.Duration valueOf(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.util.OptionHelper java.lang.Object instantiateByClassName(java.lang.String, java.lang.Class&lt;?&gt;, ch.qos.logback.core.Context) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.util.OptionHelper java.lang.String[] extractDefaultReplacement(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.util.StatusPrinter void buildStr(java.lang.StringBuilder, java.lang.String, ch.qos.logback.core.status.Status) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.util.ExecutorServiceUtil java.util.concurrent.ExecutorService newExecutorService()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.util.ContextUtil void addGroovyPackages(java.util.List&lt;java.lang.String&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.util.ExecutorServiceUtil java.util.concurrent.ScheduledExecutorService newScheduledExecutorService()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.util.StringCollectionUtil void removeMatching(java.util.Collection&lt;java.lang.String&gt;, java.util.Collection&lt;java.lang.String&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.util.StatusPrinter void printInCaseOfErrorsOrWarnings(ch.qos.logback.core.Context) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.util.OptionHelper java.lang.Object instantiateByClassName(java.lang.String, java.lang.Class&lt;?&gt;, java.lang.ClassLoader) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.util.OptionHelper java.lang.Object instantiateByClassNameAndParameter(java.lang.String, java.lang.Class&lt;?&gt;, java.lang.ClassLoader, java.lang.Class&lt;?&gt;, java.lang.Object) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.util.AggregationType AS_COMPLEX_PROPERTY_COLLECTION'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.util.Duration ch.qos.logback.core.util.Duration buildByHours(double)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.util.Loader java.util.Set&lt;java.net.URL&gt; getResources(java.lang.String, java.lang.ClassLoader) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.util.StatusListenerConfigHelper void addOnConsoleListenerInstance(ch.qos.logback.core.Context, ch.qos.logback.core.status.OnConsoleStatusListener) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.util.StatusPrinter void print(ch.qos.logback.core.status.StatusManager) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.util.OptionHelper java.lang.Object instantiateByClassName(java.lang.String, java.lang.Class&lt;?&gt;, ch.qos.logback.core.Context) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.util.AggregationType AS_BASIC_PROPERTY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.util.AggregationType NOT_FOUND'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.util.OptionHelper java.lang.Object instantiateByClassNameAndParameter(java.lang.String, java.lang.Class&lt;?&gt;, ch.qos.logback.core.Context, java.lang.Class&lt;?&gt;, java.lang.Object) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.util.StringCollectionUtil void retainMatching(java.util.Collection&lt;java.lang.String&gt;, java.util.Collection&lt;java.lang.String&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.util.Duration ch.qos.logback.core.util.Duration buildByDays(double)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.util.ExecutorServiceUtil void shutdown(java.util.concurrent.ExecutorService) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.util.StringCollectionUtil void removeMatching(java.util.Collection&lt;java.lang.String&gt;, java.util.Collection&lt;java.lang.String&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.util.FileSize ch.qos.logback.core.util.FileSize valueOf(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.util.Duration ch.qos.logback.core.util.Duration buildByMilliseconds(double)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.util.AggregationType AS_BASIC_PROPERTY_COLLECTION'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.util.FileUtil java.lang.String resourceAsString(java.lang.ClassLoader, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.util.OptionHelper java.lang.Object instantiateByClassNameAndParameter(java.lang.String, java.lang.Class&lt;?&gt;, java.lang.ClassLoader, java.lang.Class&lt;?&gt;, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.util.StatusPrinter void printInCaseOfErrorsOrWarnings(ch.qos.logback.core.Context, long) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.util.StatusListenerConfigHelper void addOnConsoleListenerInstance(ch.qos.logback.core.Context, ch.qos.logback.core.status.OnConsoleStatusListener) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.util.OptionHelper java.lang.Object instantiateByClassNameAndParameter(java.lang.String, java.lang.Class&lt;?&gt;, ch.qos.logback.core.Context, java.lang.Class&lt;?&gt;, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.util.OptionHelper java.lang.String substVars(java.lang.String, ch.qos.logback.core.spi.PropertyContainer, ch.qos.logback.core.spi.PropertyContainer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.util.LocationUtil java.net.URL urlForResource(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.util.StatusPrinter void buildStr(java.lang.StringBuilder, java.lang.String, ch.qos.logback.core.status.Status) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.util.OptionHelper void setSystemProperties(ch.qos.logback.core.spi.ContextAware, java.util.Properties) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.util.OptionHelper java.lang.String substVars(java.lang.String, ch.qos.logback.core.spi.PropertyContainer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.util.Loader java.util.Set&lt;java.net.URL&gt; getResources(java.lang.String, java.lang.ClassLoader)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.util.OptionHelper java.lang.String propertyLookup(java.lang.String, ch.qos.logback.core.spi.PropertyContainer, ch.qos.logback.core.spi.PropertyContainer) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.util.Loader java.lang.Class&lt;?&gt; loadClass(java.lang.String, ch.qos.logback.core.Context) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.util.StatusPrinter void printIfErrorsOccured(ch.qos.logback.core.Context) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.util.ContextUtil void addFrameworkPackage(java.util.List&lt;java.lang.String&gt;, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.util.FileUtil java.net.URL fileToURL(java.io.File) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.util.StatusPrinter void print(ch.qos.logback.core.Context, long) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.util.Loader IGNORE_TCL_PROPERTY_NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.util.OptionHelper java.lang.Object instantiateByClassName(java.lang.String, java.lang.Class&lt;?&gt;, java.lang.ClassLoader) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.util.OptionHelper java.lang.Object instantiateByClassNameAndParameter(java.lang.String, java.lang.Class&lt;?&gt;, java.lang.ClassLoader, java.lang.Class&lt;?&gt;, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.util.FileUtil boolean createMissingParentDirectories(java.io.File) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.util.OptionHelper java.lang.Object instantiateByClassName(java.lang.String, java.lang.Class&lt;?&gt;, ch.qos.logback.core.Context) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.util.DatePatternToRegexUtil DatePatternToRegexUtil(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.util.OptionHelper java.lang.Object instantiateByClassNameAndParameter(java.lang.String, java.lang.Class&lt;?&gt;, ch.qos.logback.core.Context, java.lang.Class&lt;?&gt;, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.util.LocationUtil java.net.URL urlForResource(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.util.StringCollectionUtil void removeMatching(java.util.Collection&lt;java.lang.String&gt;, java.lang.String...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.util.StatusPrinter void print(ch.qos.logback.core.Context) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.util.Duration ch.qos.logback.core.util.Duration buildBySeconds(double)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.util.LocationUtil CLASSPATH_SCHEME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.util.Duration ch.qos.logback.core.util.Duration buildByMinutes(double)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.util.AggregationType AS_COMPLEX_PROPERTY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.util.StatusPrinter void print(ch.qos.logback.core.status.StatusManager, long) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.util.Loader java.lang.ClassLoader getClassLoaderOfClass(java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.util.OptionHelper java.lang.Object instantiateByClassName(java.lang.String, java.lang.Class&lt;?&gt;, java.lang.ClassLoader) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

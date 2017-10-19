@@ -1,0 +1,89 @@
+<root>
+    <item name='ch.qos.logback.core.db.dialect.SQLDialectCode HSQL_DIALECT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.db.dialect.DBUtil ch.qos.logback.core.db.dialect.SQLDialectCode discoverSQLDialect(java.sql.DatabaseMetaData)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.db.dialect.SQLDialectCode SQLITE_DIALECT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.db.dialect.SQLDialectCode UNKNOWN_DIALECT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.db.dialect.HSQLDBDialect java.lang.String getSelectInsertId()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.db.dialect.SQLDialectCode SYBASE_SQLANYWHERE_DIALECT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.db.dialect.OracleDialect java.lang.String getSelectInsertId()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.db.dialect.SQLDialectCode MYSQL_DIALECT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.db.dialect.PostgreSQLDialect SELECT_CURRVAL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.db.dialect.SQLDialectCode POSTGRES_DIALECT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.db.dialect.SybaseSqlAnywhereDialect java.lang.String getSelectInsertId()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.db.dialect.SQLDialectCode ORACLE_DIALECT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.db.dialect.MySQLDialect java.lang.String getSelectInsertId()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.db.dialect.SQLDialectCode MSSQL_DIALECT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.db.dialect.SQLDialect java.lang.String getSelectInsertId()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='ch.qos.logback.core.db.dialect.DBUtil ch.qos.logback.core.db.dialect.SQLDialect getDialectFromCode(ch.qos.logback.core.db.dialect.SQLDialectCode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.db.dialect.HSQLDBDialect SELECT_CURRVAL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.db.dialect.SybaseSqlAnywhereDialect SELECT_CURRVAL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.db.dialect.MySQLDialect SELECT_LAST_INSERT_ID'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.db.dialect.SQLiteDialect java.lang.String getSelectInsertId()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.db.dialect.SQLDialectCode H2_DIALECT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.db.dialect.MsSQLDialect SELECT_CURRVAL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.db.dialect.H2Dialect java.lang.String getSelectInsertId()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.db.dialect.MsSQLDialect java.lang.String getSelectInsertId()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.db.dialect.H2Dialect SELECT_CURRVAL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.db.dialect.OracleDialect SELECT_CURRVAL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.db.dialect.PostgreSQLDialect java.lang.String getSelectInsertId()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.db.dialect.SQLiteDialect SELECT_CURRVAL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

@@ -1,0 +1,25 @@
+# Gradle files
+.gradle/
+build/
+/*/build/
+
+# Intellij project files
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Mac system files
+.DS_Store
+
+sbk-manager-backend/src/main/resources/static
+
+!sbk-manager-frontend/build
+
+dist/
+node_modules/
+npm-debug.log
+yarn-error.log
+test/unit/coverage
+test/e2e/reports
+selenium-debug.log

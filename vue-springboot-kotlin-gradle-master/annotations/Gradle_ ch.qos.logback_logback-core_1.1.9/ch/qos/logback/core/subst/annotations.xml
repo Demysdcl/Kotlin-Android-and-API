@@ -1,0 +1,35 @@
+<root>
+    <item name='ch.qos.logback.core.subst.Tokenizer Tokenizer(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.subst.Token.Type DEFAULT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.subst.Token START_TOKEN'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.subst.Token.Type LITERAL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.subst.NodeToStringTransformer java.lang.String substituteVariable(java.lang.String, ch.qos.logback.core.spi.PropertyContainer, ch.qos.logback.core.spi.PropertyContainer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.subst.Token.Type CURLY_RIGHT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.subst.Token DEFAULT_SEP_TOKEN'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.subst.Token CURLY_LEFT_TOKEN'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.subst.Token.Type START'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.subst.Token CURLY_RIGHT_TOKEN'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.subst.Token.Type CURLY_LEFT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

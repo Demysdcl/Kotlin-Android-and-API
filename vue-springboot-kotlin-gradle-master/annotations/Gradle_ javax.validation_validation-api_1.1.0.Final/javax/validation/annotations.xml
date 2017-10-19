@@ -1,0 +1,38 @@
+<root>
+    <item name='javax.validation.ConstraintTarget PARAMETERS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='javax.validation.ElementKind BEAN'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='javax.validation.ElementKind CONSTRUCTOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='javax.validation.ElementKind METHOD'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='javax.validation.ElementKind PROPERTY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='javax.validation.ElementKind CROSS_PARAMETER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='javax.validation.Validation javax.validation.bootstrap.GenericBootstrap byDefaultProvider()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='javax.validation.Validation javax.validation.bootstrap.ProviderSpecificBootstrap&lt;T&gt; byProvider(java.lang.Class&lt;U&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='javax.validation.ConstraintTarget RETURN_VALUE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='javax.validation.ConstraintTarget IMPLICIT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='javax.validation.ElementKind RETURN_VALUE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='javax.validation.ElementKind PARAMETER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

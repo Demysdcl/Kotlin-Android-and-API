@@ -1,0 +1,122 @@
+<root>
+    <item name='ch.qos.logback.core.rolling.helper.FileStoreUtil boolean areOnSameFileStore(java.io.File, java.io.File) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.rolling.helper.SizeAndTimeBasedArchiveRemover SizeAndTimeBasedArchiveRemover(ch.qos.logback.core.rolling.helper.FileNamePattern, ch.qos.logback.core.rolling.helper.RollingCalendar) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.rolling.helper.FileFilterUtil java.lang.String slashify(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.rolling.helper.DateTokenConverter AUXILIARY_TOKEN'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.rolling.helper.PeriodicityType TOP_OF_MONTH'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.rolling.helper.FileNamePattern FileNamePattern(java.lang.String, ch.qos.logback.core.Context) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.rolling.helper.DateTokenConverter DEFAULT_DATE_PATTERN'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.rolling.helper.FileFilterUtil boolean isEmptyDirectory(java.io.File) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.rolling.helper.DateTokenConverter java.lang.String convert(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.rolling.helper.ArchiveRemover void clean(java.util.Date) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='ch.qos.logback.core.rolling.helper.RollingCalendar void printPeriodicity(ch.qos.logback.core.spi.ContextAwareBase) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.rolling.helper.PeriodicityType HALF_DAY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.rolling.helper.TimeBasedArchiveRemover TimeBasedArchiveRemover(ch.qos.logback.core.rolling.helper.FileNamePattern, ch.qos.logback.core.rolling.helper.RollingCalendar) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.rolling.helper.FileFilterUtil int extractCounter(java.io.File, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.rolling.helper.RenameUtil java.lang.String toString()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.rolling.helper.Compressor java.lang.String computeFileNameStrWithoutCompSuffix(java.lang.String, ch.qos.logback.core.rolling.helper.CompressionMode) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.rolling.helper.PeriodicityType TOP_OF_SECOND'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.rolling.helper.PeriodicityType TOP_OF_MILLISECOND'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.rolling.helper.RollingCalendar ch.qos.logback.core.rolling.helper.PeriodicityType computePeriodicityType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.rolling.helper.TimeBasedArchiveRemover java.io.File[] getFilesInPeriod(java.util.Date)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.rolling.helper.TimeBasedArchiveRemover void clean(java.util.Date) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.rolling.helper.FileStoreUtil boolean areOnSameFileStore(java.io.File, java.io.File) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.rolling.helper.TimeBasedArchiveRemover java.lang.String toString()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.rolling.helper.IntegerTokenConverter CONVERTER_KEY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.rolling.helper.FileFilterUtil java.lang.String afterLastSlash(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.rolling.helper.PeriodicityType TOP_OF_HOUR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.rolling.helper.FileFilterUtil int findHighestCounter(java.io.File[], java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.rolling.helper.RenameUtil void rename(java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.rolling.helper.PeriodicityType ERRONEOUS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.rolling.helper.CompressionMode GZ'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.rolling.helper.PeriodicityType TOP_OF_DAY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.rolling.helper.DateTokenConverter CONVERTER_KEY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.rolling.helper.CompressionMode ZIP'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.rolling.helper.DateTokenConverter java.lang.String convert(java.util.Date) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.rolling.helper.Compressor java.lang.String computeFileNameStrWithoutCompSuffix(java.lang.String, ch.qos.logback.core.rolling.helper.CompressionMode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.rolling.helper.PeriodicityType TOP_OF_MINUTE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.rolling.helper.CompressionMode NONE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.rolling.helper.PeriodicityType TOP_OF_WEEK'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.rolling.helper.IntegerTokenConverter java.lang.String convert(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

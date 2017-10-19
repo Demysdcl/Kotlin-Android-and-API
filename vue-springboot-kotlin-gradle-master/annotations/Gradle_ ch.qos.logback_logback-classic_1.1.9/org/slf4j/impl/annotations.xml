@@ -1,0 +1,14 @@
+<root>
+    <item name='org.slf4j.impl.StaticMarkerBinder SINGLETON'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.slf4j.impl.StaticMDCBinder SINGLETON'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.slf4j.impl.StaticMarkerBinder org.slf4j.IMarkerFactory getMarkerFactory()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='org.slf4j.impl.StaticMDCBinder org.slf4j.spi.MDCAdapter getMDCA()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

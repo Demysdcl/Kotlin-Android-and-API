@@ -1,0 +1,269 @@
+<root>
+    <item name='com.fasterxml.classmate.TypeResolver _resolvedTypes'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.classmate.ResolvedTypeWithMembers com.fasterxml.classmate.members.ResolvedConstructor resolveConstructor(com.fasterxml.classmate.members.RawConstructor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.classmate.AnnotationInclusion DONT_INCLUDE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.classmate.ResolvedType NO_FIELDS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.classmate.ResolvedType java.lang.StringBuilder _appendErasedClassSignature(java.lang.StringBuilder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.classmate.AnnotationOverrides.StdBuilder com.fasterxml.classmate.AnnotationOverrides.StdBuilder add(java.lang.Class&lt;?&gt;, java.lang.Class&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.classmate.TypeResolver com.fasterxml.classmate.ResolvedType resolve(java.lang.reflect.Type, java.lang.reflect.Type...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.classmate.MemberResolver com.fasterxml.classmate.MemberResolver setConstructorFilter(com.fasterxml.classmate.Filter&lt;com.fasterxml.classmate.members.RawConstructor&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.classmate.ResolvedTypeWithMembers boolean parameterCanInherit(java.lang.annotation.Annotation) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.classmate.TypeResolver com.fasterxml.classmate.types.ResolvedArrayType arrayType(java.lang.reflect.Type) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.classmate.ResolvedTypeWithMembers com.fasterxml.classmate.members.ResolvedConstructor resolveConstructor(com.fasterxml.classmate.members.RawConstructor)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.classmate.AnnotationConfiguration.StdConfiguration _inclusions'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.classmate.AnnotationOverrides.StdBuilder com.fasterxml.classmate.AnnotationOverrides.StdBuilder add(java.lang.Class&lt;?&gt;, java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.classmate.AnnotationOverrides.StdBuilder com.fasterxml.classmate.AnnotationOverrides build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.classmate.ResolvedType NO_METHODS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.classmate.ResolvedType boolean isInstanceOf(java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.classmate.AnnotationOverrides.StdBuilder _targetsToOverrides'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.classmate.ResolvedType java.lang.StringBuilder appendSignature(java.lang.StringBuilder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.classmate.ResolvedType com.fasterxml.classmate.TypeBindings getTypeBindings()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.classmate.AnnotationConfiguration.StdConfiguration com.fasterxml.classmate.AnnotationInclusion getInclusionForConstructor(java.lang.Class&lt;? extends java.lang.annotation.Annotation&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.classmate.ResolvedTypeWithMembers boolean methodCanInherit(java.lang.annotation.Annotation) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.classmate.Annotations void addAsDefault(java.lang.annotation.Annotation) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.classmate.ResolvedType java.lang.StringBuilder _appendClassDescription(java.lang.StringBuilder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.classmate.TypeResolver com.fasterxml.classmate.types.ResolvedArrayType arrayType(java.lang.reflect.Type)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.classmate.MemberResolver com.fasterxml.classmate.MemberResolver setFieldFilter(com.fasterxml.classmate.Filter&lt;com.fasterxml.classmate.members.RawField&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.classmate.ResolvedType java.lang.StringBuilder appendFullDescription(java.lang.StringBuilder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.classmate.MemberResolver com.fasterxml.classmate.MemberResolver setIncludeLangObject(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.classmate.AnnotationOverrides com.fasterxml.classmate.AnnotationOverrides.StdBuilder builder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.classmate.Annotations void addAll(com.fasterxml.classmate.Annotations) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.classmate.AnnotationConfiguration.StdConfiguration com.fasterxml.classmate.AnnotationInclusion _inclusionFor(java.lang.Class&lt;? extends java.lang.annotation.Annotation&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.classmate.ResolvedType java.lang.StringBuilder appendBriefDescription(java.lang.StringBuilder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.classmate.MemberResolver com.fasterxml.classmate.MemberResolver setMethodFilter(com.fasterxml.classmate.Filter&lt;com.fasterxml.classmate.members.RawMethod&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.classmate.ResolvedTypeWithMembers DEFAULT_ANNOTATION_CONFIG'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.classmate.TypeBindings com.fasterxml.classmate.TypeBindings create(java.lang.Class&lt;?&gt;, java.util.List&lt;com.fasterxml.classmate.ResolvedType&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.classmate.TypeBindings com.fasterxml.classmate.TypeBindings withUnboundVariable(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.classmate.AnnotationOverrides java.util.List&lt;java.lang.Class&lt;?&gt;&gt; mixInsFor(java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.classmate.AnnotationConfiguration com.fasterxml.classmate.AnnotationInclusion getInclusionForMethod(java.lang.Class&lt;? extends java.lang.annotation.Annotation&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.classmate.AnnotationInclusion INCLUDE_AND_INHERIT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.classmate.AnnotationConfiguration.StdConfiguration com.fasterxml.classmate.AnnotationInclusion getInclusionForParameter(java.lang.Class&lt;? extends java.lang.annotation.Annotation&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.classmate.TypeResolver _primitiveTypes'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.classmate.AnnotationConfiguration.StdConfiguration void setInclusion(java.lang.Class&lt;? extends java.lang.annotation.Annotation&gt;, com.fasterxml.classmate.AnnotationInclusion) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.classmate.AnnotationInclusion INCLUDE_AND_INHERIT_IF_INHERITED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.classmate.AnnotationConfiguration.StdConfiguration com.fasterxml.classmate.AnnotationInclusion getInclusionForClass(java.lang.Class&lt;? extends java.lang.annotation.Annotation&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.classmate.AnnotationConfiguration.StdConfiguration com.fasterxml.classmate.AnnotationInclusion getInclusionForField(java.lang.Class&lt;? extends java.lang.annotation.Annotation&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.classmate.TypeResolver com.fasterxml.classmate.ResolvedType resolve(com.fasterxml.classmate.TypeBindings, java.lang.reflect.Type) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.classmate.AnnotationOverrides.StdBuilder com.fasterxml.classmate.AnnotationOverrides.StdBuilder add(com.fasterxml.classmate.util.ClassKey, java.lang.Class&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.classmate.ResolvedTypeWithMembers com.fasterxml.classmate.members.ResolvedField resolveField(com.fasterxml.classmate.members.RawField)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.classmate.AnnotationOverrides.StdImpl _targetsToOverrides'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.classmate.ResolvedTypeWithMembers com.fasterxml.classmate.members.ResolvedMethod resolveMethod(com.fasterxml.classmate.members.RawMethod)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.classmate.AnnotationConfiguration com.fasterxml.classmate.AnnotationInclusion getInclusionForConstructor(java.lang.Class&lt;? extends java.lang.annotation.Annotation&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.classmate.AnnotationInclusion INCLUDE_BUT_DONT_INHERIT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.classmate.TypeBindings com.fasterxml.classmate.TypeBindings create(java.lang.Class&lt;?&gt;, java.util.List&lt;com.fasterxml.classmate.ResolvedType&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.classmate.ResolvedTypeWithMembers com.fasterxml.classmate.members.ResolvedMethod resolveMethod(com.fasterxml.classmate.members.RawMethod) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.classmate.ResolvedType NO_CONSTRUCTORS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.classmate.TypeBindings com.fasterxml.classmate.TypeBindings create(java.lang.Class&lt;?&gt;, com.fasterxml.classmate.ResolvedType[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.classmate.Annotations void add(java.lang.annotation.Annotation) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.classmate.ResolvedType NO_TYPES'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.classmate.ResolvedType java.lang.StringBuilder appendErasedSignature(java.lang.StringBuilder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.classmate.ResolvedType java.lang.StringBuilder _appendClassSignature(java.lang.StringBuilder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.classmate.ResolvedTypeWithMembers _annotationHandler'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.classmate.ResolvedType java.lang.StringBuilder appendErasedSignature(java.lang.StringBuilder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.classmate.TypeBindings com.fasterxml.classmate.TypeBindings create(java.lang.Class&lt;?&gt;, com.fasterxml.classmate.ResolvedType[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.classmate.ResolvedType java.lang.StringBuilder appendFullDescription(java.lang.StringBuilder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.classmate.AnnotationConfiguration.StdConfiguration com.fasterxml.classmate.AnnotationInclusion getInclusionForMethod(java.lang.Class&lt;? extends java.lang.annotation.Annotation&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.classmate.MemberResolver com.fasterxml.classmate.ResolvedTypeWithMembers resolve(com.fasterxml.classmate.ResolvedType, com.fasterxml.classmate.AnnotationConfiguration, com.fasterxml.classmate.AnnotationOverrides)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.classmate.ResolvedType java.lang.StringBuilder _appendClassDescription(java.lang.StringBuilder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.classmate.ResolvedType java.lang.StringBuilder appendSignature(java.lang.StringBuilder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.classmate.ResolvedTypeWithMembers com.fasterxml.classmate.members.ResolvedField resolveField(com.fasterxml.classmate.members.RawField) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.classmate.ResolvedType _typeBindings'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.classmate.TypeBindings com.fasterxml.classmate.ResolvedType[] typeParameterArray()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.classmate.AnnotationConfiguration com.fasterxml.classmate.AnnotationInclusion getInclusionForParameter(java.lang.Class&lt;? extends java.lang.annotation.Annotation&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.classmate.TypeResolver com.fasterxml.classmate.ResolvedType resolveSubtype(com.fasterxml.classmate.ResolvedType, java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.classmate.TypeBindings com.fasterxml.classmate.TypeBindings emptyBindings()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.classmate.AnnotationConfiguration com.fasterxml.classmate.AnnotationInclusion getInclusionForClass(java.lang.Class&lt;? extends java.lang.annotation.Annotation&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.classmate.AnnotationConfiguration com.fasterxml.classmate.AnnotationInclusion getInclusionForField(java.lang.Class&lt;? extends java.lang.annotation.Annotation&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.classmate.ResolvedType java.lang.StringBuilder appendBriefDescription(java.lang.StringBuilder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+</root>

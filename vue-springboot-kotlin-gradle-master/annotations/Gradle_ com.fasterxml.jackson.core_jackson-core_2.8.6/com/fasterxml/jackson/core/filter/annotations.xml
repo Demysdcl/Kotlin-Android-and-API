@@ -1,0 +1,89 @@
+<root>
+    <item name='com.fasterxml.jackson.core.filter.JsonPointerBasedFilter com.fasterxml.jackson.core.filter.TokenFilter filterStartArray()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.filter.FilteringGeneratorDelegate void writeFieldName(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.core.filter.FilteringGeneratorDelegate void writeString(com.fasterxml.jackson.core.SerializableString) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.core.filter.TokenFilter com.fasterxml.jackson.core.filter.TokenFilter includeRootValue(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.filter.FilteringGeneratorDelegate void writeNumber(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.core.filter.TokenFilter INCLUDE_ALL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.filter.TokenFilterContext com.fasterxml.jackson.core.filter.TokenFilterContext createRootContext(com.fasterxml.jackson.core.filter.TokenFilter)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.filter.TokenFilterContext com.fasterxml.jackson.core.filter.TokenFilterContext createChildArrayContext(com.fasterxml.jackson.core.filter.TokenFilter, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.filter.TokenFilterContext com.fasterxml.jackson.core.filter.TokenFilterContext reset(int, com.fasterxml.jackson.core.filter.TokenFilter, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.filter.TokenFilter com.fasterxml.jackson.core.filter.TokenFilter filterStartObject()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.filter.FilteringGeneratorDelegate int writeBinary(com.fasterxml.jackson.core.Base64Variant, java.io.InputStream, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.core.filter.FilteringGeneratorDelegate void writeBinary(com.fasterxml.jackson.core.Base64Variant, byte[], int, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.core.filter.FilteringGeneratorDelegate void writeRaw(java.lang.String, int, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.core.filter.TokenFilterContext com.fasterxml.jackson.core.filter.TokenFilterContext createChildObjectContext(com.fasterxml.jackson.core.filter.TokenFilter, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.filter.FilteringGeneratorDelegate void writeRaw(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.core.filter.FilteringGeneratorDelegate void writeFieldName(com.fasterxml.jackson.core.SerializableString) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.filter.TokenFilter com.fasterxml.jackson.core.filter.TokenFilter filterStartArray()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.filter.TokenFilterContext void appendDesc(java.lang.StringBuilder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.filter.FilteringGeneratorDelegate void writeRaw(com.fasterxml.jackson.core.SerializableString) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.core.filter.FilteringParserDelegate com.fasterxml.jackson.core.JsonParser skipChildren()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.core.filter.JsonPointerBasedFilter com.fasterxml.jackson.core.filter.TokenFilter filterStartObject()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

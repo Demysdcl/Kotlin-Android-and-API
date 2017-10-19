@@ -1,0 +1,92 @@
+<root>
+    <item name='ch.qos.logback.core.pattern.color.BoldYellowCompositeConverter java.lang.String getForegroundColorCode(E)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.pattern.color.BlueCompositeConverter java.lang.String getForegroundColorCode(E)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.pattern.color.ANSIConstants BOLD'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.pattern.color.ANSIConstants MAGENTA_FG'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.pattern.color.WhiteCompositeConverter java.lang.String getForegroundColorCode(E)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.pattern.color.YellowCompositeConverter java.lang.String getForegroundColorCode(E)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.pattern.color.ANSIConstants BLUE_FG'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.pattern.color.CyanCompositeConverter java.lang.String getForegroundColorCode(E)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.pattern.color.BoldWhiteCompositeConverter java.lang.String getForegroundColorCode(E)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.pattern.color.BoldBlueCompositeConverter java.lang.String getForegroundColorCode(E)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.pattern.color.GreenCompositeConverter java.lang.String getForegroundColorCode(E)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.pattern.color.BlackCompositeConverter java.lang.String getForegroundColorCode(E)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.pattern.color.BoldRedCompositeConverter java.lang.String getForegroundColorCode(E)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.pattern.color.ANSIConstants ESC_END'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.pattern.color.ANSIConstants RED_FG'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.pattern.color.ANSIConstants BLACK_FG'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.pattern.color.RedCompositeConverter java.lang.String getForegroundColorCode(E)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.pattern.color.ANSIConstants DEFAULT_FG'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.pattern.color.ANSIConstants CYAN_FG'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.pattern.color.ANSIConstants YELLOW_FG'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.pattern.color.BoldCyanCompositeConverter java.lang.String getForegroundColorCode(E)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.pattern.color.ANSIConstants GREEN_FG'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.pattern.color.GrayCompositeConverter java.lang.String getForegroundColorCode(E)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.pattern.color.BoldMagentaCompositeConverter java.lang.String getForegroundColorCode(E)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.pattern.color.ANSIConstants ESC_START'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.pattern.color.BoldGreenCompositeConverter java.lang.String getForegroundColorCode(E)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.pattern.color.ForegroundCompositeConverterBase java.lang.String getForegroundColorCode(E)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='ch.qos.logback.core.pattern.color.MagentaCompositeConverter java.lang.String getForegroundColorCode(E)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.pattern.color.ANSIConstants WHITE_FG'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

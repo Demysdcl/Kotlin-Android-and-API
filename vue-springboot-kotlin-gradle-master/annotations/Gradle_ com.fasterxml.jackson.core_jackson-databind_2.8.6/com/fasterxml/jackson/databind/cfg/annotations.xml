@@ -1,0 +1,461 @@
+<root>
+    <item name='com.fasterxml.jackson.databind.cfg.MapperConfigBase T with(com.fasterxml.jackson.core.Base64Variant)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.cfg.DeserializerFactoryConfig java.lang.Iterable&lt;com.fasterxml.jackson.databind.deser.BeanDeserializerModifier&gt; deserializerModifiers()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.cfg.MapperConfig com.fasterxml.jackson.databind.BeanDescription introspectDirectClassAnnotations(java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.cfg.DeserializerFactoryConfig _additionalKeyDeserializers'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.cfg.MapperConfigBase T withView(java.lang.Class&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.cfg.ContextAttributes com.fasterxml.jackson.databind.cfg.ContextAttributes getEmpty()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.cfg.MapperConfig boolean isEnabled(com.fasterxml.jackson.databind.MapperFeature) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.cfg.DeserializerFactoryConfig com.fasterxml.jackson.databind.cfg.DeserializerFactoryConfig withValueInstantiators(com.fasterxml.jackson.databind.deser.ValueInstantiators)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.cfg.MapperConfig T with(com.fasterxml.jackson.databind.MapperFeature, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.cfg.ContextAttributes com.fasterxml.jackson.databind.cfg.ContextAttributes withSharedAttribute(java.lang.Object, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.cfg.SerializerFactoryConfig _additionalSerializers'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.cfg.MapperConfigBase T with(java.util.TimeZone) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.cfg.MapperConfigBase T withVisibility(com.fasterxml.jackson.annotation.PropertyAccessor, com.fasterxml.jackson.annotation.JsonAutoDetect.Visibility)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.cfg.ContextAttributes.Impl com.fasterxml.jackson.databind.cfg.ContextAttributes getEmpty()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.cfg.MapperConfigBase T with(com.fasterxml.jackson.databind.jsontype.SubtypeResolver)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.cfg.BaseSettings com.fasterxml.jackson.databind.cfg.BaseSettings withInsertedAnnotationIntrospector(com.fasterxml.jackson.databind.AnnotationIntrospector)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.cfg.DeserializerFactoryConfig com.fasterxml.jackson.databind.cfg.DeserializerFactoryConfig withAbstractTypeResolver(com.fasterxml.jackson.databind.AbstractTypeResolver)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.cfg.MapperConfigBase T with(com.fasterxml.jackson.databind.introspect.ClassIntrospector)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.cfg.DeserializerFactoryConfig _additionalDeserializers'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.cfg.MapperConfigBase T with(com.fasterxml.jackson.databind.cfg.ContextAttributes)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.cfg.ConfigOverride ConfigOverride(com.fasterxml.jackson.databind.cfg.ConfigOverride) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.cfg.SerializerFactoryConfig _modifiers'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.cfg.MapperConfig MapperConfig(com.fasterxml.jackson.databind.cfg.MapperConfig&lt;T&gt;, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.cfg.BaseSettings com.fasterxml.jackson.databind.cfg.BaseSettings withVisibilityChecker(com.fasterxml.jackson.databind.introspect.VisibilityChecker&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.cfg.DeserializerFactoryConfig _abstractTypeResolvers'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.cfg.MapperConfigBase T with(com.fasterxml.jackson.databind.jsontype.TypeResolverBuilder&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.cfg.ContextAttributes com.fasterxml.jackson.databind.cfg.ContextAttributes withoutSharedAttribute(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.cfg.MapperConfigBase T with(com.fasterxml.jackson.databind.cfg.HandlerInstantiator)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.cfg.DeserializerFactoryConfig _valueInstantiators'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.cfg.MapperConfigBase T with(com.fasterxml.jackson.databind.PropertyNamingStrategy)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.cfg.MutableConfigOverride com.fasterxml.jackson.databind.cfg.MutableConfigOverride setIgnorals(com.fasterxml.jackson.annotation.JsonIgnoreProperties.Value)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.cfg.DeserializerFactoryConfig com.fasterxml.jackson.databind.cfg.DeserializerFactoryConfig withDeserializerModifier(com.fasterxml.jackson.databind.deser.BeanDeserializerModifier)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.cfg.ContextAttributes.Impl com.fasterxml.jackson.databind.cfg.ContextAttributes withSharedAttributes(java.util.Map&lt;?,?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.cfg.SerializerFactoryConfig com.fasterxml.jackson.databind.cfg.SerializerFactoryConfig withSerializerModifier(com.fasterxml.jackson.databind.ser.BeanSerializerModifier) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.cfg.SerializerFactoryConfig java.lang.Iterable&lt;com.fasterxml.jackson.databind.ser.Serializers&gt; serializers()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.cfg.SerializerFactoryConfig com.fasterxml.jackson.databind.cfg.SerializerFactoryConfig withAdditionalKeySerializers(com.fasterxml.jackson.databind.ser.Serializers)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.cfg.BaseSettings com.fasterxml.jackson.databind.cfg.BaseSettings withPropertyNamingStrategy(com.fasterxml.jackson.databind.PropertyNamingStrategy)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.cfg.MapperConfigBase MapperConfigBase(com.fasterxml.jackson.databind.cfg.MapperConfigBase&lt;CFG,T&gt;, java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.cfg.MapperConfig com.fasterxml.jackson.databind.JavaType constructType(java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.cfg.MapperConfigBase T withVisibility(com.fasterxml.jackson.annotation.PropertyAccessor, com.fasterxml.jackson.annotation.JsonAutoDetect.Visibility) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.cfg.SerializerFactoryConfig com.fasterxml.jackson.databind.cfg.SerializerFactoryConfig withAdditionalKeySerializers(com.fasterxml.jackson.databind.ser.Serializers) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.cfg.ContextAttributes.Impl com.fasterxml.jackson.databind.cfg.ContextAttributes withoutSharedAttribute(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.cfg.MapperConfigBase T with(com.fasterxml.jackson.databind.AnnotationIntrospector)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.cfg.SerializerFactoryConfig com.fasterxml.jackson.databind.cfg.SerializerFactoryConfig withSerializerModifier(com.fasterxml.jackson.databind.ser.BeanSerializerModifier)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.cfg.ContextAttributes com.fasterxml.jackson.databind.cfg.ContextAttributes withSharedAttributes(java.util.Map&lt;?,?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.cfg.DeserializerFactoryConfig NO_MODIFIERS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.cfg.MapperConfigBase MapperConfigBase(com.fasterxml.jackson.databind.cfg.MapperConfigBase&lt;CFG,T&gt;, com.fasterxml.jackson.databind.jsontype.SubtypeResolver) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.cfg.SerializerFactoryConfig java.lang.Iterable&lt;com.fasterxml.jackson.databind.ser.Serializers&gt; keySerializers()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.cfg.DeserializerFactoryConfig DEFAULT_KEY_DESERIALIZERS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.cfg.DeserializerFactoryConfig NO_DESERIALIZERS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.cfg.MapperConfigBase T with(com.fasterxml.jackson.databind.introspect.VisibilityChecker&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.cfg.ContextAttributes.Impl EMPTY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.cfg.DeserializerFactoryConfig com.fasterxml.jackson.databind.cfg.DeserializerFactoryConfig withAdditionalKeyDeserializers(com.fasterxml.jackson.databind.deser.KeyDeserializers)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.cfg.DeserializerFactoryConfig com.fasterxml.jackson.databind.cfg.DeserializerFactoryConfig withDeserializerModifier(com.fasterxml.jackson.databind.deser.BeanDeserializerModifier) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.cfg.MapperConfig com.fasterxml.jackson.databind.JavaType constructType(com.fasterxml.jackson.core.type.TypeReference&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.cfg.MapperConfigBase MapperConfigBase(com.fasterxml.jackson.databind.cfg.MapperConfigBase&lt;CFG,T&gt;, com.fasterxml.jackson.databind.PropertyName) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.cfg.MapperConfigBase T with(java.util.Locale)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.cfg.MapperConfig com.fasterxml.jackson.core.SerializableString compileString(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.cfg.SerializerFactoryConfig com.fasterxml.jackson.databind.cfg.SerializerFactoryConfig withAdditionalSerializers(com.fasterxml.jackson.databind.ser.Serializers)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.cfg.DeserializerFactoryConfig NO_ABSTRACT_TYPE_RESOLVERS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.cfg.DeserializerFactoryConfig com.fasterxml.jackson.databind.cfg.DeserializerFactoryConfig withAbstractTypeResolver(com.fasterxml.jackson.databind.AbstractTypeResolver) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.cfg.BaseSettings com.fasterxml.jackson.databind.cfg.BaseSettings with(java.util.TimeZone) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.cfg.SerializerFactoryConfig com.fasterxml.jackson.databind.cfg.SerializerFactoryConfig withAdditionalSerializers(com.fasterxml.jackson.databind.ser.Serializers) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.cfg.ContextAttributes.Impl com.fasterxml.jackson.databind.cfg.ContextAttributes nonSharedInstance(java.lang.Object, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.cfg.MapperConfig com.fasterxml.jackson.databind.BeanDescription introspectClassAnnotations(java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.cfg.ConfigOverrides com.fasterxml.jackson.databind.cfg.ConfigOverrides copy()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.cfg.MutableConfigOverride com.fasterxml.jackson.databind.cfg.MutableConfigOverride setInclude(com.fasterxml.jackson.annotation.JsonInclude.Value)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.cfg.DeserializerFactoryConfig java.lang.Iterable&lt;com.fasterxml.jackson.databind.deser.Deserializers&gt; deserializers()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.cfg.BaseSettings com.fasterxml.jackson.databind.cfg.BaseSettings withTypeResolverBuilder(com.fasterxml.jackson.databind.jsontype.TypeResolverBuilder&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.cfg.MapperConfig MapperConfig(com.fasterxml.jackson.databind.cfg.MapperConfig&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.cfg.BaseSettings com.fasterxml.jackson.databind.cfg.BaseSettings withDateFormat(java.text.DateFormat)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.cfg.MapperConfigBase T with(java.util.TimeZone)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.cfg.BaseSettings com.fasterxml.jackson.databind.cfg.BaseSettings withHandlerInstantiator(com.fasterxml.jackson.databind.cfg.HandlerInstantiator)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.cfg.MapperConfigBase MapperConfigBase(com.fasterxml.jackson.databind.cfg.MapperConfigBase&lt;CFG,T&gt;, com.fasterxml.jackson.databind.cfg.BaseSettings) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.cfg.SerializerFactoryConfig java.lang.Iterable&lt;com.fasterxml.jackson.databind.ser.BeanSerializerModifier&gt; serializerModifiers()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.cfg.MapperConfig T with(com.fasterxml.jackson.databind.MapperFeature, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.cfg.MapperConfigBase MapperConfigBase(com.fasterxml.jackson.databind.cfg.MapperConfigBase&lt;CFG,T&gt;, com.fasterxml.jackson.databind.introspect.SimpleMixInResolver, com.fasterxml.jackson.databind.util.RootNameLookup, com.fasterxml.jackson.databind.cfg.ConfigOverrides) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.cfg.MutableConfigOverride com.fasterxml.jackson.databind.cfg.MutableConfigOverride copy()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.cfg.BaseSettings com.fasterxml.jackson.databind.cfg.BaseSettings withAppendedAnnotationIntrospector(com.fasterxml.jackson.databind.AnnotationIntrospector)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.cfg.BaseSettings com.fasterxml.jackson.databind.cfg.BaseSettings withAnnotationIntrospector(com.fasterxml.jackson.databind.AnnotationIntrospector)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.cfg.BaseSettings com.fasterxml.jackson.databind.cfg.BaseSettings withTypeFactory(com.fasterxml.jackson.databind.type.TypeFactory)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.cfg.BaseSettings com.fasterxml.jackson.databind.cfg.BaseSettings with(com.fasterxml.jackson.core.Base64Variant)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.cfg.MapperConfigBase MapperConfigBase(com.fasterxml.jackson.databind.cfg.MapperConfigBase&lt;CFG,T&gt;, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.cfg.BaseSettings com.fasterxml.jackson.databind.cfg.BaseSettings withVisibility(com.fasterxml.jackson.annotation.PropertyAccessor, com.fasterxml.jackson.annotation.JsonAutoDetect.Visibility)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.cfg.DeserializerFactoryConfig com.fasterxml.jackson.databind.cfg.DeserializerFactoryConfig withAdditionalDeserializers(com.fasterxml.jackson.databind.deser.Deserializers) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.cfg.BaseSettings com.fasterxml.jackson.databind.cfg.BaseSettings with(java.util.TimeZone)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.cfg.DeserializerFactoryConfig com.fasterxml.jackson.databind.cfg.DeserializerFactoryConfig withValueInstantiators(com.fasterxml.jackson.databind.deser.ValueInstantiators) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.cfg.ContextAttributes.Impl com.fasterxml.jackson.databind.cfg.ContextAttributes withSharedAttribute(java.lang.Object, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.cfg.MapperConfigBase T withRootName(com.fasterxml.jackson.databind.PropertyName)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.cfg.DeserializerFactoryConfig java.lang.Iterable&lt;com.fasterxml.jackson.databind.deser.ValueInstantiators&gt; valueInstantiators()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.cfg.MapperConfigBase T withInsertedAnnotationIntrospector(com.fasterxml.jackson.databind.AnnotationIntrospector)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.cfg.ContextAttributes.Impl com.fasterxml.jackson.databind.cfg.ContextAttributes withPerCallAttribute(java.lang.Object, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.cfg.MapperConfig T with(com.fasterxml.jackson.databind.MapperFeature...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.cfg.DeserializerFactoryConfig _modifiers'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.cfg.MapperConfig T without(com.fasterxml.jackson.databind.MapperFeature...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.cfg.MapperConfigBase T with(java.text.DateFormat)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.cfg.SerializerFactoryConfig NO_SERIALIZERS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.cfg.MapperConfigBase MapperConfigBase(com.fasterxml.jackson.databind.cfg.MapperConfigBase&lt;CFG,T&gt;, com.fasterxml.jackson.databind.introspect.SimpleMixInResolver) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.cfg.BaseSettings com.fasterxml.jackson.databind.cfg.BaseSettings withClassIntrospector(com.fasterxml.jackson.databind.introspect.ClassIntrospector)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.cfg.MapperConfig T with(com.fasterxml.jackson.databind.MapperFeature...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.cfg.SerializerFactoryConfig _additionalKeySerializers'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.cfg.MapperConfig T without(com.fasterxml.jackson.databind.MapperFeature...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.cfg.MapperConfig com.fasterxml.jackson.databind.JavaType constructSpecializedType(com.fasterxml.jackson.databind.JavaType, java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.cfg.MapperConfigBase T withAppendedAnnotationIntrospector(com.fasterxml.jackson.databind.AnnotationIntrospector)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.cfg.DeserializerFactoryConfig com.fasterxml.jackson.databind.cfg.DeserializerFactoryConfig withAdditionalKeyDeserializers(com.fasterxml.jackson.databind.deser.KeyDeserializers) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.cfg.ContextAttributes com.fasterxml.jackson.databind.cfg.ContextAttributes withPerCallAttribute(java.lang.Object, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.cfg.ConfigOverrides com.fasterxml.jackson.databind.cfg.MutableConfigOverride findOrCreateOverride(java.lang.Class&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.cfg.MutableConfigOverride com.fasterxml.jackson.databind.cfg.MutableConfigOverride setFormat(com.fasterxml.jackson.annotation.JsonFormat.Value)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.cfg.DeserializerFactoryConfig java.lang.Iterable&lt;com.fasterxml.jackson.databind.AbstractTypeResolver&gt; abstractTypeResolvers()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.cfg.MapperConfig int collectFeatureDefaults(java.lang.Class&lt;F&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.cfg.MapperConfigBase MapperConfigBase(com.fasterxml.jackson.databind.cfg.MapperConfigBase&lt;CFG,T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.cfg.SerializerFactoryConfig NO_MODIFIERS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.cfg.ContextAttributes.Impl NULL_SURROGATE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.cfg.MapperConfigBase MapperConfigBase(com.fasterxml.jackson.databind.cfg.MapperConfigBase&lt;CFG,T&gt;, com.fasterxml.jackson.databind.cfg.ContextAttributes) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.cfg.MapperConfigBase T with(com.fasterxml.jackson.databind.type.TypeFactory)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.cfg.BaseSettings com.fasterxml.jackson.databind.cfg.BaseSettings with(java.util.Locale)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.cfg.DeserializerFactoryConfig com.fasterxml.jackson.databind.cfg.DeserializerFactoryConfig withAdditionalDeserializers(com.fasterxml.jackson.databind.deser.Deserializers)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.cfg.DeserializerFactoryConfig NO_VALUE_INSTANTIATORS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.cfg.ConfigOverrides java.util.Map&lt;java.lang.Class&lt;?&gt;,com.fasterxml.jackson.databind.cfg.MutableConfigOverride&gt; _newMap()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.cfg.MutableConfigOverride com.fasterxml.jackson.databind.cfg.MutableConfigOverride setIsIgnoredType(java.lang.Boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.cfg.MapperConfig MapperConfig(com.fasterxml.jackson.databind.cfg.MapperConfig&lt;T&gt;, com.fasterxml.jackson.databind.cfg.BaseSettings) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.cfg.MutableConfigOverride MutableConfigOverride(com.fasterxml.jackson.databind.cfg.MutableConfigOverride) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.cfg.DeserializerFactoryConfig java.lang.Iterable&lt;com.fasterxml.jackson.databind.deser.KeyDeserializers&gt; keyDeserializers()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

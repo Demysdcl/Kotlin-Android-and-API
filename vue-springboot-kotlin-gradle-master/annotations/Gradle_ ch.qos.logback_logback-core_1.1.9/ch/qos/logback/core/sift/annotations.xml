@@ -1,0 +1,53 @@
+<root>
+    <item name='ch.qos.logback.core.sift.DefaultDiscriminator java.lang.String getDiscriminatingValue(E)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.sift.Discriminator java.lang.String getKey()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='ch.qos.logback.core.sift.AppenderTracker boolean isComponentStale(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.sift.AppenderTracker boolean isComponentStale(ch.qos.logback.core.Appender&lt;E&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.sift.AppenderTracker void processPriorToRemoval(ch.qos.logback.core.Appender&lt;E&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.sift.SiftingJoranConfiguratorBase void oneAndOnlyOneCheck(java.util.Map&lt;?,?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.sift.AppenderTracker void processPriorToRemoval(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.sift.SiftingJoranConfiguratorBase void addImplicitRules(ch.qos.logback.core.joran.spi.Interpreter) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.sift.Discriminator java.lang.String getDiscriminatingValue(E)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='ch.qos.logback.core.sift.DefaultDiscriminator java.lang.String getKey()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.sift.DefaultDiscriminator DEFAULT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.sift.AppenderTracker ch.qos.logback.core.Appender&lt;E&gt; buildComponent(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.sift.AppenderTracker java.lang.Object buildComponent(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.sift.SiftingJoranConfiguratorBase void addInstanceRules(ch.qos.logback.core.joran.spi.RuleStore) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.sift.AbstractAppenderFactoryUsingJoran AbstractAppenderFactoryUsingJoran(java.util.List&lt;ch.qos.logback.core.joran.event.SaxEvent&gt;, java.lang.String, java.util.Map&lt;java.lang.String,java.lang.String&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

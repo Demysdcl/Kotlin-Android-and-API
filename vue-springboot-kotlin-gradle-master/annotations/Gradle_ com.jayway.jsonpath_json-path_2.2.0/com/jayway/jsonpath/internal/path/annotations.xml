@@ -1,0 +1,200 @@
+<root>
+    <item name='com.jayway.jsonpath.internal.path.PathTokenFactory com.jayway.jsonpath.internal.path.PathToken createWildCardPathToken()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.path.ScanPathToken void walkObject(com.jayway.jsonpath.internal.path.PathToken, java.lang.String, com.jayway.jsonpath.internal.PathRef, java.lang.Object, com.jayway.jsonpath.internal.path.EvaluationContextImpl, com.jayway.jsonpath.internal.path.ScanPathToken.Predicate) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.path.PathTokenFactory com.jayway.jsonpath.internal.path.PathToken crateScanToken()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.path.RootPathToken com.jayway.jsonpath.internal.path.PathTokenAppender getPathTokenAppender()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.path.CompiledPath com.jayway.jsonpath.internal.EvaluationContext evaluate(java.lang.Object, java.lang.Object, com.jayway.jsonpath.Configuration) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.path.ArraySliceOperation com.jayway.jsonpath.internal.path.ArraySliceOperation parse(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.path.ArrayPathToken void sliceBetween(com.jayway.jsonpath.internal.path.ArraySliceOperation, java.lang.String, com.jayway.jsonpath.internal.PathRef, java.lang.Object, com.jayway.jsonpath.internal.path.EvaluationContextImpl) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.path.PathToken void evaluate(java.lang.String, com.jayway.jsonpath.internal.PathRef, java.lang.Object, com.jayway.jsonpath.internal.path.EvaluationContextImpl) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.jayway.jsonpath.internal.path.ArrayIndexOperation com.jayway.jsonpath.internal.path.ArrayIndexOperation parse(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.path.WildcardPathToken void evaluate(java.lang.String, com.jayway.jsonpath.internal.PathRef, java.lang.Object, com.jayway.jsonpath.internal.path.EvaluationContextImpl) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.path.ScanPathToken void walkArray(com.jayway.jsonpath.internal.path.PathToken, java.lang.String, com.jayway.jsonpath.internal.PathRef, java.lang.Object, com.jayway.jsonpath.internal.path.EvaluationContextImpl, com.jayway.jsonpath.internal.path.ScanPathToken.Predicate) 5'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.path.ArrayPathToken void sliceBetween(com.jayway.jsonpath.internal.path.ArraySliceOperation, java.lang.String, com.jayway.jsonpath.internal.PathRef, java.lang.Object, com.jayway.jsonpath.internal.path.EvaluationContextImpl) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.path.CompiledPath com.jayway.jsonpath.internal.EvaluationContext evaluate(java.lang.Object, java.lang.Object, com.jayway.jsonpath.Configuration, boolean) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.path.ArraySliceOperation.Operation SLICE_TO'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.path.ArrayIndexOperation com.jayway.jsonpath.internal.path.ArrayIndexOperation parse(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.path.ArrayPathToken void sliceFrom(com.jayway.jsonpath.internal.path.ArraySliceOperation, java.lang.String, com.jayway.jsonpath.internal.PathRef, java.lang.Object, com.jayway.jsonpath.internal.path.EvaluationContextImpl) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.path.EvaluationContextImpl EvaluationContextImpl(com.jayway.jsonpath.internal.Path, java.lang.Object, com.jayway.jsonpath.Configuration, boolean) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.path.ArrayPathToken void sliceFrom(com.jayway.jsonpath.internal.path.ArraySliceOperation, java.lang.String, com.jayway.jsonpath.internal.PathRef, java.lang.Object, com.jayway.jsonpath.internal.path.EvaluationContextImpl) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.path.EvaluationContextImpl java.util.HashMap&lt;com.jayway.jsonpath.internal.Path,java.lang.Object&gt; documentEvalCache()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.path.PathTokenFactory com.jayway.jsonpath.internal.path.PathToken createPredicatePathToken(java.util.Collection&lt;com.jayway.jsonpath.Predicate&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.path.WildcardPathToken java.lang.String getPathFragment()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.path.PathToken void handleArrayIndex(int, java.lang.String, java.lang.Object, com.jayway.jsonpath.internal.path.EvaluationContextImpl) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.path.ArraySliceOperation com.jayway.jsonpath.internal.path.ArraySliceOperation parse(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.path.PathCompiler com.jayway.jsonpath.internal.Path compile(java.lang.String, com.jayway.jsonpath.Predicate...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.path.EvaluationContextImpl com.jayway.jsonpath.spi.json.JsonProvider jsonProvider()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.path.EvaluationContextImpl java.lang.Object rootDocument()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.path.ScanPathToken void walk(com.jayway.jsonpath.internal.path.PathToken, java.lang.String, com.jayway.jsonpath.internal.PathRef, java.lang.Object, com.jayway.jsonpath.internal.path.EvaluationContextImpl, com.jayway.jsonpath.internal.path.ScanPathToken.Predicate) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.path.ArrayPathToken void sliceTo(com.jayway.jsonpath.internal.path.ArraySliceOperation, java.lang.String, com.jayway.jsonpath.internal.PathRef, java.lang.Object, com.jayway.jsonpath.internal.path.EvaluationContextImpl) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.path.PredicateContextImpl java.lang.Object evaluate(com.jayway.jsonpath.internal.Path) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.path.RootPathToken com.jayway.jsonpath.internal.path.RootPathToken append(com.jayway.jsonpath.internal.path.PathToken)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.path.ScanPathToken void walkArray(com.jayway.jsonpath.internal.path.PathToken, java.lang.String, com.jayway.jsonpath.internal.PathRef, java.lang.Object, com.jayway.jsonpath.internal.path.EvaluationContextImpl, com.jayway.jsonpath.internal.path.ScanPathToken.Predicate) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.path.PathTokenFactory com.jayway.jsonpath.internal.path.PathToken createPredicatePathToken(com.jayway.jsonpath.Predicate)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.path.ScanPathToken java.lang.String getPathFragment()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.path.EvaluationContextImpl EvaluationContextImpl(com.jayway.jsonpath.internal.Path, java.lang.Object, com.jayway.jsonpath.Configuration, boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.path.PathTokenFactory com.jayway.jsonpath.internal.path.PathToken createPropertyPathToken(java.util.List&lt;java.lang.String&gt;, char) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.path.EvaluationContextImpl java.util.List&lt;java.lang.String&gt; getPathList()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.path.EvaluationContextImpl com.jayway.jsonpath.Configuration configuration()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.path.PathToken java.lang.String getPathFragment()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.jayway.jsonpath.internal.path.PredicatePathToken boolean accept(java.lang.Object, java.lang.Object, com.jayway.jsonpath.Configuration, com.jayway.jsonpath.internal.path.EvaluationContextImpl) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.path.ArraySliceOperation.Operation SLICE_BETWEEN'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.path.RootPathToken void evaluate(java.lang.String, com.jayway.jsonpath.internal.PathRef, java.lang.Object, com.jayway.jsonpath.internal.path.EvaluationContextImpl) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.jayway.jsonpath.internal.path.FunctionPathToken void evaluate(java.lang.String, com.jayway.jsonpath.internal.PathRef, java.lang.Object, com.jayway.jsonpath.internal.path.EvaluationContextImpl) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.path.PathToken void invoke(com.jayway.jsonpath.internal.function.PathFunction, java.lang.String, com.jayway.jsonpath.internal.PathRef, java.lang.Object, com.jayway.jsonpath.internal.path.EvaluationContextImpl) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.path.PathTokenFactory com.jayway.jsonpath.internal.path.PathToken createPropertyPathToken(java.util.List&lt;java.lang.String&gt;, char)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.path.PathTokenFactory com.jayway.jsonpath.internal.path.PathToken createSliceArrayPathToken(com.jayway.jsonpath.internal.path.ArraySliceOperation)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.path.PathTokenFactory com.jayway.jsonpath.internal.path.PathToken createFunctionPathToken(java.lang.String, java.util.List&lt;com.jayway.jsonpath.internal.function.Parameter&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.path.PathToken void invoke(com.jayway.jsonpath.internal.function.PathFunction, java.lang.String, com.jayway.jsonpath.internal.PathRef, java.lang.Object, com.jayway.jsonpath.internal.path.EvaluationContextImpl) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.path.PathTokenAppender com.jayway.jsonpath.internal.path.PathTokenAppender appendPathToken(com.jayway.jsonpath.internal.path.PathToken)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.jayway.jsonpath.internal.path.ArraySliceOperation.Operation SLICE_FROM'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.path.CompiledPath com.jayway.jsonpath.internal.EvaluationContext evaluate(java.lang.Object, java.lang.Object, com.jayway.jsonpath.Configuration)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.path.CompiledPath com.jayway.jsonpath.internal.EvaluationContext evaluate(java.lang.Object, java.lang.Object, com.jayway.jsonpath.Configuration, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.path.EvaluationContextImpl EvaluationContextImpl(com.jayway.jsonpath.internal.Path, java.lang.Object, com.jayway.jsonpath.Configuration, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.path.PredicatePathToken void evaluate(java.lang.String, com.jayway.jsonpath.internal.PathRef, java.lang.Object, com.jayway.jsonpath.internal.path.EvaluationContextImpl) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.path.ScanPathToken void walkObject(com.jayway.jsonpath.internal.path.PathToken, java.lang.String, com.jayway.jsonpath.internal.PathRef, java.lang.Object, com.jayway.jsonpath.internal.path.EvaluationContextImpl, com.jayway.jsonpath.internal.path.ScanPathToken.Predicate) 5'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.path.PathTokenFactory com.jayway.jsonpath.internal.path.PathToken createSinglePropertyPathToken(java.lang.String, char)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.path.CompiledPath com.jayway.jsonpath.internal.EvaluationContext evaluate(java.lang.Object, java.lang.Object, com.jayway.jsonpath.Configuration) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.path.ScanPathToken void evaluate(java.lang.String, com.jayway.jsonpath.internal.PathRef, java.lang.Object, com.jayway.jsonpath.internal.path.EvaluationContextImpl) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.path.ArrayPathToken void evaluate(java.lang.String, com.jayway.jsonpath.internal.PathRef, java.lang.Object, com.jayway.jsonpath.internal.path.EvaluationContextImpl) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.jayway.jsonpath.internal.path.PathTokenFactory com.jayway.jsonpath.internal.path.RootPathToken createRootPathToken(char)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.path.CompiledPath com.jayway.jsonpath.internal.EvaluationContext evaluate(java.lang.Object, java.lang.Object, com.jayway.jsonpath.Configuration, boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.jayway.jsonpath.internal.path.PathTokenFactory com.jayway.jsonpath.internal.path.PathToken createIndexArrayPathToken(com.jayway.jsonpath.internal.path.ArrayIndexOperation)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

@@ -1,0 +1,11 @@
+<root>
+    <item name='ch.qos.logback.core.encoder.ByteArrayUtil byte[] hexStringToByteArray(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.encoder.ByteArrayUtil byte[] hexStringToByteArray(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.encoder.ByteArrayUtil java.lang.String toHexString(byte[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

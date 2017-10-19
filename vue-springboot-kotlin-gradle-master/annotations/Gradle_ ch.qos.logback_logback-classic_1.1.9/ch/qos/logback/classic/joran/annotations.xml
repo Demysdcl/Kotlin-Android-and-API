@@ -1,0 +1,11 @@
+<root>
+    <item name='ch.qos.logback.classic.joran.JoranConfigurator void addDefaultNestedComponentRegistryRules(ch.qos.logback.core.joran.spi.DefaultNestedComponentRegistry) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.joran.JoranConfigurator void addInstanceRules(ch.qos.logback.core.joran.spi.RuleStore) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.joran.ReconfigureOnChangeTask DETECTED_CHANGE_IN_CONFIGURATION_FILES'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

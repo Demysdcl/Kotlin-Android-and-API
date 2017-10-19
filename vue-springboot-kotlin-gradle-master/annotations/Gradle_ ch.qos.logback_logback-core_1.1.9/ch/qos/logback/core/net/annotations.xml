@@ -1,0 +1,29 @@
+<root>
+    <item name='ch.qos.logback.core.net.AbstractSocketAppender ch.qos.logback.core.net.SocketConnector newConnector(java.net.InetAddress, int, long, long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.net.ObjectWriterFactory ch.qos.logback.core.net.AutoFlushingObjectWriter newAutoFlushingObjectWriter(java.io.OutputStream)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.net.SMTPAppenderBase void addTo(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.net.SMTPAppenderBase java.util.List&lt;java.lang.String&gt; getToAsListOfString()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.net.JMSAppenderBase java.lang.Object lookup(javax.naming.Context, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.net.JMSAppenderBase javax.naming.Context buildJNDIContext()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.net.JMSAppenderBase java.util.Properties buildEnvProperties()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.net.LoginAuthenticator javax.mail.PasswordAuthentication getPasswordAuthentication()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.net.QueueFactory java.util.concurrent.LinkedBlockingDeque&lt;E&gt; newLinkedBlockingDeque(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

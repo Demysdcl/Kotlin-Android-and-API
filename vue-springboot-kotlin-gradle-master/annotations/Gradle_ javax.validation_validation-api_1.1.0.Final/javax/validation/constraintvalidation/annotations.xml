@@ -1,0 +1,8 @@
+<root>
+    <item name='javax.validation.constraintvalidation.ValidationTarget ANNOTATED_ELEMENT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='javax.validation.constraintvalidation.ValidationTarget PARAMETERS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

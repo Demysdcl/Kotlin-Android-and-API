@@ -1,0 +1,32 @@
+<root>
+    <item name='ch.qos.logback.core.joran.util.beans.BeanUtil PREFIX_ADDER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.joran.util.beans.BeanUtil boolean isGetter(java.lang.reflect.Method) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.joran.util.beans.BeanDescriptionFactory ch.qos.logback.core.joran.util.beans.BeanDescription create(java.lang.Class&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.joran.util.beans.BeanUtil PREFIX_SETTER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.joran.util.beans.BeanUtil boolean isSetter(java.lang.reflect.Method) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.joran.util.beans.BeanUtil boolean isAdder(java.lang.reflect.Method) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.joran.util.beans.BeanDescriptionFactory ch.qos.logback.core.joran.util.beans.BeanDescription create(java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.joran.util.beans.BeanUtil PREFIX_GETTER_GET'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.joran.util.beans.BeanUtil PREFIX_GETTER_IS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.core.joran.util.beans.BeanUtil java.lang.String getPropertyName(java.lang.reflect.Method) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

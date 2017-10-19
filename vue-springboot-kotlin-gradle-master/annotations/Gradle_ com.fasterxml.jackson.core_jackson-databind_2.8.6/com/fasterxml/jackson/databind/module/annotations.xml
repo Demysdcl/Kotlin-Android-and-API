@@ -1,0 +1,155 @@
+<root>
+    <item name='com.fasterxml.jackson.databind.module.SimpleModule com.fasterxml.jackson.databind.module.SimpleModule addKeySerializer(java.lang.Class&lt;? extends T&gt;, com.fasterxml.jackson.databind.JsonSerializer&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.module.SimpleModule com.fasterxml.jackson.databind.module.SimpleModule addValueInstantiator(java.lang.Class&lt;?&gt;, com.fasterxml.jackson.databind.deser.ValueInstantiator) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.module.SimpleModule com.fasterxml.jackson.databind.module.SimpleModule setSerializerModifier(com.fasterxml.jackson.databind.ser.BeanSerializerModifier)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.module.SimpleValueInstantiators com.fasterxml.jackson.databind.module.SimpleValueInstantiators addValueInstantiator(java.lang.Class&lt;?&gt;, com.fasterxml.jackson.databind.deser.ValueInstantiator)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.module.SimpleModule com.fasterxml.jackson.databind.module.SimpleModule addValueInstantiator(java.lang.Class&lt;?&gt;, com.fasterxml.jackson.databind.deser.ValueInstantiator)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.module.SimpleModule com.fasterxml.jackson.databind.module.SimpleModule addAbstractTypeMapping(java.lang.Class&lt;T&gt;, java.lang.Class&lt;? extends T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.module.SimpleDeserializers void addDeserializers(java.util.Map&lt;java.lang.Class&lt;?&gt;,com.fasterxml.jackson.databind.JsonDeserializer&lt;?&gt;&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.module.SimpleAbstractTypeResolver com.fasterxml.jackson.databind.JavaType findTypeMapping(com.fasterxml.jackson.databind.DeserializationConfig, com.fasterxml.jackson.databind.JavaType) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.module.SimpleSerializers void addSerializer(java.lang.Class&lt;? extends T&gt;, com.fasterxml.jackson.databind.JsonSerializer&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.module.SimpleSerializers com.fasterxml.jackson.databind.JsonSerializer&lt;?&gt; _findInterfaceMapping(java.lang.Class&lt;?&gt;, com.fasterxml.jackson.databind.type.ClassKey) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.module.SimpleModule com.fasterxml.jackson.databind.module.SimpleModule addKeySerializer(java.lang.Class&lt;? extends T&gt;, com.fasterxml.jackson.databind.JsonSerializer&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.module.SimpleModule com.fasterxml.jackson.databind.module.SimpleModule addSerializer(com.fasterxml.jackson.databind.JsonSerializer&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.module.SimpleModule com.fasterxml.jackson.databind.module.SimpleModule setDeserializerModifier(com.fasterxml.jackson.databind.deser.BeanDeserializerModifier)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.module.SimpleSerializers com.fasterxml.jackson.databind.JsonSerializer&lt;?&gt; findMapSerializer(com.fasterxml.jackson.databind.SerializationConfig, com.fasterxml.jackson.databind.type.MapType, com.fasterxml.jackson.databind.BeanDescription, com.fasterxml.jackson.databind.JsonSerializer&lt;java.lang.Object&gt;, com.fasterxml.jackson.databind.jsontype.TypeSerializer, com.fasterxml.jackson.databind.JsonSerializer&lt;java.lang.Object&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.module.SimpleModule com.fasterxml.jackson.databind.module.SimpleModule registerSubtypes(java.lang.Class&lt;?&gt;...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.module.SimpleAbstractTypeResolver _mappings'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.module.SimpleSerializers com.fasterxml.jackson.databind.JsonSerializer&lt;?&gt; findMapLikeSerializer(com.fasterxml.jackson.databind.SerializationConfig, com.fasterxml.jackson.databind.type.MapLikeType, com.fasterxml.jackson.databind.BeanDescription, com.fasterxml.jackson.databind.JsonSerializer&lt;java.lang.Object&gt;, com.fasterxml.jackson.databind.jsontype.TypeSerializer, com.fasterxml.jackson.databind.JsonSerializer&lt;java.lang.Object&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.module.SimpleModule com.fasterxml.jackson.databind.module.SimpleModule addDeserializer(java.lang.Class&lt;T&gt;, com.fasterxml.jackson.databind.JsonDeserializer&lt;? extends T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.module.SimpleSerializers com.fasterxml.jackson.databind.JsonSerializer&lt;?&gt; findSerializer(com.fasterxml.jackson.databind.SerializationConfig, com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.BeanDescription) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.module.SimpleModule com.fasterxml.jackson.databind.module.SimpleModule addAbstractTypeMapping(java.lang.Class&lt;T&gt;, java.lang.Class&lt;? extends T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.module.SimpleModule com.fasterxml.jackson.databind.module.SimpleModule addKeyDeserializer(java.lang.Class&lt;?&gt;, com.fasterxml.jackson.databind.KeyDeserializer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.module.SimpleSerializers SimpleSerializers(java.util.List&lt;com.fasterxml.jackson.databind.JsonSerializer&lt;?&gt;&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.module.SimpleKeyDeserializers com.fasterxml.jackson.databind.module.SimpleKeyDeserializers addDeserializer(java.lang.Class&lt;?&gt;, com.fasterxml.jackson.databind.KeyDeserializer)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.module.SimpleKeyDeserializers com.fasterxml.jackson.databind.KeyDeserializer findKeyDeserializer(com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.DeserializationConfig, com.fasterxml.jackson.databind.BeanDescription) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.module.SimpleModule com.fasterxml.jackson.databind.module.SimpleModule setMixInAnnotation(java.lang.Class&lt;?&gt;, java.lang.Class&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.module.SimpleValueInstantiators com.fasterxml.jackson.databind.deser.ValueInstantiator findValueInstantiator(com.fasterxml.jackson.databind.DeserializationConfig, com.fasterxml.jackson.databind.BeanDescription, com.fasterxml.jackson.databind.deser.ValueInstantiator) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.module.SimpleSerializers com.fasterxml.jackson.databind.JsonSerializer&lt;?&gt; findArraySerializer(com.fasterxml.jackson.databind.SerializationConfig, com.fasterxml.jackson.databind.type.ArrayType, com.fasterxml.jackson.databind.BeanDescription, com.fasterxml.jackson.databind.jsontype.TypeSerializer, com.fasterxml.jackson.databind.JsonSerializer&lt;java.lang.Object&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.module.SimpleModule com.fasterxml.jackson.databind.module.SimpleModule registerSubtypes(com.fasterxml.jackson.databind.jsontype.NamedType...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.module.SimpleModule com.fasterxml.jackson.databind.module.SimpleModule addSerializer(java.lang.Class&lt;? extends T&gt;, com.fasterxml.jackson.databind.JsonSerializer&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.module.SimpleSerializers void _addSerializer(java.lang.Class&lt;?&gt;, com.fasterxml.jackson.databind.JsonSerializer&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.module.SimpleAbstractTypeResolver com.fasterxml.jackson.databind.module.SimpleAbstractTypeResolver addMapping(java.lang.Class&lt;T&gt;, java.lang.Class&lt;? extends T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.module.SimpleSerializers void addSerializers(java.util.List&lt;com.fasterxml.jackson.databind.JsonSerializer&lt;?&gt;&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.module.SimpleModule com.fasterxml.jackson.databind.module.SimpleModule registerSubtypes(com.fasterxml.jackson.databind.jsontype.NamedType...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.module.SimpleModule com.fasterxml.jackson.databind.module.SimpleModule addSerializer(java.lang.Class&lt;? extends T&gt;, com.fasterxml.jackson.databind.JsonSerializer&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.module.SimpleSerializers void addSerializer(com.fasterxml.jackson.databind.JsonSerializer&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.module.SimpleSerializers com.fasterxml.jackson.databind.JsonSerializer&lt;?&gt; findCollectionLikeSerializer(com.fasterxml.jackson.databind.SerializationConfig, com.fasterxml.jackson.databind.type.CollectionLikeType, com.fasterxml.jackson.databind.BeanDescription, com.fasterxml.jackson.databind.jsontype.TypeSerializer, com.fasterxml.jackson.databind.JsonSerializer&lt;java.lang.Object&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.module.SimpleModule SimpleModule(com.fasterxml.jackson.core.Version) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.module.SimpleModule com.fasterxml.jackson.databind.module.SimpleModule setNamingStrategy(com.fasterxml.jackson.databind.PropertyNamingStrategy)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.module.SimpleModule com.fasterxml.jackson.databind.module.SimpleModule registerSubtypes(java.lang.Class&lt;?&gt;...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.module.SimpleDeserializers com.fasterxml.jackson.databind.JsonDeserializer&lt;?&gt; findBeanDeserializer(com.fasterxml.jackson.databind.JavaType, com.fasterxml.jackson.databind.DeserializationConfig, com.fasterxml.jackson.databind.BeanDescription) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.databind.module.SimpleAbstractTypeResolver com.fasterxml.jackson.databind.module.SimpleAbstractTypeResolver addMapping(java.lang.Class&lt;T&gt;, java.lang.Class&lt;? extends T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.module.SimpleModule com.fasterxml.jackson.databind.module.SimpleModule addSerializer(com.fasterxml.jackson.databind.JsonSerializer&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.module.SimpleValueInstantiators com.fasterxml.jackson.databind.module.SimpleValueInstantiators addValueInstantiator(java.lang.Class&lt;?&gt;, com.fasterxml.jackson.databind.deser.ValueInstantiator) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.module.SimpleDeserializers void addDeserializer(java.lang.Class&lt;T&gt;, com.fasterxml.jackson.databind.JsonDeserializer&lt;? extends T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.module.SimpleDeserializers SimpleDeserializers(java.util.Map&lt;java.lang.Class&lt;?&gt;,com.fasterxml.jackson.databind.JsonDeserializer&lt;?&gt;&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.module.SimpleKeyDeserializers com.fasterxml.jackson.databind.module.SimpleKeyDeserializers addDeserializer(java.lang.Class&lt;?&gt;, com.fasterxml.jackson.databind.KeyDeserializer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.module.SimpleSerializers com.fasterxml.jackson.databind.JsonSerializer&lt;?&gt; findCollectionSerializer(com.fasterxml.jackson.databind.SerializationConfig, com.fasterxml.jackson.databind.type.CollectionType, com.fasterxml.jackson.databind.BeanDescription, com.fasterxml.jackson.databind.jsontype.TypeSerializer, com.fasterxml.jackson.databind.JsonSerializer&lt;java.lang.Object&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.module.SimpleModule com.fasterxml.jackson.databind.module.SimpleModule addDeserializer(java.lang.Class&lt;T&gt;, com.fasterxml.jackson.databind.JsonDeserializer&lt;? extends T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.module.SimpleModule com.fasterxml.jackson.databind.module.SimpleModule addKeyDeserializer(java.lang.Class&lt;?&gt;, com.fasterxml.jackson.databind.KeyDeserializer)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

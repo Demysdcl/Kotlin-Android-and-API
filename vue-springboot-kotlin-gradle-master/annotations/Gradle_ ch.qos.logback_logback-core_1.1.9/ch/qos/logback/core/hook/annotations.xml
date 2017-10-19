@@ -1,0 +1,5 @@
+<root>
+    <item name='ch.qos.logback.core.hook.DelayingShutdownHook DEFAULT_DELAY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

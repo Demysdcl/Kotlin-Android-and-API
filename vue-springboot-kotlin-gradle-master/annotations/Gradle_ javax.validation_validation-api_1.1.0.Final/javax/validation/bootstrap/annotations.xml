@@ -1,0 +1,14 @@
+<root>
+    <item name='javax.validation.bootstrap.GenericBootstrap javax.validation.bootstrap.GenericBootstrap providerResolver(javax.validation.ValidationProviderResolver)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='javax.validation.bootstrap.ProviderSpecificBootstrap javax.validation.bootstrap.ProviderSpecificBootstrap&lt;T&gt; providerResolver(javax.validation.ValidationProviderResolver)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+</root>

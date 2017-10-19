@@ -1,0 +1,464 @@
+<root>
+    <item name='com.fasterxml.jackson.annotation.JsonFormat.Features com.fasterxml.jackson.annotation.JsonFormat.Features construct(com.fasterxml.jackson.annotation.JsonFormat) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.JsonProperty.Access READ_WRITE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.SimpleObjectIdResolver com.fasterxml.jackson.annotation.ObjectIdResolver newForDeserialization(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.PropertyAccessor SETTER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.OptBoolean FALSE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.JsonFormat.Shape OBJECT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.JsonIgnoreProperties.Value com.fasterxml.jackson.annotation.JsonIgnoreProperties.Value withAllowSetters()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.SimpleObjectIdResolver boolean canUseFor(com.fasterxml.jackson.annotation.ObjectIdResolver) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.JsonFormat.Feature ADJUST_DATES_TO_CONTEXT_TIME_ZONE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.JsonInclude.Include ALWAYS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.JsonInclude.Include NON_ABSENT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.JsonFormat.Value com.fasterxml.jackson.annotation.JsonFormat.Value withLocale(java.util.Locale)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.JsonFormat.Features com.fasterxml.jackson.annotation.JsonFormat.Features empty()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.PropertyAccessor CREATOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.JsonIgnoreProperties.Value com.fasterxml.jackson.annotation.JsonIgnoreProperties.Value withIgnored(java.lang.String...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.JsonInclude.Include NON_DEFAULT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.JsonTypeInfo.Id CLASS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.PropertyAccessor IS_GETTER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.JsonInclude.Value java.lang.Object readResolve()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.JsonAutoDetect.Visibility DEFAULT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.JsonIgnoreProperties.Value com.fasterxml.jackson.annotation.JsonIgnoreProperties.Value withIgnored(java.util.Set&lt;java.lang.String&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.PropertyAccessor NONE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.JsonProperty.Access READ_ONLY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.JsonIgnoreProperties.Value com.fasterxml.jackson.annotation.JsonIgnoreProperties.Value withIgnoreUnknown()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.ObjectIdGenerator.IdKey key'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.JsonCreator.Mode PROPERTIES'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.ObjectIdGenerators.UUIDGenerator com.fasterxml.jackson.annotation.ObjectIdGenerator&lt;java.util.UUID&gt; newForSerialization(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.OptBoolean com.fasterxml.jackson.annotation.OptBoolean fromBoolean(java.lang.Boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.JsonInclude.Value Value(com.fasterxml.jackson.annotation.JsonInclude) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.JsonFormat.Shape NUMBER_FLOAT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.JsonProperty USE_DEFAULT_NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.JsonIgnoreProperties.Value com.fasterxml.jackson.annotation.JsonIgnoreProperties.Value construct(java.util.Set&lt;java.lang.String&gt;, boolean, boolean, boolean, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.JsonFormat.Value com.fasterxml.jackson.annotation.JsonFormat.Value withShape(com.fasterxml.jackson.annotation.JsonFormat.Shape)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.JsonFormat.Features com.fasterxml.jackson.annotation.JsonFormat.Features construct(com.fasterxml.jackson.annotation.JsonFormat.Feature[], com.fasterxml.jackson.annotation.JsonFormat.Feature[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.JsonInclude.Include USE_DEFAULTS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.JsonInclude.Value java.lang.Class&lt;com.fasterxml.jackson.annotation.JsonInclude&gt; valueFor()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.JsonFormat.Value com.fasterxml.jackson.annotation.JsonFormat.Value withTimeZone(java.util.TimeZone)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.ObjectIdGenerators.IntSequenceGenerator boolean canUseFor(com.fasterxml.jackson.annotation.ObjectIdGenerator) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.ObjectIdGenerators.StringIdGenerator com.fasterxml.jackson.annotation.ObjectIdGenerator&lt;java.lang.String&gt; newForSerialization(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.JsonFormat.Features com.fasterxml.jackson.annotation.JsonFormat.Features without(com.fasterxml.jackson.annotation.JsonFormat.Feature...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.JsonFormat.Features com.fasterxml.jackson.annotation.JsonFormat.Features with(com.fasterxml.jackson.annotation.JsonFormat.Feature...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.ObjectIdGenerators.StringIdGenerator boolean canUseFor(com.fasterxml.jackson.annotation.ObjectIdGenerator&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.JsonTypeInfo.As EXTERNAL_PROPERTY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.ObjectIdGenerator.IdKey IdKey(java.lang.Class&lt;?&gt;, java.lang.Class&lt;?&gt;, java.lang.Object) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.JsonInclude.Value com.fasterxml.jackson.annotation.JsonInclude.Include getContentInclusion()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.ObjectIdGenerator.IdKey type'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.JsonInclude.Value com.fasterxml.jackson.annotation.JsonInclude.Value withOverrides(com.fasterxml.jackson.annotation.JsonInclude.Value)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.JsonProperty.Access AUTO'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.ObjectIdGenerator com.fasterxml.jackson.annotation.ObjectIdGenerator&lt;T&gt; forScope(java.lang.Class&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.JsonAutoDetect.Visibility PUBLIC_ONLY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.JsonFormat.Value com.fasterxml.jackson.annotation.JsonFormat.Shape getShape()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.JsonFormat.Shape ANY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.JsonFormat.Value Value(com.fasterxml.jackson.annotation.JsonFormat) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.JsonFormat.Features com.fasterxml.jackson.annotation.JsonFormat.Features construct(com.fasterxml.jackson.annotation.JsonFormat.Feature[], com.fasterxml.jackson.annotation.JsonFormat.Feature[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.JsonIgnoreProperties.Value com.fasterxml.jackson.annotation.JsonIgnoreProperties.Value withoutMerge()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.JsonAutoDetect.Visibility NON_PRIVATE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.JsonFormat.Value java.lang.Boolean getFeature(com.fasterxml.jackson.annotation.JsonFormat.Feature) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.JsonIgnoreProperties.Value com.fasterxml.jackson.annotation.JsonIgnoreProperties.Value withoutIgnoreUnknown()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.JsonFormat.Shape STRING'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.JsonFormat.Features com.fasterxml.jackson.annotation.JsonFormat.Features construct(com.fasterxml.jackson.annotation.JsonFormat.Feature[], com.fasterxml.jackson.annotation.JsonFormat.Feature[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.ObjectIdGenerators.IntSequenceGenerator com.fasterxml.jackson.annotation.ObjectIdGenerator&lt;java.lang.Integer&gt; forScope(java.lang.Class&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.JsonFormat.Value java.lang.Class&lt;com.fasterxml.jackson.annotation.JsonFormat&gt; valueFor()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.JsonFormat.Shape NUMBER_INT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.JsonCreator.Mode DISABLED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.JsonInclude.Include NON_NULL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.ObjectIdGenerator boolean canUseFor(com.fasterxml.jackson.annotation.ObjectIdGenerator&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.JsonIgnoreProperties.Value com.fasterxml.jackson.annotation.JsonIgnoreProperties.Value withMerge()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.JsonIgnoreProperties.Value com.fasterxml.jackson.annotation.JsonIgnoreProperties.Value mergeAll(com.fasterxml.jackson.annotation.JsonIgnoreProperties.Value...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.JsonFormat.Value com.fasterxml.jackson.annotation.JsonFormat.Value withFeature(com.fasterxml.jackson.annotation.JsonFormat.Feature)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.JsonFormat.Shape NUMBER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.ObjectIdGenerator.IdKey IdKey(java.lang.Class&lt;?&gt;, java.lang.Class&lt;?&gt;, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.JsonAutoDetect.Visibility PROTECTED_AND_PUBLIC'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.JsonTypeInfo.As EXISTING_PROPERTY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.JsonFormat.Value com.fasterxml.jackson.annotation.JsonFormat.Value withOverrides(com.fasterxml.jackson.annotation.JsonFormat.Value)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.JsonFormat.Value com.fasterxml.jackson.annotation.JsonFormat.Value withoutFeature(com.fasterxml.jackson.annotation.JsonFormat.Feature)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.ObjectIdResolver com.fasterxml.jackson.annotation.ObjectIdResolver newForDeserialization(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.JsonFormat.Feature ACCEPT_CASE_INSENSITIVE_PROPERTIES'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.JsonFormat.Feature WRITE_DATES_WITH_ZONE_ID'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.JsonFormat.Value com.fasterxml.jackson.annotation.JsonFormat.Value forPattern(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.JsonInclude.Value com.fasterxml.jackson.annotation.JsonInclude.Value withContentInclusion(com.fasterxml.jackson.annotation.JsonInclude.Include)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.JsonTypeInfo.As WRAPPER_ARRAY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.JsonTypeInfo.Id NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.JsonAutoDetect.Visibility NONE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.JsonIgnoreProperties.Value com.fasterxml.jackson.annotation.JsonIgnoreProperties.Value withoutAllowGetters()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.JsonFormat.Features java.lang.Boolean get(com.fasterxml.jackson.annotation.JsonFormat.Feature) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.JsonIgnoreProperties.Value com.fasterxml.jackson.annotation.JsonIgnoreProperties.Value withoutIgnored()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.JsonFormat.Value com.fasterxml.jackson.annotation.JsonFormat.Features getFeatures()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.JsonFormat.Value com.fasterxml.jackson.annotation.JsonFormat.Value mergeAll(com.fasterxml.jackson.annotation.JsonFormat.Value...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.JsonInclude.Value com.fasterxml.jackson.annotation.JsonInclude.Value mergeAll(com.fasterxml.jackson.annotation.JsonInclude.Value...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.JsonFormat.Value com.fasterxml.jackson.annotation.JsonFormat.Value empty()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.JsonFormat.Shape ARRAY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.PropertyAccessor ALL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.JsonTypeInfo.Id NONE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.JacksonAnnotationValue java.lang.Class&lt;A&gt; valueFor()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.JsonTypeInfo.Id CUSTOM'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.PropertyAccessor GETTER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.JsonFormat.Features com.fasterxml.jackson.annotation.JsonFormat.Features construct(com.fasterxml.jackson.annotation.JsonFormat)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.JsonIgnoreProperties.Value EMPTY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.JsonInclude.Value _valueInclusion'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.JsonIgnoreProperties.Value java.lang.Class&lt;com.fasterxml.jackson.annotation.JsonIgnoreProperties&gt; valueFor()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.ObjectIdGenerators.StringIdGenerator com.fasterxml.jackson.annotation.ObjectIdGenerator&lt;java.lang.String&gt; forScope(java.lang.Class&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.JsonInclude.Value EMPTY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.ObjectIdGenerators.IntSequenceGenerator com.fasterxml.jackson.annotation.ObjectIdGenerator&lt;java.lang.Integer&gt; newForSerialization(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.OptBoolean DEFAULT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.OptBoolean TRUE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.JsonFormat DEFAULT_LOCALE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.JsonInclude.Value com.fasterxml.jackson.annotation.JsonInclude.Value construct(com.fasterxml.jackson.annotation.JsonInclude.Include, com.fasterxml.jackson.annotation.JsonInclude.Include)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.JsonInclude.Value com.fasterxml.jackson.annotation.JsonInclude.Value withValueInclusion(com.fasterxml.jackson.annotation.JsonInclude.Include)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.JsonFormat.Value com.fasterxml.jackson.annotation.JsonFormat.Value withPattern(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.JsonIgnoreProperties.Value com.fasterxml.jackson.annotation.JsonIgnoreProperties.Value forIgnoredProperties(java.util.Set&lt;java.lang.String&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.JsonIgnoreProperties.Value com.fasterxml.jackson.annotation.JsonIgnoreProperties.Value withoutAllowSetters()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.JsonFormat DEFAULT_TIMEZONE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.ObjectIdGenerators.UUIDGenerator boolean canUseFor(com.fasterxml.jackson.annotation.ObjectIdGenerator&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.JsonFormat.Feature WRITE_DATE_TIMESTAMPS_AS_NANOSECONDS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.ObjectIdGenerators.PropertyGenerator boolean canUseFor(com.fasterxml.jackson.annotation.ObjectIdGenerator) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.JsonFormat.Features com.fasterxml.jackson.annotation.JsonFormat.Features withOverrides(com.fasterxml.jackson.annotation.JsonFormat.Features)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.ObjectIdGenerators.UUIDGenerator com.fasterxml.jackson.annotation.ObjectIdGenerator&lt;java.util.UUID&gt; forScope(java.lang.Class&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.JsonCreator.Mode DEFAULT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.JsonCreator.Mode DELEGATING'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.JsonIgnoreProperties.Value com.fasterxml.jackson.annotation.JsonIgnoreProperties.Value forIgnoredProperties(java.lang.String...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.JsonFormat.Feature ACCEPT_SINGLE_VALUE_AS_ARRAY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.JsonFormat.Feature WRITE_SINGLE_ELEM_ARRAYS_UNWRAPPED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.JsonFormat.Shape NATURAL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.JsonIgnoreProperties.Value java.lang.Object readResolve()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.JsonFormat.Value com.fasterxml.jackson.annotation.JsonFormat.Value forShape(com.fasterxml.jackson.annotation.JsonFormat.Shape)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.JsonIgnoreProperties.Value com.fasterxml.jackson.annotation.JsonIgnoreProperties.Value forIgnoreUnknown(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.JsonIgnoreProperties.Value com.fasterxml.jackson.annotation.JsonIgnoreProperties.Value withAllowGetters()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.JsonProperty.Access WRITE_ONLY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.ObjectIdGenerator com.fasterxml.jackson.annotation.ObjectIdGenerator&lt;T&gt; newForSerialization(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.JsonAutoDetect.Visibility ANY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.JsonFormat.Feature WRITE_SORTED_MAP_ENTRIES'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.JsonFormat.Shape SCALAR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.JsonIgnoreProperties.Value com.fasterxml.jackson.annotation.JsonIgnoreProperties.Value empty()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.JsonInclude.Value com.fasterxml.jackson.annotation.JsonInclude.Value empty()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.JsonInclude.Value _contentInclusion'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.JsonFormat.Features com.fasterxml.jackson.annotation.JsonFormat.Features with(com.fasterxml.jackson.annotation.JsonFormat.Feature...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.PropertyAccessor FIELD'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.ObjectIdResolver boolean canUseFor(com.fasterxml.jackson.annotation.ObjectIdResolver) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.JsonTypeInfo.As PROPERTY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.JsonFormat.Shape BOOLEAN'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.JsonIgnoreProperties.Value com.fasterxml.jackson.annotation.JsonIgnoreProperties.Value forIgnoredProperties(java.lang.String...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.JsonIgnoreProperties.Value com.fasterxml.jackson.annotation.JsonIgnoreProperties.Value withOverrides(com.fasterxml.jackson.annotation.JsonIgnoreProperties.Value)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.JsonInclude.Value com.fasterxml.jackson.annotation.JsonInclude.Include getValueInclusion()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.JsonTypeInfo.As WRAPPER_OBJECT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.JsonFormat.Features com.fasterxml.jackson.annotation.JsonFormat.Features without(com.fasterxml.jackson.annotation.JsonFormat.Feature...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.JsonInclude.Include NON_EMPTY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.annotation.JsonTypeInfo.Id MINIMAL_CLASS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

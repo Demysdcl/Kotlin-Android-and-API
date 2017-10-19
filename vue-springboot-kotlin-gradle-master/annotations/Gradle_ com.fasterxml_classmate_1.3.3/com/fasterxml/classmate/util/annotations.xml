@@ -1,0 +1,47 @@
+<root>
+    <item name='com.fasterxml.classmate.util.ResolvedTypeCache void addForTest(com.fasterxml.classmate.ResolvedType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.classmate.util.ResolvedTypeCache com.fasterxml.classmate.util.ResolvedTypeCache.Key key(java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.classmate.util.ResolvedTypeCache com.fasterxml.classmate.util.ResolvedTypeCache.Key key(java.lang.Class&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.classmate.util.MethodKey MethodKey(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.classmate.util.ResolvedTypeCache.Key Key(java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.classmate.util.ResolvedTypeCache.Key Key(java.lang.Class&lt;?&gt;, com.fasterxml.classmate.ResolvedType[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.classmate.util.ResolvedTypeCache _map'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.classmate.util.ClassStack com.fasterxml.classmate.util.ClassStack child(java.lang.Class&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.classmate.util.ClassKey int compareTo(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.classmate.util.ClassKey ClassKey(java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.classmate.util.MethodKey MethodKey(java.lang.String, java.lang.Class&lt;?&gt;[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.classmate.util.ResolvedTypeCache com.fasterxml.classmate.ResolvedType find(com.fasterxml.classmate.util.ResolvedTypeCache.Key) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.classmate.util.ResolvedTypeCache void put(com.fasterxml.classmate.util.ResolvedTypeCache.Key, com.fasterxml.classmate.ResolvedType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.classmate.util.ClassKey int compareTo(com.fasterxml.classmate.util.ClassKey) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.classmate.util.MethodKey MethodKey(java.lang.String, java.lang.Class&lt;?&gt;[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

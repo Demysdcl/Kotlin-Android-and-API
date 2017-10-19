@@ -1,0 +1,67 @@
+import com.moowork.gradle.node.task.NodeTask
+
+buildscript {
+	ext {
+		kotlinVersion = '1.0.6'
+		springBootVersion = '1.5.1.RELEASE'
+	}
+	repositories {
+		mavenCentral()
+		jcenter()
+	}
+	dependencies {
+		classpath("org.springframework.boot:spring-boot-gradle-plugin:${springBootVersion}")
+		classpath("org.jetbrains.kotlin:kotlin-gradle-plugin:${kotlinVersion}")
+		classpath("org.jetbrains.kotlin:kotlin-allopen:${kotlinVersion}")
+		classpath 'com.moowork.gradle:gradle-node-plugin:0.12'
+	}
+}
+
+apply plugin: 'kotlin'
+apply plugin: 'kotlin-spring'
+apply plugin: 'org.springframework.boot'
+apply plugin: 'war'
+apply plugin: "com.moowork.node"
+
+node {
+	version = '5.8.0'
+	npmVersion = '3.8.0'
+	download = true
+}
+
+war {
+	baseName = 'vue-test-project'
+	version = '1.0.0'
+}
+
+repositories {
+	mavenCentral()
+}
+
+sourceCompatibility = 1.8
+targetCompatibility = 1.8
+
+dependencies {
+	compile('org.springframework.boot:spring-boot-starter')
+	compile group: 'org.springframework.boot', name: 'spring-boot-starter-web', version: springBootVersion
+	compile("org.jetbrains.kotlin:kotlin-stdlib:${kotlinVersion}")
+	compile("org.jetbrains.kotlin:kotlin-reflect:${kotlinVersion}")
+	testCompile('org.springframework.boot:spring-boot-starter-test')
+}
+
+task webpack(type: NodeTask, dependsOn: 'npmInstall') {
+	def osName = System.getProperty("os.name").toLowerCase();
+	if (osName.contains("windows")) {
+		script = project.file('node_modules/webpack/bin/webpack.js')
+	} else {
+		script = project.file('node_modules/.bin/webpack')
+	}
+}
+
+processResources {
+	dependsOn webpack
+}
+
+clean {
+	delete 'node_modules', 'src/main/webapp/dist'
+}

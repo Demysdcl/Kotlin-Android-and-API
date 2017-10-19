@@ -1,0 +1,29 @@
+<root>
+    <item name='com.fasterxml.jackson.databind.annotation.JsonSerialize.Inclusion DEFAULT_INCLUSION'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.annotation.JsonSerialize.Inclusion NON_DEFAULT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.annotation.JsonSerialize.Inclusion NON_NULL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.annotation.JsonSerialize.Typing STATIC'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.annotation.JsonPOJOBuilder.Value Value(com.fasterxml.jackson.databind.annotation.JsonPOJOBuilder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.annotation.JsonSerialize.Inclusion NON_EMPTY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.annotation.JsonSerialize.Inclusion ALWAYS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.annotation.JsonSerialize.Typing DYNAMIC'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.fasterxml.jackson.databind.annotation.JsonSerialize.Typing DEFAULT_TYPING'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

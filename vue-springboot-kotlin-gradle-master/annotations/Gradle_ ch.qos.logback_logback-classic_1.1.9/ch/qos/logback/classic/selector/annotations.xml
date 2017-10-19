@@ -1,0 +1,11 @@
+<root>
+    <item name='ch.qos.logback.classic.selector.ContextJNDISelector java.util.List&lt;java.lang.String&gt; getContextNames()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='ch.qos.logback.classic.selector.ContextSelector java.util.List&lt;java.lang.String&gt; getContextNames()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+</root>
